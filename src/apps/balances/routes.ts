@@ -7,21 +7,20 @@ import {
   Multicall,
 } from "ethereum-multicall";
 import Erc20Token from "../../abis/ERC20.json";
-import { RequestTokens } from "./types";
+import { CallsReturnContext, RequestTokens } from "./types";
+import { logger } from "../../logger";
 const web3 = new Web3(rpc.zkSync);
 const balances = new Hono();
 
 balances.post("/multiple-tokens", async (c) => {
   const body = (await c.req.json()) as unknown as RequestTokens;
-  console.log(body);
   if (!body || !body.tokens || !body.owner || body.tokens.length === 0) {
     return c.json({ status: 401, message: "The request payload is required" });
   }
+  logger.info(`request: ${JSON.stringify(body)}`);
   const tokens = body.tokens;
   let params: any[] = [];
-  let count = 0;
   for (const i of tokens) {
-    count++;
     const param = {
       reference: i,
       contractAddress: i,
@@ -46,7 +45,21 @@ balances.post("/multiple-tokens", async (c) => {
   const results: ContractCallResults = await multicall.call(
     contractCallContext
   );
-  return c.json({ content: results });
+
+  let responseMultipleCall: CallsReturnContext[] = [];
+  const resultData = results?.results;
+  if (resultData) {
+    for (const key in resultData) {
+      const data = { token: key, ...resultData[key].callsReturnContext[0] } as CallsReturnContext;
+      console.log("🚀 ~ file: routes.ts:49 ~ balances.post ~ results:", resultData[key].callsReturnContext[0])
+      responseMultipleCall.push(data)
+    }
+  }
+  else {
+    logger.warn("empty resultData");
+  }
+  logger.info(`request: ${JSON.stringify(responseMultipleCall)}`);
+  return c.json(responseMultipleCall);
 });
 
 export default balances;

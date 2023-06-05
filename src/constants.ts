@@ -5,3 +5,5 @@ export const rpc = {
 export const contracts = {
   multipleCall: "0x47898B2C52C957663aE9AB46922dCec150a2272c",
 };
+
+export const LOG_PATH = "logs/"
