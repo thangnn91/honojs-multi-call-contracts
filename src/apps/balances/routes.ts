@@ -1,14 +1,14 @@
 import { Hono } from "hono";
 import Web3 from "web3";
-import { contracts, rpc } from "../../constants";
+import { contracts, rpc } from "@libs/constants";
 import {
   ContractCallContext,
   ContractCallResults,
   Multicall,
 } from "ethereum-multicall";
-import Erc20Token from "../../abis/ERC20.json";
+import Erc20Token from "@abis/ERC20.json";
 import { CallsReturnContext, RequestTokens } from "./types";
-import { logger } from "../../logger";
+import { logger } from "@libs/logger";
 const web3 = new Web3(rpc.zkSync);
 const balances = new Hono();
 
