@@ -168,7 +168,7 @@ rewards.post("/agency-rewards", validator('json', (value, c) => {
     for (const i of addresses) {
         const param = {
             reference: i,
-            contractAddress: contracts.referral,
+            contractAddress: contracts.agency,
             abi: Agency.abi,
             calls: [
                 {

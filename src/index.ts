@@ -5,7 +5,7 @@ import * as dotenv from "dotenv";
 import rewards from "./apps/rewards/routes";
 dotenv.config({ path: process.cwd() + "/.env" });
 const app = new Hono();
-app.get("/", (c) => c.text("Hello Node.js!"));
+app.get("/", (c) => c.text("Welcome to Hono 🔥🔥🔥!"));
 app.route("/balances", balances);
 app.route("/rewards", rewards);
 serve({ fetch: app.fetch, port: +(process.env.PORT || 3000) }, (info) => {
