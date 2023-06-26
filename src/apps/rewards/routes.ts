@@ -17,7 +17,7 @@ import { userRewardValidation } from "./validation";
 const web3 = new Web3(rpc.zkSync);
 const rewards = new Hono();
 const ROUND_LENGTH = 50;
-rewards.post("/nft-rewards", async (c) => {
+rewards.post("/v1/nft-rewards", async (c) => {
     const body = (await c.req.json()) as unknown as RequestBotAddresses;
     if (!body || !body.bots || !body.bots.length) {
         return c.json({ status: 401, message: "The request payload is required" });
@@ -211,7 +211,7 @@ rewards.post("/agency-rewards", validator('json', (value, c) => {
     return c.json({ responseMultipleCall, errorData });
 })
 
-rewards.post("/v2/nft-rewards", async (c) => {
+rewards.post("/nft-rewards", async (c) => {
     const body = (await c.req.json()) as unknown as RequestBotAddresses;
     if (!body || !body.bots || !body.bots.length) {
         return c.json({ status: 401, message: "The request payload is required" });
