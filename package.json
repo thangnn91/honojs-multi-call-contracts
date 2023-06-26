@@ -12,9 +12,9 @@
     "@hono/node-server": "^1.0.1",
     "dotenv": "^16.1.4",
     "ethereum-multicall": "^2.17.0",
-    "ethers": "^6.5.1",
+    "ethers": "^5.0.15",
     "hono": "^3.2.2",
-    "web3": "^1.10.0",
+    "web3": "^4.0.1",
     "winston": "^3.9.0",
     "winston-daily-rotate-file": "^4.7.1",
     "zod": "^3.21.4"

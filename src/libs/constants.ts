@@ -1,12 +1,14 @@
 export const rpc = {
-  zkSync: "https://mainnet.era.zksync.io",
+  // zkSync: "https://mainnet.era.zksync.io",
+  zkSync: "https://rpc.ankr.com/zksync_era/2908c4d5e87d8f061b61fb521bacdf48b08c7bad97b594b7d7c4833a8c7f9ecb"
 };
 
 export const contracts = {
   multipleCall: "0x47898B2C52C957663aE9AB46922dCec150a2272c",
   nftReward: "0x1c927a23dd85fa1e0f50444c92cf76bdc8bbfaa8",
   referral: "0x51b7d02e5b308d9c648b3c6c800c9b996c171435",
-  agency: "0x9E970fC1433351EB618D5822143492951384E310"
+  agency: "0x9E970fC1433351EB618D5822143492951384E310",
+  tokenCredit: "0xacf75e6c016578255e22a2bb82896123e1c89a61"
 };
 export const welcomeHtml = `<style>
   body {

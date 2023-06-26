@@ -10,6 +10,7 @@ import {
 import NftReward from "@abis/NftRewardAbi.json";
 import Referral from "@abis/Referral.json";
 import Agency from "@abis/Agency.json";
+import Credit from "@abis/TokenCredit.json";
 import { logger } from "@libs/logger";
 import { CallsReturnContext, RequestBotAddresses } from "./types";
 import { userRewardValidation } from "./validation";
@@ -210,5 +211,62 @@ rewards.post("/agency-rewards", validator('json', (value, c) => {
     return c.json({ responseMultipleCall, errorData });
 })
 
+rewards.post("/v2/nft-rewards", async (c) => {
+    const body = (await c.req.json()) as unknown as RequestBotAddresses;
+    if (!body || !body.bots || !body.bots.length) {
+        return c.json({ status: 401, message: "The request payload is required" });
+    }
+    logger.info(`request: ${JSON.stringify(body)}`);
+    const bots = body.bots;
+    let params: any[] = [];
+    for (const i of bots) {
+        const param = {
+            reference: i,
+            contractAddress: contracts.nftReward,
+            abi: NftReward.abi,
+            calls: [
+                {
+                    reference: "tokensToClaim",
+                    methodName: "tokensToClaim",
+                    methodParameters: [i],
+                },
+            ],
+        };
+        params.push(param);
+    }
+    const multicall = new Multicall({
+        web3Instance: web3,
+        tryAggregate: true,
+        multicallCustomContractAddress: contracts.multipleCall,
+    });
+    const contractCallContext: ContractCallContext[] = params;
+
+    const results: ContractCallResults = await multicall.call(
+        contractCallContext
+    );
+
+    let responseMultipleCall: CallsReturnContext[] = [];
+    let errorData: string[] = [];
+    const resultData = results?.results;
+
+    if (resultData) {
+        for (const key in resultData) {
+            if (resultData[key].callsReturnContext[0].success) {
+                responseMultipleCall.push({
+                    address: key,
+                    pendingReward: Number(resultData[key].callsReturnContext[0].returnValues[0].hex)
+                });
+            }
+            else {
+                errorData.push(key);
+            }
+
+        }
+    }
+    else {
+        logger.warn("empty resultData");
+    }
+    return c.json({ responseMultipleCall, errorData });
+});
 
 export default rewards;
