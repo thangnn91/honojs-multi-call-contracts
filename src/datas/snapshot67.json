@@ -1,0 +1,5662 @@
+[
+  {
+    "address": "0x8B07159bB01792e9060F2456C561a48137bBd9C6",
+    "reward": 1090000000000000000,
+    "reward_decimal": 1090841113123670000
+  },
+  {
+    "address": "0xA581ED1dEB42E8496E5275468C79D250b91d6a75",
+    "reward": 3780000000000000000,
+    "reward_decimal": 3776293598886320000
+  },
+  {
+    "address": "0x6f5bdA1466494B528e7a8F92EB5c5e1464aEAea6",
+    "reward": 893000000000000000,
+    "reward_decimal": 892506365283007000
+  },
+  {
+    "address": "0x38E65F99159b69536d25fe5C74a70c25b8697f4e",
+    "reward": 516000000000000000000,
+    "reward_decimal": 515935121274104000000
+  },
+  {
+    "address": "0x85B215dA26Dc7B44EbD5abfa14af95Dbd4Ad356F",
+    "reward": 1.88e22,
+    "reward_decimal": 1.88426152090033e22
+  },
+  {
+    "address": "0x2cE6aE9D791bcC3A56ec28cfea748C575B2Ede79",
+    "reward": 126000000000000000000,
+    "reward_decimal": 126090324265966000000
+  },
+  {
+    "address": "0x4FfD0A59a26cB2Aa76D403215e4cC2845C053994",
+    "reward": 19800000000000000000,
+    "reward_decimal": 19833474784066800000
+  },
+  {
+    "address": "0x9824306Fc06bD54466279Dc99C05B6705a2Ac499",
+    "reward": 210000000000000000000,
+    "reward_decimal": 209575369674537000000
+  },
+  {
+    "address": "0x43079513eBD84AFb15BE79021C420Fe8055Bc635",
+    "reward": 73900000000000000000,
+    "reward_decimal": 73922087622999800000
+  },
+  {
+    "address": "0x434d51f182c0b162D798EdECF15eB537b04dfF6B",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x47ea9e812f39bc26F95Cbf1fc36230558492133d",
+    "reward": 892000000000000000,
+    "reward_decimal": 891514691543803000
+  },
+  {
+    "address": "0x1A36159c85E6682B08a47c8D2A6a6d622eec56ac",
+    "reward": 595000000000000000000,
+    "reward_decimal": 595004243522004000000
+  },
+  {
+    "address": "0x3A5b286709904BA08046752A32B8C41b220Ae065",
+    "reward": 1070000000000000000,
+    "reward_decimal": 1067040943382790000
+  },
+  {
+    "address": "0x374D5221a4367fe746cC6C92D333C6ce15386fCD",
+    "reward": 17900000000000000000,
+    "reward_decimal": 17906652708794700000
+  },
+  {
+    "address": "0x5c774E05cc10275BA79c84fCeF35ca59c4B6b504",
+    "reward": 174000000000000000,
+    "reward_decimal": 173542904360584000
+  },
+  {
+    "address": "0x94bE48668D35f1c8b1627b895dbf2b4970A5e1Aa",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x333C91876481F9e913367abC67eDe7B46985f7f7",
+    "reward": 5040000000000000000,
+    "reward_decimal": 5038694268892170000
+  },
+  {
+    "address": "0xC6cAaf025C30290843AC3A43F83A29AfE7e0f041",
+    "reward": 16800000000000000000,
+    "reward_decimal": 16817794943149400000
+  },
+  {
+    "address": "0xDC71cDcA17ebB9E5b969fa8530632c2A63Af951a",
+    "reward": 17900000000000000000,
+    "reward_decimal": 17877894170357800000
+  },
+  {
+    "address": "0x87B3B477F90946754521bf15A37a7c42BfB64B46",
+    "reward": 3250000000000000000,
+    "reward_decimal": 3245748148412530000
+  },
+  {
+    "address": "0xB512DdB203cb1b46D59D66E1F90f243F7B831D90",
+    "reward": 7630000000000000000,
+    "reward_decimal": 7627954401952090000
+  },
+  {
+    "address": "0x7D1179696E23C85465c9f13c473766d74b94eB06",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x7FD1Ee25E543a3Abf106308171294240FAeD7c41",
+    "reward": 17900000000000000,
+    "reward_decimal": 17850127305660100
+  },
+  {
+    "address": "0xe909aA35042504e9C93A0be5D955989eF0CC0b45",
+    "reward": 6150000000000000000,
+    "reward_decimal": 6148377183060700000
+  },
+  {
+    "address": "0xdD6Cb68A300d6b79e4E056946AA5479825ea9d74",
+    "reward": 636000000000000000,
+    "reward_decimal": 635662866829341000
+  },
+  {
+    "address": "0xd7ef2248526b10FB56Fb16E4b7Ab5E994Bdd5A2b",
+    "reward": 91200000000000000000,
+    "reward_decimal": 91208200489488000000
+  },
+  {
+    "address": "0xBff4d4f82e2Aa032a1Ef35f7e648503789113609",
+    "reward": 20300000000000000000,
+    "reward_decimal": 20344186759756500000
+  },
+  {
+    "address": "0x4Ba1Dba14C189EA06d546D53122bD37DF2282458",
+    "reward": 18000000000000000000,
+    "reward_decimal": 17986978281670100000
+  },
+  {
+    "address": "0xf70BeecCBc2BB42140c13f9b672BA9325CF38262",
+    "reward": 4870000000000000000,
+    "reward_decimal": 4871101406966800000
+  },
+  {
+    "address": "0x809285582391681035a6BAa90a8dA9d900F05b6f",
+    "reward": 5630000000000000000,
+    "reward_decimal": 5632706838674970000
+  },
+  {
+    "address": "0x6c6F4033e1D249ee710337cf7A5522a92F499428",
+    "reward": 1040000000000000000,
+    "reward_decimal": 1037290731206690000
+  },
+  {
+    "address": "0xc75eFe2e29472833A9015f3C8E1D1dAF91d4996c",
+    "reward": 1980000000000000000,
+    "reward_decimal": 1983347478406680000
+  },
+  {
+    "address": "0xdDd2e64AAD6c7F632589C3A2f0bD3502D8C45F6D",
+    "reward": 10900000000000000000,
+    "reward_decimal": 10869735855407800000
+  },
+  {
+    "address": "0x5f6688F66fB42284aF189880B73E673951ae511E",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x5593095740485D30cd2171Eb12a1F174A1Ccb085",
+    "reward": 4960000000000000000,
+    "reward_decimal": 4958368696016700000
+  },
+  {
+    "address": "0x09DB2dfe579B22b814df7200D8C416A3A7bB75c8",
+    "reward": 200000000000000000000,
+    "reward_decimal": 200431146125344000000
+  },
+  {
+    "address": "0x945E5e0178b902d02a76F8fCc47B1458c935DBc8",
+    "reward": 1080000000000000000,
+    "reward_decimal": 1080924375731640000
+  },
+  {
+    "address": "0xec7929DCbB91793596FDDed022307F1627FC9017",
+    "reward": 79100000000000000000,
+    "reward_decimal": 79079038985292000000
+  },
+  {
+    "address": "0xbb19C20ef6Ca7050Aa67C0A69BBAA59D6095a2E6",
+    "reward": 14400000000000000000,
+    "reward_decimal": 14412986125581300000
+  },
+  {
+    "address": "0x50e943bca9Fbb5F00A444dF651368c436c4Ab5AC",
+    "reward": 11200000000000000000,
+    "reward_decimal": 11190046473170400000
+  },
+  {
+    "address": "0x90D51493301E3adc90a6B2426D17bE6A5D2d44cC",
+    "reward": 6940000000000000000,
+    "reward_decimal": 6939732826944980000
+  },
+  {
+    "address": "0xDe6b2a06407575B98724818445178C1f5fD53361",
+    "reward": 1.75e21,
+    "reward_decimal": 1.75356675629587e21
+  },
+  {
+    "address": "0x512a3C8fB55C520F00DBE82133FA09dE1C8d7bF9",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0x6FaF50f70d1635666e30e504AD58207e72Bb6203",
+    "reward": 1960000000000000000,
+    "reward_decimal": 1956572287448190000
+  },
+  {
+    "address": "0x6CB1395e16ee31BE88ecaaF209DE0a689088F066",
+    "reward": 537000000000000000,
+    "reward_decimal": 537487166648210000
+  },
+  {
+    "address": "0x1f7ee5E93bD8c08E28A2b63a48a71A898846598b",
+    "reward": 1980000000000000,
+    "reward_decimal": 1983347478406680
+  },
+  {
+    "address": "0x6c23bd863fdBfdBe9c91a954863185a0F2AE4721",
+    "reward": 149000000000000000,
+    "reward_decimal": 148751060880501000
+  },
+  {
+    "address": "0x5b7522eeF0C5AE5DE232409628FA57B7d38C6586",
+    "reward": 1230000000000000000,
+    "reward_decimal": 1229675436612130000
+  },
+  {
+    "address": "0x0FD055f6851C66E8af883cb58d8bc60Fe25c6bB1",
+    "reward": 1240000000000000000,
+    "reward_decimal": 1236617152786560000
+  },
+  {
+    "address": "0x01670657332277883a85aE7ff41960a87974424A",
+    "reward": 1760000000000000000,
+    "reward_decimal": 1757245865868320000
+  },
+  {
+    "address": "0xD05710A0d788159651d9B6516baF9Fa9EF74f64c",
+    "reward": 1770000000000000000,
+    "reward_decimal": 1772120971956360000
+  },
+  {
+    "address": "0x74fC662b2ee24F5AB45eAF4a1860Bc8dCaaa7bd2",
+    "reward": 358000000000000000,
+    "reward_decimal": 357994219852406000
+  },
+  {
+    "address": "0x8EC758518C48F79Ad16C60c8dD56D7e8520f069A",
+    "reward": 3380000000000000000,
+    "reward_decimal": 3384582471901000000
+  },
+  {
+    "address": "0xEb748Dc715bF4521e64Fc8879f93E9B3c04D242E",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x0fCE5d938EF7EbD0cE0306406ebB40668014693a",
+    "reward": 3030000000000000000,
+    "reward_decimal": 3027579925787790000
+  },
+  {
+    "address": "0x92D3d9d48A12363Bf758f570D7324c5EC133336c",
+    "reward": 119000000000000000000,
+    "reward_decimal": 119000848704400000000
+  },
+  {
+    "address": "0xb4b627Abd3BdDCFcfbCc0554BbF6B43281919E2e",
+    "reward": 4020000000000000000,
+    "reward_decimal": 4021237012469540000
+  },
+  {
+    "address": "0x5aed22BC89153D591c61D61E2325617B779353DD",
+    "reward": 5350000000000000000,
+    "reward_decimal": 5352063170480430000
+  },
+  {
+    "address": "0xdC0206e4c247aC20180CEC1F85Da4022Da286C2d",
+    "reward": 2230000000000000000,
+    "reward_decimal": 2230770076337910000
+  },
+  {
+    "address": "0x0a90dCC54824e16805EB2BfB6f238C850b5bDd38",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x1584D2d4EDa25F6E39579e4F37FE8dc4f0DA3f7f",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0xD3a5A3B167fF2eab162E1E8a69B5CDbb9C68BA3E",
+    "reward": 32700000000000000,
+    "reward_decimal": 32725233393710200
+  },
+  {
+    "address": "0xC8D46eb7881975F9aE15216FeEBa2ff58E55803c",
+    "reward": 4960000000000000000,
+    "reward_decimal": 4958368696016700000
+  },
+  {
+    "address": "0xEFe03B7ea8C92199b47A5A7f9295706D3f0ec37e",
+    "reward": 560000000000000000,
+    "reward_decimal": 560295662649888000
+  },
+  {
+    "address": "0x5Ce5C394A0f8A4Be282C8659E405524A089a9843",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x00e5F7D58091b8F4bd4928dD5d44c2484d49FaE8",
+    "reward": 5400000000000000000,
+    "reward_decimal": 5397680162483780000
+  },
+  {
+    "address": "0x36d54D09632317Ceb96a95d4D0600301eEa2f723",
+    "reward": 1790000000000000000,
+    "reward_decimal": 1794929467958040000
+  },
+  {
+    "address": "0x2046bB0195b8fE6089Fbf98B972675896666C3c0",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0x5272F4e9417Dee7D3a6FA8EBf5902F7c46be0238",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x22626488EAd966850b923F0C92D1f3257A9961E1",
+    "reward": 910000000000000000,
+    "reward_decimal": 910356492588667000
+  },
+  {
+    "address": "0x202CCe3aB38AB1121d8459eF6d7551a6697cC0e4",
+    "reward": 1070000000000000000,
+    "reward_decimal": 1074974333296420000
+  },
+  {
+    "address": "0xAC43c299403E7c8FE0f8413DcB507bEF4d8EF7d6",
+    "reward": 1070000000000000000,
+    "reward_decimal": 1074974333296420000
+  },
+  {
+    "address": "0xbCf9A110D84BF59c1791Bd389c4DbC4158C41fE7",
+    "reward": 914000000000000000,
+    "reward_decimal": 914323187545480000
+  },
+  {
+    "address": "0xF440DC2dF12868376A346f30B4e0A7b2c562E31F",
+    "reward": 16000000000000000000,
+    "reward_decimal": 16003382884828600000
+  },
+  {
+    "address": "0x0D5D60108479F4251a200a25b636aCb005261F9C",
+    "reward": 1.54e22,
+    "reward_decimal": 1.54115966225904e22
+  },
+  {
+    "address": "0x4620f9F45db315c866a1b2436C8652943B258C9E",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0x0979bfdc57765d03c24f1101e4283513037cFA8B",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0xdfD611042090365FDa19Afa13CcA6E5760d93A03",
+    "reward": 271000000000000000,
+    "reward_decimal": 270726930802511000
+  },
+  {
+    "address": "0x05bc72A9A3651fF4f572Ca62211230dBDF09165E",
+    "reward": 136000000000000000,
+    "reward_decimal": 135859302270857000
+  },
+  {
+    "address": "0x15Cb68684D1a25F7Eab2AcA4074B8657040119b7",
+    "reward": 5390000000000000000,
+    "reward_decimal": 5386771751352550000
+  },
+  {
+    "address": "0xAAeE3b24686958A9f9c599fFD2d4ABEa5B17FFfe",
+    "reward": 1980000000000000,
+    "reward_decimal": 1983347478406680
+  },
+  {
+    "address": "0xc6327E82c9Aae15eE912D0f4c01Bf12E2e7069F6",
+    "reward": 2640000000000000000,
+    "reward_decimal": 2642810514976900000
+  },
+  {
+    "address": "0xAf29Ae56CEeb4581836f79E0ca9902ba037f2F46",
+    "reward": 9920000000000,
+    "reward_decimal": 9916737392033.33
+  },
+  {
+    "address": "0xee9c0E014633638d0DaC765952c087EC9330325e",
+    "reward": 1540000000000000000,
+    "reward_decimal": 1542052664461190000
+  },
+  {
+    "address": "0x9AE53B7bb6Ec1aC09449d454ab40eFf409B45f6F",
+    "reward": 12500000000000000000,
+    "reward_decimal": 12466082657090300000
+  },
+  {
+    "address": "0xA408d164a45C608b9B3BF310339d33Be96849c2b",
+    "reward": 1060000000000000000,
+    "reward_decimal": 1057124205990750000
+  },
+  {
+    "address": "0x29453Cd65d5D2602Df57F5a7b29c546cD4ce1247",
+    "reward": 14600000000000000000,
+    "reward_decimal": 14619254263335700000
+  },
+  {
+    "address": "0xf9fEC610A98a180A67BB77c04bA49996e0c03F33",
+    "reward": 2530000000000000000,
+    "reward_decimal": 2533726403664530000
+  },
+  {
+    "address": "0x1D32457e90F53842E3339e1Fc5B8f35508Adbf7f",
+    "reward": 1090000000000000,
+    "reward_decimal": 1090841113123670
+  },
+  {
+    "address": "0x04982a3e06C9a6ccE9375B8C6c592E9B8b5D74C4",
+    "reward": 914000000000000000,
+    "reward_decimal": 914323187545480000
+  },
+  {
+    "address": "0x2B185C762F6Fb49a07116EC06B238B58Fe2BeC53",
+    "reward": 519000000000000000,
+    "reward_decimal": 518645365603347000
+  },
+  {
+    "address": "0x2D23FD586a983D56d0C18E75612077b94096C98b",
+    "reward": 8520000000000000,
+    "reward_decimal": 8515419703163980
+  },
+  {
+    "address": "0x6679e2a532cC33324FCf1a1A9bD13f9A5713E5Ec",
+    "reward": 1800000000000000000,
+    "reward_decimal": 1797904489175650000
+  },
+  {
+    "address": "0xE4EbD4748F02479D7eEa89105fCb7F88AD8AdF85",
+    "reward": 28200000000000000,
+    "reward_decimal": 28193852636807500
+  },
+  {
+    "address": "0x56025C57C2621b08F5cf7F0d3ACAb5c2a818e5FA",
+    "reward": 4860000000000000000,
+    "reward_decimal": 4863168017053180000
+  },
+  {
+    "address": "0x88f96204a47c3bd173B672A49f010149c4Bd802C",
+    "reward": 2520000000000000000,
+    "reward_decimal": 2517859623837280000
+  },
+  {
+    "address": "0x00058c11F38f77daB36bbeb4e0e0261029f14A57",
+    "reward": 31700000000000000,
+    "reward_decimal": 31733559654506900
+  },
+  {
+    "address": "0xAE5d855c5FD8ac50ab428f41999aE63B65671D5e",
+    "reward": 1390000000000000000,
+    "reward_decimal": 1388343234884680000
+  },
+  {
+    "address": "0x2D30a721eA478c3D7Fb766d125fefF781A2CB855",
+    "reward": 99500000000000000000,
+    "reward_decimal": 99522393118968800000
+  },
+  {
+    "address": "0x861fC839CDae8d96BAae18b264bc72FcA60221EF",
+    "reward": 173000000000000000000,
+    "reward_decimal": 173047067490982000000
+  },
+  {
+    "address": "0x78e34FeaE8fFBBD51d6ef4949E99aebfC5ef5044",
+    "reward": 35700000000000000000,
+    "reward_decimal": 35675462767840100000
+  },
+  {
+    "address": "0xA0F8330565856bc8D7336663EB0f7f74504927fA",
+    "reward": 1980000000000000,
+    "reward_decimal": 1983347478406680
+  },
+  {
+    "address": "0xcE8B2dcc86f4b7Cc3aCaD681F9eb31e61A79AbE9",
+    "reward": 171000000000000000,
+    "reward_decimal": 171322586241821000
+  },
+  {
+    "address": "0xe2D1475f55c74a52126743c9ef842163a0Ad0a60",
+    "reward": 992000000000000,
+    "reward_decimal": 991673739203333
+  },
+  {
+    "address": "0x5F1d358C363cEE866e3c5f6d27ba36d2b42C00b8",
+    "reward": 1980000000000000000,
+    "reward_decimal": 1983347478406680000
+  },
+  {
+    "address": "0x8D2C0cD6A755715f897975E53687530333Cb605e",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0xF2E1c36F85BC2076F06d26E155361aA60CB1C73A",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x18d1fa3E3f7fd6E1cec07Ad0c5cEfd710c5C5D44",
+    "reward": 3450000000000000000,
+    "reward_decimal": 3451024612427620000
+  },
+  {
+    "address": "0xC51f958A3A7c1636Db54854d6cbfb23e68d194D7",
+    "reward": 3620000000000000000,
+    "reward_decimal": 3619609148092190000
+  },
+  {
+    "address": "0x9d55044B32C69d6586c556B57211d2fa5BD26D07",
+    "reward": 2980000000000000,
+    "reward_decimal": 2975021217610020
+  },
+  {
+    "address": "0x53086ad005e0D9f0b00A6A87ffdEb9032f3ead9c",
+    "reward": 1980000000000000,
+    "reward_decimal": 1983347478406680
+  },
+  {
+    "address": "0x444c491Dd142bcA274d8FD8Ca050731C4357a4Bb",
+    "reward": 2120000000000000000,
+    "reward_decimal": 2115240085720720000
+  },
+  {
+    "address": "0xc42Db52251f3099A3A99ee7719eF3543FdC8064A",
+    "reward": 9920000000000,
+    "reward_decimal": 9916737392033.33
+  },
+  {
+    "address": "0x94Ca18f97D7FA35002cdA3F98E8E649bd40c0094",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0x59A55352f7aaD36ebf56212DF63F5919Ecd0A744",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0xedc75bDCA3ed9B353c2ef7151EC51790D81fa73E",
+    "reward": 119000000000000,
+    "reward_decimal": 119000848704400
+  },
+  {
+    "address": "0xA4F5806C54fE485435a91f701A42B10B464ffED9",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0xd742961723C4d2E09c50d21a76d9ed35e4884574",
+    "reward": 1980000000000000000,
+    "reward_decimal": 1983347478406680000
+  },
+  {
+    "address": "0x22EEb166310EE35695dD856dF8b4F7AE489df933",
+    "reward": 986000000000000000,
+    "reward_decimal": 985723696768112000
+  },
+  {
+    "address": "0xa3d996363946F813c5C18820a625Fe1F6eFF51Bc",
+    "reward": 5410000000000000000,
+    "reward_decimal": 5411563594832630000
+  },
+  {
+    "address": "0xd8b2B7F42873F111348c835563e26865474337db",
+    "reward": 9520000000000000000,
+    "reward_decimal": 9520067896352070000
+  },
+  {
+    "address": "0x05a341c387fa56B60f32aC86d09D631C04f3dF51",
+    "reward": 14900000000000000,
+    "reward_decimal": 14875106088050100
+  },
+  {
+    "address": "0x6CF75E61B98DF3fAF0c53f5FC78DAC9010785442",
+    "reward": 81200000000000000,
+    "reward_decimal": 81151185102446700
+  },
+  {
+    "address": "0x312Fca572bbEB78BdC407059e62Fff34B413ccAa",
+    "reward": 198000000000000,
+    "reward_decimal": 198334747840668
+  },
+  {
+    "address": "0xd75e1849c113500Db383255C9E7034A62071679F",
+    "reward": 3650000000000000000,
+    "reward_decimal": 3649359360268290000
+  },
+  {
+    "address": "0xD8Ef5b39194149D25e28a374AD88dd4EDd585C3C",
+    "reward": 8910000000000000000,
+    "reward_decimal": 8908205199263610000
+  },
+  {
+    "address": "0xfCc0e5b5e8001a42ea948728fF38801559866122",
+    "reward": 13600000000000000,
+    "reward_decimal": 13635513914045900
+  },
+  {
+    "address": "0xCFC26c77EbC8CF57f1C66499816aF8D6D64D7EAd",
+    "reward": 1330000000000000000,
+    "reward_decimal": 1330826158010880000
+  },
+  {
+    "address": "0xe3d6C28a14f14Ef166dB658D8767cDf80b0283b3",
+    "reward": 8930000000000000000,
+    "reward_decimal": 8925063652830060000
+  },
+  {
+    "address": "0xB67E333f329253c88F40f687aA83939265FDc97A",
+    "reward": 227000000000000000,
+    "reward_decimal": 226597449407963000
+  },
+  {
+    "address": "0xE242C277c8d78930Aa29B569AA2d7D6A45702683",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0xd5c21e018288B6d504cb6094B1D888210F9a262B",
+    "reward": 391000000000000000,
+    "reward_decimal": 390719453246116000
+  },
+  {
+    "address": "0xE469B65F6Db9f6fF5816eaf2b613F9Cb00274A0e",
+    "reward": 3070000000000000000,
+    "reward_decimal": 3074188591530350000
+  },
+  {
+    "address": "0x361D5110D5CE713C908cB530E923c7c542f7EE09",
+    "reward": 899000000000000000,
+    "reward_decimal": 899448081457429000
+  },
+  {
+    "address": "0x2270677d5a555432Ce55558b4F910e69492b11d7",
+    "reward": 29800000000000000000,
+    "reward_decimal": 29750212176100200000
+  },
+  {
+    "address": "0x4B25602812960D9F32Ed29afa635144cAB835bae",
+    "reward": 83900000000000000000,
+    "reward_decimal": 83922373527561100000
+  },
+  {
+    "address": "0x3841B297186E2140700A8364FefAcb7b150E4CCF",
+    "reward": 198000000000000,
+    "reward_decimal": 198334747840668
+  },
+  {
+    "address": "0x0cA6CAdb6a8cA4199788b9a060C3285Fe7B897Fd",
+    "reward": 1.98e21,
+    "reward_decimal": 1.98334747840668e21
+  },
+  {
+    "address": "0xc10eDb9fC1D8764A8e816Dc9824D08a25F10cFCA",
+    "reward": 2960000000000000000,
+    "reward_decimal": 2964112806478780000
+  },
+  {
+    "address": "0x8B21744B161685A01e9CD1364A067C87Ac7E0d3a",
+    "reward": 52600000000000000000,
+    "reward_decimal": 52605316843519600000
+  },
+  {
+    "address": "0x462870A83c0649ED722F8D43D40aF97b46DC2354",
+    "reward": 139000000000000000000,
+    "reward_decimal": 139218101225539000000
+  },
+  {
+    "address": "0x23807719299c9bA3C6d60d4097146259c7A16da3",
+    "reward": 99200000000000000000,
+    "reward_decimal": 99167373920333300000
+  },
+  {
+    "address": "0xa61301A5199671aB6C5d2E21c718fdDBDAB778E3",
+    "reward": 191000000000000000000,
+    "reward_decimal": 190746460388284000000
+  },
+  {
+    "address": "0xC0b40407C72C73230bEfA503cE38dab6D1f56267",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0x034e2C0b704D19C9809B2F2442f09Ac7bc4AC649",
+    "reward": 1000000000000000000,
+    "reward_decimal": 1001590476595370000
+  },
+  {
+    "address": "0xfD72b37BeAD4F7fA6f4Ef7B6aDADFaE97E21aBab",
+    "reward": 1090000000000000000,
+    "reward_decimal": 1090841113123670000
+  },
+  {
+    "address": "0x2ebb03ef4A0B0FF6128704bD4D5E1f767fA9Ac4C",
+    "reward": 7420000000000000000,
+    "reward_decimal": 7415736221762580000
+  },
+  {
+    "address": "0xC8B86905E14f5E69192C8914b8E8059d68BbECe9",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x5565d64f29Ea17355106DF3bA5903Eb793B3e139",
+    "reward": 5.95e21,
+    "reward_decimal": 5.95487386967744e21
+  },
+  {
+    "address": "0x4f942151474FBC3E2f05C078AF594f5046756177",
+    "reward": 154000000000000000000,
+    "reward_decimal": 154170202840491000000
+  },
+  {
+    "address": "0x0EeaC637b70644A1E722f12Ee4511C5d3723D4e3",
+    "reward": 23600000000000000000,
+    "reward_decimal": 23573076454602600000
+  },
+  {
+    "address": "0xAB1A8F136E2ea03101b33B0cf527F264aa306EA9",
+    "reward": 2010000000000000000,
+    "reward_decimal": 2013097690582780000
+  },
+  {
+    "address": "0xc8e3bB06b9ae7Aa4C5E5185658F0F05aC65Bb971",
+    "reward": 189000000000000000,
+    "reward_decimal": 189409684187838000
+  },
+  {
+    "address": "0x838353F7f04b18ecED958F67306DD79Ae0862D2F",
+    "reward": 9920000000000,
+    "reward_decimal": 9916737392033.33
+  },
+  {
+    "address": "0xD0DD84cB29637F7258f6Fa11A74a7DFeA65981f5",
+    "reward": 97900000000000000000,
+    "reward_decimal": 97899023207893000000
+  },
+  {
+    "address": "0x09c6FC52b5d49F6332f0fe3D461c0630572A0622",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0xD93c807D9dD8D53FA4829179B8650477cc0bF12E",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x19D3E2E6a7CcCB15063D773fED3832F8dfd832D4",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x8e6ed79c48944265FE5D004010c11CB28aa105B4",
+    "reward": 496000000000000000000,
+    "reward_decimal": 495836869601669000000
+  },
+  {
+    "address": "0x26c6466Ec12c77eAb0D5De3A4c69f34Fb43C7a28",
+    "reward": 216000000000000000,
+    "reward_decimal": 216184875146328000
+  },
+  {
+    "address": "0xa55B88688204db4E6BFf4415a8C36524778D153E",
+    "reward": 1870000000000000000,
+    "reward_decimal": 1870296672137500000
+  },
+  {
+    "address": "0xdb4F7E76954Ed34d4e1F698806dB1C7835C9c0F5",
+    "reward": 5600000000000000000,
+    "reward_decimal": 5599981605281270000
+  },
+  {
+    "address": "0x6Adbd156003891E569ed20F300e87DB73248F5c5",
+    "reward": 9360000000000000000,
+    "reward_decimal": 9363383445557940000
+  },
+  {
+    "address": "0xd24e1e175992EF14a782C282E9320bc342eD7eE0",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0xfb535D371D451fB417c7Eb21299f862Cc04811E4",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x9f27B30FE456342FBC4aB7288C0DE7344c213321",
+    "reward": 9990000000000000000,
+    "reward_decimal": 9989129574995210000
+  },
+  {
+    "address": "0xEaF51f8356965187ed4fCEB8f1dcD59E77564A65",
+    "reward": 63500000000000000000,
+    "reward_decimal": 63487944457537000000
+  },
+  {
+    "address": "0xDE1cC3e6c10B64D977c6c645Bf260cC913D474fA",
+    "reward": 198000000000000,
+    "reward_decimal": 198334747840668
+  },
+  {
+    "address": "0x2DE6173D526803C736D18772C27D795134466fDb",
+    "reward": 1980000000000000,
+    "reward_decimal": 1983347478406680
+  },
+  {
+    "address": "0x725787e92A864dcbE2be31Ce576ad6905eda4A74",
+    "reward": 2100000000000000,
+    "reward_decimal": 2102348327111080
+  },
+  {
+    "address": "0x96D1f84180e80e77814Fc765D7e6b54b9b377E88",
+    "reward": 2750000000000000000,
+    "reward_decimal": 2746936257593250000
+  },
+  {
+    "address": "0x7E39988839DEa88feCBa619ad242caC446303124",
+    "reward": 1980000000000000000,
+    "reward_decimal": 1983347478406680000
+  },
+  {
+    "address": "0xE8630c220851e209853538B821f4c4dB427fA3Ba",
+    "reward": 148000000000000000000,
+    "reward_decimal": 148044989178188000000
+  },
+  {
+    "address": "0x2Cc7ec6030B516fC98b36339359bc36C746F7878",
+    "reward": 58700000000000000000,
+    "reward_decimal": 58654526652660000000
+  },
+  {
+    "address": "0xd896c860b0738fd466C450A3Ff9Db451283D2192",
+    "reward": 97200000000000000000,
+    "reward_decimal": 97183034768187400000
+  },
+  {
+    "address": "0xAA21496F86B3A2318eb660885a1b3637B793D17d",
+    "reward": 73300000000000000000,
+    "reward_decimal": 73257674482479900000
+  },
+  {
+    "address": "0x6fCf9BcDF33f5EE834C40c7aF955581f69c47e07",
+    "reward": 5660000000000000000,
+    "reward_decimal": 5660473703372660000
+  },
+  {
+    "address": "0xA7d3f6CFdBCcBcF0aE3357cDef626229478c7F37",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0x3C1c01937E811d985bde821380503655A65B40F3",
+    "reward": 19800000000000000000,
+    "reward_decimal": 19833474784066800000
+  },
+  {
+    "address": "0xaC47C23722AcE10F5EF58A82e1d356AfB4C7E1bB",
+    "reward": 24800000000000000000,
+    "reward_decimal": 24791843480083500000
+  },
+  {
+    "address": "0x95c79B9FE74594614BE9A4b85c0cfb9fff9F2B38",
+    "reward": 177000000000000000000,
+    "reward_decimal": 176617092952115000000
+  },
+  {
+    "address": "0xeEB92Cd8d52a62F2a2FD0947a37C45ACCe8dcD05",
+    "reward": 11900000000000000000,
+    "reward_decimal": 11900084870440000000
+  },
+  {
+    "address": "0x24B4db131C61A7D48193572Ef788FDCA8BfF2076",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x98e216DbFd18716a8EEf2e16F1640A3a562815E2",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x87EC2ddfd53f093fC0307885Ff7bB69B014e029B",
+    "reward": 1980000000000000,
+    "reward_decimal": 1983347478406680
+  },
+  {
+    "address": "0x6C325D0121bEc268aF0c44c30e428AcE5d68551c",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x454C13f7676bdD981a6a873f6231f57902e3010e",
+    "reward": 134000000000000000,
+    "reward_decimal": 133875954792450000
+  },
+  {
+    "address": "0x867A5eA65B04A27b120142E80776AD76a0298DA8",
+    "reward": 5950000000000000000,
+    "reward_decimal": 5950042435220040000
+  },
+  {
+    "address": "0xB3B5A3eb6305c8A8E9d9701D95fEd01Da86DD617",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0xa02472782C0d25c9EA4280dF46d5ec13e11aF10b",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0xe3de02C906aB0Bd3856315EF2170Ad9cF5081666",
+    "reward": 3970000000000000000,
+    "reward_decimal": 3966694956813360000
+  },
+  {
+    "address": "0x81dcAB1513d88478a3536348d6d7560f2d8762a4",
+    "reward": 49600000000000000000,
+    "reward_decimal": 49583686960167000000
+  },
+  {
+    "address": "0xb4Daf47A1B6144f4226108c5d422Dc9e65C36263",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0xc657c5690dF048a63426CDF072d8b735FC1fB477",
+    "reward": 3970000000000000000,
+    "reward_decimal": 3966694956813360000
+  },
+  {
+    "address": "0x793cfDc121f3252EebBE7ca43aa0Ac89646Bb8Ce",
+    "reward": 3970000000000000000,
+    "reward_decimal": 3966694956813360000
+  },
+  {
+    "address": "0x08e748d7907CD2aDaeD2600a644A6a69406ED47d",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x071F48F494fFF5a590D9609a74646FA285f779fC",
+    "reward": 4860000000000000000,
+    "reward_decimal": 4857713811487560000
+  },
+  {
+    "address": "0x786bc8Ef5372874e0564e579b14031Fd9D4e3Ca6",
+    "reward": 9920000000000,
+    "reward_decimal": 9916737392033.33
+  },
+  {
+    "address": "0x10FA780f1A14701f87542CdEA6d59b7b314Fb570",
+    "reward": 665000000000000000,
+    "reward_decimal": 665413079005441000
+  },
+  {
+    "address": "0x4fAd22E50C977Fb4Fe93487a4DC74937fFDECc61",
+    "reward": 4960000000000000000,
+    "reward_decimal": 4958368696016700000
+  },
+  {
+    "address": "0x5cde0Ccb7e21AC91DCD4EB4b73fc0aC32612b453",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x08Af302dfEF131b9c5f2DC6FeA3c4D0759a9FFA4",
+    "reward": 145000000000000000,
+    "reward_decimal": 145032284358488000
+  },
+  {
+    "address": "0xe2Ad14f95a07652C8113719334c5E244343CD7BD",
+    "reward": 2980000000000000000,
+    "reward_decimal": 2977004565088420000
+  },
+  {
+    "address": "0x5665aB6b02B940F9BB6b03f769e385F368FE187D",
+    "reward": 10000000000000000000,
+    "reward_decimal": 10015904765953700000
+  },
+  {
+    "address": "0xF5e2BE3Cc5d32Fa1C53274C6e3bA266964097e17",
+    "reward": 30600000000000000000,
+    "reward_decimal": 30627843435295100000
+  },
+  {
+    "address": "0x657e193215dF3CE898fcE08937abd6b7885a674C",
+    "reward": 19900000000000000000,
+    "reward_decimal": 19932642157987100000
+  },
+  {
+    "address": "0xFF8DFd8fe841Ed4061809A3B7f90c81D77e1AD29",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0xdb8456341d23cd3EF596a648661f52fE3fE68830",
+    "reward": 3.14e21,
+    "reward_decimal": 3.13567236336096e21
+  },
+  {
+    "address": "0x14095006456762E1a6740a8A1Cf09841867fc170",
+    "reward": 2640000000000000000,
+    "reward_decimal": 2636612554106880000
+  },
+  {
+    "address": "0xc124ce8A3B73703BB37755ed960fd0877F9B0856",
+    "reward": 6550000000000000000,
+    "reward_decimal": 6545046678742050000
+  },
+  {
+    "address": "0x167FE23eBA48Ed46f1948286De2FD0332a59A7B9",
+    "reward": 5060000000000000000,
+    "reward_decimal": 5057536069937040000
+  },
+  {
+    "address": "0x41331a300C7a602723edE1A247aA892089A281b6",
+    "reward": 901000000000000000,
+    "reward_decimal": 901431428935836000
+  },
+  {
+    "address": "0x8d9F0f01a41AedeEAA8daC4Cdc56adC7Eecad743",
+    "reward": 1000000000000000000,
+    "reward_decimal": 1001590476595370000
+  },
+  {
+    "address": "0x98E6ac88b815E126Efd00FD4854dca50db4d1EDF",
+    "reward": 1290000000000000000,
+    "reward_decimal": 1286200839746730000
+  },
+  {
+    "address": "0x50aDF8df445ACfB82011E7620D090897DAE31aEA",
+    "reward": 183000000000000000,
+    "reward_decimal": 183459641752617000
+  },
+  {
+    "address": "0xEf19452e39b3c382d30B41055d6682c1FCB396e3",
+    "reward": 10000000000000000000,
+    "reward_decimal": 10003013007344000000
+  },
+  {
+    "address": "0x8EEAaF40f7fAC8e9cA640cAE8eE6577B2b82Fc6c",
+    "reward": 6000000000000000000,
+    "reward_decimal": 6003592817137020000
+  },
+  {
+    "address": "0x353aA7E64af4E1A14410B1A10588779ef8e28F12",
+    "reward": 4400000000000000000,
+    "reward_decimal": 4403031402062830000
+  },
+  {
+    "address": "0x578dCF77ba084ecCDc34723FC32153Fbc36aBE23",
+    "reward": 1480000000000000000,
+    "reward_decimal": 1483543913848190000
+  },
+  {
+    "address": "0x80968391DA3654Ac4fd5FEafaF60C9cb45dC84c0",
+    "reward": 368000000000000000000,
+    "reward_decimal": 368219367777331000000
+  },
+  {
+    "address": "0xcbd38467F5811d91a053Cbf63853162c66bF57e6",
+    "reward": 4040000000000000000,
+    "reward_decimal": 4040078813514410000
+  },
+  {
+    "address": "0xBb7A33AB32E88c47c64Ad7d372dF483C31591581",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xabd7b11451d6bbf23F8b3980A2046BCfB736aF7C",
+    "reward": 1590000000000000000,
+    "reward_decimal": 1594611372638970000
+  },
+  {
+    "address": "0xb1f240e5482443F847f3d8df6D57a711719D5Ac8",
+    "reward": 19800000000000000,
+    "reward_decimal": 19833474784066800
+  },
+  {
+    "address": "0x08425ac4CA316791b00e0A39fEa9B0375d30fA0c",
+    "reward": 1580000000000000000,
+    "reward_decimal": 1577752919072510000
+  },
+  {
+    "address": "0x474D310ebafD88A05D7CDA632433D8C697A319E3",
+    "reward": 10400000000000000000,
+    "reward_decimal": 10379849028241300000
+  },
+  {
+    "address": "0x91bc5334F4C27464c828c607Ac962FB1C0e6A31c",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0xfF353dEE7044344c04d8943d6f0F73a25D7e12f8",
+    "reward": 5950000000000000000,
+    "reward_decimal": 5950042435220040000
+  },
+  {
+    "address": "0x620Dd7217C993e02395f54284Bf390Fb0d2a0E69",
+    "reward": 198000000000000,
+    "reward_decimal": 198334747840668
+  },
+  {
+    "address": "0x3a8D7f1f804e87e1314ab0270411eF319e5b99B5",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xB47d5f446a97666090a33D23aF6Ab5F1C8CA4CdA",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0x5395760e24DfcBC0A549E26e6AcB34EE7A80e866",
+    "reward": 934000000000000000,
+    "reward_decimal": 934156662329546000
+  },
+  {
+    "address": "0x25b2Bbfc6dc41aFCff4D1f683d06A5D6Ad0E39a3",
+    "reward": 1980000000000000000,
+    "reward_decimal": 1983347478406680000
+  },
+  {
+    "address": "0x8baC050BA6d1E3E6ABd55380511578d864965337",
+    "reward": 179000000000000000,
+    "reward_decimal": 178501273056601000
+  },
+  {
+    "address": "0x0bc1AE2890ABbc08990c8F052CD6D26d8A09dDAA",
+    "reward": 19800000000000,
+    "reward_decimal": 19833474784066.7
+  },
+  {
+    "address": "0x484c104EA765775B27975648d84759cf9581e3A2",
+    "reward": 992000000000000,
+    "reward_decimal": 991673739203333
+  },
+  {
+    "address": "0x5A42c3CBfCF35040D955877Cb15c65c0a6B8eD6A",
+    "reward": 198000000000000,
+    "reward_decimal": 198334747840668
+  },
+  {
+    "address": "0x12Ce5972D7cf5F71971B8571d3f66F7fd1c2e11d",
+    "reward": 595000000000000,
+    "reward_decimal": 595004243522004
+  },
+  {
+    "address": "0xDF5863754671ecbE3f982Fdb0BA8FbE441EC2095",
+    "reward": 496000000000000,
+    "reward_decimal": 495836869601669
+  },
+  {
+    "address": "0x6eF920A30EA5421976E4fc7297342aeCb197Ff3A",
+    "reward": 893000000000000,
+    "reward_decimal": 892506365283007
+  },
+  {
+    "address": "0x1e35DF8f255b790cFfce7fA99836F2ccA79AcfD5",
+    "reward": 595000000000000,
+    "reward_decimal": 595004243522004
+  },
+  {
+    "address": "0x59546CF8574813e13a0C1BD0f6a6a51A496ec1B6",
+    "reward": 744000000000000,
+    "reward_decimal": 743755304402505
+  },
+  {
+    "address": "0x7064DF71Ee6Fcd6c0145D2804EBF9B2c3AE0298b",
+    "reward": 555000000000000,
+    "reward_decimal": 555337293953870
+  },
+  {
+    "address": "0x94daFD23f9afe4A0316453d5A7d26ceA8999BC51",
+    "reward": 347000000000000,
+    "reward_decimal": 347085808721169
+  },
+  {
+    "address": "0xe9d5490934AC3a0EBcdAd31917aA98BC38c5e18C",
+    "reward": 347000000000000,
+    "reward_decimal": 347085808721169
+  },
+  {
+    "address": "0x22E22f176c85BC8dF9647D2FFE7e5737a663801f",
+    "reward": 1260000000000000000,
+    "reward_decimal": 1257442301309830000
+  },
+  {
+    "address": "0xD68dD375d8C479d785bf707A3a1E507B225FBc68",
+    "reward": 1870000000000000000,
+    "reward_decimal": 1874263367094310000
+  },
+  {
+    "address": "0xaeE656d72C39B29042BA014Db077A0eB1fbbd288",
+    "reward": 2810000000000000000,
+    "reward_decimal": 2811395050641470000
+  },
+  {
+    "address": "0x494a88c2E3a0D7c46d791134Ef0BDe465E009b2C",
+    "reward": 1870000000000000000,
+    "reward_decimal": 1874263367094310000
+  },
+  {
+    "address": "0xEf6F05dD845ff7881C3f14C5187d35f0Bf23E793",
+    "reward": 2250000000000000000,
+    "reward_decimal": 2250107714252370000
+  },
+  {
+    "address": "0x35a450D91bD39623439545C50A3daBE96E92a5DA",
+    "reward": 1870000000000000000,
+    "reward_decimal": 1873271693355110000
+  },
+  {
+    "address": "0xe800419E5c0b3d355cC7f2C5273E8f2a6B553558",
+    "reward": 3000000000000000000,
+    "reward_decimal": 2999813061090100000
+  },
+  {
+    "address": "0x18eA2F5Ce70C760C0511f268d88Ea6d747fE04a6",
+    "reward": 19800000000000,
+    "reward_decimal": 19833474784066.7
+  },
+  {
+    "address": "0xB857BD795871747e9dB692432178F67fB628ea97",
+    "reward": 19800000000000000000,
+    "reward_decimal": 19833474784066800000
+  },
+  {
+    "address": "0x534619104A9248B55a0293BF32E64Ef939D8b5d0",
+    "reward": 119000000000000000000,
+    "reward_decimal": 119000848704400000000
+  },
+  {
+    "address": "0x8BFD943aB200A1A5A55D1F6811E76565f6DF6D01",
+    "reward": 1590000000000000000,
+    "reward_decimal": 1586677982725340000
+  },
+  {
+    "address": "0xaE1c50E81Bb449AeFC2a46615D30aB2f6a7dcf49",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0x2bEB2FdB111320Dca1ad9b8915Aa8251BF08a1E4",
+    "reward": 1490000000000000000,
+    "reward_decimal": 1494452324979430000
+  },
+  {
+    "address": "0xF25E172f0f323D2a86Bcd6542e15A2A4eCE7A3E8",
+    "reward": 1090000000000000000,
+    "reward_decimal": 1092824460602080000
+  },
+  {
+    "address": "0x40c8fc2e71c99255Dc97EE526d0192Bc61675D13",
+    "reward": 5360000000000000000,
+    "reward_decimal": 5355038191698040000
+  },
+  {
+    "address": "0x4E7183fA15B6d2Bb0a0a61424f290a359F66B77a",
+    "reward": 1490000000000000000,
+    "reward_decimal": 1487510608805010000
+  },
+  {
+    "address": "0x2B9126e6e6f9494dCe5D35B539eA00ABfEF70c06",
+    "reward": 1410000000000000000,
+    "reward_decimal": 1406193362190330000
+  },
+  {
+    "address": "0x1F3a75C328A23EfAD6b8805f81769bB29809C1C6",
+    "reward": 5960000000000000000,
+    "reward_decimal": 5964917541308090000
+  },
+  {
+    "address": "0xf8680875d7AF4ABfEDc3309284B3Af253ab5d1d0",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0x459BEF0ACc428832101F0f7cbff1EA1a9DB35cC3",
+    "reward": 1690000000000000000,
+    "reward_decimal": 1691795399080900000
+  },
+  {
+    "address": "0xC2E8Ba3A945f4552dC464Cd272c0B6312E0c7398",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0x12FD42074A92f90E047e17998634c0B2dB462D36",
+    "reward": 694000000000000000,
+    "reward_decimal": 694171617442338000
+  },
+  {
+    "address": "0x103Ac82DAf13Da683F6251DC0c5008198Fb2A402",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0xb1413DCFAC27BFA3E4B29cbe66edB9EAC601a1B8",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x959BEF3B61F3bE6F7DF29020A11A48e71f4f2E4B",
+    "reward": 893000000000000000,
+    "reward_decimal": 892506365283007000
+  },
+  {
+    "address": "0x41a157F7da98B6FCb6Eb094bbd3995d076F162da",
+    "reward": 7440000000000000000,
+    "reward_decimal": 7437553044025050000
+  },
+  {
+    "address": "0x008cE8d88437B875f9548d4336F2eC667fA060AA",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0xF1eF519554D7951A86052F35fE1bd00DEDbCe1A3",
+    "reward": 1050000000000000000,
+    "reward_decimal": 1047207468598730000
+  },
+  {
+    "address": "0x84A1A04A4AdBF3fdd9770d2EEbCA4410e510DD0C",
+    "reward": 992000000000000,
+    "reward_decimal": 991673739203333
+  },
+  {
+    "address": "0x60007A4Dc64764baF61ccF218387971da5d9644C",
+    "reward": 559000000000000000,
+    "reward_decimal": 559303988910684000
+  },
+  {
+    "address": "0x1d5f164E8Af05309a80FCBE887814A43fa8753B4",
+    "reward": 212000000000000000,
+    "reward_decimal": 212218180189514000
+  },
+  {
+    "address": "0x53450060cf7c1988236EbE7ada57b3f869A3956B",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x1d6B38138a9728335a2a50cB330e3aa1618EFebC",
+    "reward": 1110000000000000000,
+    "reward_decimal": 1109682914168540000
+  },
+  {
+    "address": "0xaC5C52833Cfec13A462c3cE45BBAAA9161cbcbeD",
+    "reward": 925000000000000000,
+    "reward_decimal": 925231598676716000
+  },
+  {
+    "address": "0xf248b669A0594bc543Abf951b814b45E642b0edd",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0xCE4df63e402Cf661eEeE372B77A666a7E5505Dc6",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x34B01ceF8Da0Af6A1605DD303c6aDEACac93629c",
+    "reward": 99200000000000,
+    "reward_decimal": 99167373920333.3
+  },
+  {
+    "address": "0x467cd51eC7D9f03e9591bC96E45Ea39DC8650E76",
+    "reward": 992000000000000,
+    "reward_decimal": 991673739203333
+  },
+  {
+    "address": "0xCaf45d53FF52dC45843e3328BcA4186F1B3d8f4F",
+    "reward": 1190000000000000,
+    "reward_decimal": 1190008487044000
+  },
+  {
+    "address": "0x537F6254Ff29F82e6034b7440B0FB5B4bC6d960F",
+    "reward": 595000000000000000,
+    "reward_decimal": 595004243522004000
+  },
+  {
+    "address": "0x12E07a3815A4B5aC9aEE5EAaF046368C0c2fE8ea",
+    "reward": 992000000000000,
+    "reward_decimal": 991673739203333
+  },
+  {
+    "address": "0x92abBdC63374711DB3EbEf48F5fb7FCbC8790cb5",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0xe1C72080658Cca9e3e8dC0aC9299C27b2BD6B5Ef",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x59CA75D497702251aE552E30E513D146fBED69BC",
+    "reward": 19800000000000000000,
+    "reward_decimal": 19833474784066800000
+  },
+  {
+    "address": "0xE724Bfc847D412703BF2065dcbec33687037e69C",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x51242c532F9F93b15F3d0E009Ee50a364C0bd59A",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x935b968F5894c01df1BbF095a08DFE81BE5F804e",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0x2C16d4c5afd6DBA484b88972fc80e217aDB180eB",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x66E2af157D5e5a3214B9D51053AA62C962729126",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x493b0f9dDDE86F8C79AEf09bF9372bA47b37e55B",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x3Fd3Af99d480d54D4Eef883F9F7Dd8Dd27800D71",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0x3130f6537D74d0b7167De8D8b5C48955ce9AF22C",
+    "reward": 228000000000000000,
+    "reward_decimal": 228084960016768000
+  },
+  {
+    "address": "0x56da96Ac28B6b40044980c3ad1F1ff838D926F6b",
+    "reward": 367000000000000000,
+    "reward_decimal": 366919283505235000
+  },
+  {
+    "address": "0x628ad3aC09a8E6ff242be0B94F15C9E2af30B381",
+    "reward": 141000000000000000,
+    "reward_decimal": 140817670966874000
+  },
+  {
+    "address": "0xF5DF63e3b50C56fFA61fCD10c2e34049E6F04D46",
+    "reward": 1980000000000000000,
+    "reward_decimal": 1983347478406680000
+  },
+  {
+    "address": "0xcE22A64D8873996735a25fF069B6a9AE2D716bB9",
+    "reward": 8130000000000000000,
+    "reward_decimal": 8131724661467390000
+  },
+  {
+    "address": "0xdbDe0d6D9cDF29e2771D4F06104347814C082BfE",
+    "reward": 1290000000000000,
+    "reward_decimal": 1289175860964340
+  },
+  {
+    "address": "0x4fabDE849F3D23fB952eC868df6ae0eb97961207",
+    "reward": 25500000000000000000,
+    "reward_decimal": 25463950356828500000
+  },
+  {
+    "address": "0x9f2be11682c5bA94a6c0f3E5a849c7Ec81586d04",
+    "reward": 6980000000000000000,
+    "reward_decimal": 6975433081556290000
+  },
+  {
+    "address": "0xd2cb890b4278adaf0F4f2311BAb43481D1771444",
+    "reward": 992000000000000,
+    "reward_decimal": 991673739203333
+  },
+  {
+    "address": "0x3c48a4AfA12ccC7Ec7043599A2e76cefe0269935",
+    "reward": 199000000000000000,
+    "reward_decimal": 199028919458110000
+  },
+  {
+    "address": "0xB3A6E169549459b203490EBd59b75ca7E0A00FF9",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0xa515479b9044e953379ea2f9e55727a2d1D42D4e",
+    "reward": 1240000000000000000,
+    "reward_decimal": 1239592174004170000
+  },
+  {
+    "address": "0x7e477F659dC5A127f07507E642c3ec24c6A0eC07",
+    "reward": 2480000000000000000,
+    "reward_decimal": 2479184348008350000
+  },
+  {
+    "address": "0x8DB84c18b735fA6895242c769f0286C1Ee45Aa5D",
+    "reward": 991000000000000000,
+    "reward_decimal": 990682065464136000
+  },
+  {
+    "address": "0xE22817A91A14D61cb3691954983663425F5513b1",
+    "reward": 1920000000000000000,
+    "reward_decimal": 1915417827271250000
+  },
+  {
+    "address": "0xADDce764618A3482B8923585dB6df88F031Aa0d3",
+    "reward": 153000000000000000,
+    "reward_decimal": 152717755837314000
+  },
+  {
+    "address": "0xaE298a8D79d4fd53c3143E9Ffe30824cf5F3f40e",
+    "reward": 363000000000000000,
+    "reward_decimal": 362952588548422000
+  },
+  {
+    "address": "0x8D1ac0474D39c141775BfA795633A71e3DF8BFe2",
+    "reward": 250000000000000000,
+    "reward_decimal": 249901782279242000
+  },
+  {
+    "address": "0xF63F3531B76DB6E868AdCEbCC51c893c5C9694d6",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xffAE8c1183a2f13dd376F9954156371eCa91688A",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x19f885ca51820b91E3fC76D510Cf2cDA42F25824",
+    "reward": 120000000000000000,
+    "reward_decimal": 119992522443604000
+  },
+  {
+    "address": "0xDa3c645E27dbAe1e3c317BCf4C8dA760fb3cbEd5",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x4772274f5C80f6c8156B342DfB17065A7aC5d960",
+    "reward": 109000000000000000,
+    "reward_decimal": 109084111312367000
+  },
+  {
+    "address": "0x197EC4bF0685D245e71960E2F21718b49913D6F7",
+    "reward": 2480000000000000,
+    "reward_decimal": 2479184348008340
+  },
+  {
+    "address": "0xd03F8b96A7163A92808B60640070dc43955FCDa9",
+    "reward": 1760000000000000000,
+    "reward_decimal": 1761708397694730000
+  },
+  {
+    "address": "0xE9439f4EE3FAE7E15fdC9C3B3FB84833Cc721D24",
+    "reward": 2070000000000000000,
+    "reward_decimal": 2068631419978160000
+  },
+  {
+    "address": "0x63BEe620EBfd173d74a4bE25Eb330C52Ea3cb6d4",
+    "reward": 793000000000000000,
+    "reward_decimal": 793338991362672000
+  },
+  {
+    "address": "0x1707612174dA7Ad00c7822C2b6e2e5eA4EB4Fb35",
+    "reward": 129000000000000,
+    "reward_decimal": 128917586096434
+  },
+  {
+    "address": "0x61A8Ef045ad8e0893E352D120e09DDb7768cABf1",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x098e601EBaF450b2310448B52b216E1774C2b8Dc",
+    "reward": 15000000000000000000,
+    "reward_decimal": 14974273461970400000
+  },
+  {
+    "address": "0x3aEfCFccF5A8A34b75C735126f9298040C96c526",
+    "reward": 1360000000000000000,
+    "reward_decimal": 1361815863193610000
+  },
+  {
+    "address": "0x355d919389AcD13CCd922393AeC2379a10E2c0a3",
+    "reward": 32900000000000000,
+    "reward_decimal": 32923568141550900
+  },
+  {
+    "address": "0x026439F5F63C64472Aa2a6C639003E1F5E8c8058",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0xFb05EEc43799153fc01e5C7326397a115d535Eaf",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0x1963FB9240aE20d546f999eC4a6968079Af139c7",
+    "reward": 81300000000000000,
+    "reward_decimal": 81268472633298500
+  },
+  {
+    "address": "0x05BD4BfFee5EB3B80aA927739e6C4F2b98592240",
+    "reward": 36700000000000000,
+    "reward_decimal": 36691928350523500
+  },
+  {
+    "address": "0x6d0dd2F15A5C9AD724a4d51bfF11b08CA8C7C511",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x4e1F0b0A2307e93BC9B4dAD4aFCCA71F1e33A58D",
+    "reward": 197000000000000000,
+    "reward_decimal": 197343074101465000
+  },
+  {
+    "address": "0x1651A52C3a9481451E867F19beC98ad0Bc74f4aa",
+    "reward": 181000000000000000,
+    "reward_decimal": 181476294274210000
+  },
+  {
+    "address": "0x96FF13242457E54511759B8a83e2007aE04d85d1",
+    "reward": 149000000000000000,
+    "reward_decimal": 148751060880501000
+  },
+  {
+    "address": "0x98AEDc32d5194b3b0b973b9467520F3C40669805",
+    "reward": 545000000000000000000,
+    "reward_decimal": 544578625557254000000
+  },
+  {
+    "address": "0x70e7Cd529EB5A1943d7f20aF635B1dF6f9EE8b10",
+    "reward": 9980000000000000000,
+    "reward_decimal": 9978221163863970000
+  },
+  {
+    "address": "0xFa2d3227a7f3f4442c58aa711a43CB7ACF608C43",
+    "reward": 374000000000000000000,
+    "reward_decimal": 373903641650445000000
+  },
+  {
+    "address": "0xF1cff02AAd7f5C4022fB9a57E740570Ecbf22c02",
+    "reward": 1200000000000000000,
+    "reward_decimal": 1196950203218430000
+  },
+  {
+    "address": "0x3598143D676Dc58EB7A2A159326d26F3C09363Fb",
+    "reward": 1820000000000000000,
+    "reward_decimal": 1819721311438130000
+  },
+  {
+    "address": "0x1DFa666a47092240b75fCCD6CC7B949f7065A971",
+    "reward": 10900000000000000000,
+    "reward_decimal": 10923286237324800000
+  },
+  {
+    "address": "0xB2353a89aa6ac768f4c9dD5F6bc928616B471447",
+    "reward": 347000000000000000,
+    "reward_decimal": 347085808721169000
+  },
+  {
+    "address": "0xa679CE4C74b481DAADa2699970367141a74A7156",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x29e4736E67b09F42e9660894D5a06235E33798ba",
+    "reward": 1410000000000000000,
+    "reward_decimal": 1412143404625550000
+  },
+  {
+    "address": "0xcbA822718f7C3a6Db1eE887FcCC420c6d1A8A72c",
+    "reward": 267000000000000000,
+    "reward_decimal": 266760235845698000
+  },
+  {
+    "address": "0x8DCC1a9e3D619d2F1258A2f061ab71bacacC7cD7",
+    "reward": 124000000000000000,
+    "reward_decimal": 123959217400417000
+  },
+  {
+    "address": "0xE29cC7981B7D669d1c8E54C75ad0be65bFB4c4B5",
+    "reward": 115000000000000000,
+    "reward_decimal": 115034153747587000
+  },
+  {
+    "address": "0x4a72E9bcF23a87BA97Fe8131ebbA7998a7BCed2A",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0xCeB3084268650BF29D4be64283e36821B645eD5a",
+    "reward": 119000000000000000,
+    "reward_decimal": 119000848704400000
+  },
+  {
+    "address": "0x0bE303f76721F257740CA5c3bf08c4Ed5cB6B93a",
+    "reward": 149000000000000000,
+    "reward_decimal": 148751060880501000
+  },
+  {
+    "address": "0x76eE5F5824a4D069aB53B64ce259AD5C277Bf329",
+    "reward": 119000000000000000,
+    "reward_decimal": 119000848704400000
+  },
+  {
+    "address": "0x85F1AF1005D6FefDa7f122b9F59219CcdD6b261d",
+    "reward": 179000000000000000,
+    "reward_decimal": 178501273056601000
+  },
+  {
+    "address": "0x20e3D5c6DCC6F58044E110264cE13A3d196d795e",
+    "reward": 309000000000000000,
+    "reward_decimal": 309402206631442000
+  },
+  {
+    "address": "0x92a14b6e4b25abEeCf3f490ecAbd7bAB9b2253ac",
+    "reward": 472000000000000000,
+    "reward_decimal": 471540862991188000
+  },
+  {
+    "address": "0x5dd64795372D1540D2D2dBE876C793b464E7AE9F",
+    "reward": 29800000000000000000,
+    "reward_decimal": 29750212176100200000
+  },
+  {
+    "address": "0x8949b1d2332e03109f608d40C43f54b033Cdc1dF",
+    "reward": 97400000000000000000,
+    "reward_decimal": 97386330711507600000
+  },
+  {
+    "address": "0xa7111e2F4582af2B3A59414C8b18abe8CB297757",
+    "reward": 2190000000000000000,
+    "reward_decimal": 2190607289900170000
+  },
+  {
+    "address": "0x1dF7E1e27167De8d0157EE65788C775D397E696D",
+    "reward": 437000000000000000,
+    "reward_decimal": 437080200553872000
+  },
+  {
+    "address": "0xfa22754666721AaE8ed4224AC54b931e32542bb7",
+    "reward": 181000000000000000,
+    "reward_decimal": 181476294274210000
+  },
+  {
+    "address": "0xBdf6d0b1b0320de5Fe315dF9302B88bCE81b5ecA",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x33D4E1E91095473047BeEB65cA415a77c9E5f4f3",
+    "reward": 159000000000000000,
+    "reward_decimal": 158667798272534000
+  },
+  {
+    "address": "0x2aB07052ca0DEeb96D6Dc0F21D1b4Cb33dB93F69",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0xAC3365a2D7aD6f32061D46D4cD2762a49a3b122A",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0xA5a276c566E5714EF05449EcD3116825c9e10ad7",
+    "reward": 197000000000000000,
+    "reward_decimal": 197343074101465000
+  },
+  {
+    "address": "0xB434a070A64c08c35a77F462dCC84Db7aCd1aF0A",
+    "reward": 153000000000000000,
+    "reward_decimal": 152717755837314000
+  },
+  {
+    "address": "0x5064f30b929217c11a47E971a3C259c06b5eFc74",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x442F25582de7942afDBBBD131C5Bf80198d950af",
+    "reward": 7810000000000000,
+    "reward_decimal": 7814389064922320
+  },
+  {
+    "address": "0xd787571daDC8038b4521D6a72f2c7090F86038c4",
+    "reward": 1790000000000000000,
+    "reward_decimal": 1786004404305220000
+  },
+  {
+    "address": "0xE7f593E921f85a5F766604153aDCe0f8aC943D15",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x83348cf75138Aa7BfB34D5685C66eF4718A3950C",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x485aEe209E984E9e81b678aDb0AC6be13cbAe3E8",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0xaB3f3BB9F1a2064e02c5a4e695e9Ddbb83118F85",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0xF74A41443f17e599eCC18D1d137ba03689A08503",
+    "reward": 109000000000000000,
+    "reward_decimal": 109084111312367000
+  },
+  {
+    "address": "0x45bdCB4f00Cd1844E058082b16f26152Afa37A1f",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0xD737DE89c86Be7Ca858F028EcC0363710434F0DD",
+    "reward": 397000000000000000,
+    "reward_decimal": 396669495681336000
+  },
+  {
+    "address": "0x26a5cE5620527599c143157954104e5bdFE5812f",
+    "reward": 495000000000000000000,
+    "reward_decimal": 495446150148424000000
+  },
+  {
+    "address": "0x84D087C3D57EBA57C25bc73b0B9868C2754014cb",
+    "reward": 5060000000000000000,
+    "reward_decimal": 5057536069937040000
+  },
+  {
+    "address": "0x634427DA78EC74f2CfB35E9dD29FF00218E707D5",
+    "reward": 394000000000000000000,
+    "reward_decimal": 394120894171583000000
+  },
+  {
+    "address": "0x629D1a67ceAc24bA9b5Be4Bc0B98fd57C9f4071C",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0xcd5268A6697550831354bAaB4f68c359d21b1A89",
+    "reward": 4460000000000000,
+    "reward_decimal": 4462531826415030
+  },
+  {
+    "address": "0xBb5826E15D4E1c1CC7172893aCcA33a9DA011bff",
+    "reward": 54300000000000000000,
+    "reward_decimal": 54348755073147600000
+  },
+  {
+    "address": "0x8fA82a64D17dB66819D5FEf3da130a3Ab800a5a7",
+    "reward": 2580000000000000000,
+    "reward_decimal": 2578351721928690000
+  },
+  {
+    "address": "0x9d8b6AE325B6a89d447D6d9aA3bEa66443a78A17",
+    "reward": 10800000000000000000,
+    "reward_decimal": 10812911760142900000
+  },
+  {
+    "address": "0x12B0d036cc8723c81f696cAa9e664F05d7931B24",
+    "reward": 5270000000000000000,
+    "reward_decimal": 5269754250126550000
+  },
+  {
+    "address": "0x7c624b0F908F7C81d059953F67591EeD5ABf316d",
+    "reward": 119000000000000000000,
+    "reward_decimal": 119000848704400000000
+  },
+  {
+    "address": "0xcFdE4509bbcaae5630521f25873FA32bf3beec8E",
+    "reward": 16900000000000000,
+    "reward_decimal": 16858453566456800
+  },
+  {
+    "address": "0x4788E1302C6dFCF0F3E27a4e71535E3CAE651D7f",
+    "reward": 1320000000000000,
+    "reward_decimal": 1321008587992770
+  },
+  {
+    "address": "0xe71273d517416719016CFf46E594453C6378F5e6",
+    "reward": 2130000000000000000,
+    "reward_decimal": 2132098539287180000
+  },
+  {
+    "address": "0x86cD09ae3b34A79bfD7bAB43C4Eabb68BEBc396f",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0xb76ac949c017246764aFcb89815273A9c2a65368",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x0251BCd970277587E9907670db25E0fA1B884B6C",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0x413dDC22B52f9790dbAb151AE922c4F0dA2CA2CD",
+    "reward": 2660000000000000000,
+    "reward_decimal": 2660660642282560000
+  },
+  {
+    "address": "0xd024e4e409ea8E5c32246C8A4B2d16D6A50ef1E3",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x4820b444d09154b98Ca1720b5D55b0b4B9e8f3b3",
+    "reward": 1980000000000000,
+    "reward_decimal": 1983347478406680
+  },
+  {
+    "address": "0xFc74429BFff417dedC877ff37BA3Fbd69E3B4C7c",
+    "reward": 1200000000000000000,
+    "reward_decimal": 1203891919392860000
+  },
+  {
+    "address": "0x922D74C100d341Fcab4324c9cABd4DfCd22b7704",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xe266cdB4BBd305894E9292Ba2629Ba076e9A5843",
+    "reward": 397000000000000000000,
+    "reward_decimal": 396669495681336000000
+  },
+  {
+    "address": "0x4D7345bB423925078a01a87742Ec820d92cCfc61",
+    "reward": 595000000000000000,
+    "reward_decimal": 595004243522004000
+  },
+  {
+    "address": "0x4F5F6792d55420A0e593666597B296526cb3a914",
+    "reward": 2550000000000000000,
+    "reward_decimal": 2549593183491790000
+  },
+  {
+    "address": "0xc74272B32d49b8aA1C3ffD570D5d9df10F6d2dE6",
+    "reward": 20700000000000000000,
+    "reward_decimal": 20689289220999200000
+  },
+  {
+    "address": "0xd7CCd63112a5f508659aC4Ad11fEE483283126Ab",
+    "reward": 5060000000000000000,
+    "reward_decimal": 5057536069937040000
+  },
+  {
+    "address": "0xd97eac4CA83C19bD324A598A4551E31f13651354",
+    "reward": 1500000000000000000,
+    "reward_decimal": 1497427346197040000
+  },
+  {
+    "address": "0xB804A11E519dB461042a7B6aFEdA277957Fe21B0",
+    "reward": 659000000000000000,
+    "reward_decimal": 659463036570221000
+  },
+  {
+    "address": "0x48e558588A9Ce4663656298a97c8754e8bB91A56",
+    "reward": 130000000000000000000,
+    "reward_decimal": 129649441315966000000
+  },
+  {
+    "address": "0x880756887970baf30611A7684410AC9C57EcE8e0",
+    "reward": 21300000000000000,
+    "reward_decimal": 21320985392871800
+  },
+  {
+    "address": "0x4A444c9e5acB93C2a1985489b1aa251B2230D464",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x417AC47Ab85Ff79254A541Fd6A9fdfF23852A9A4",
+    "reward": 1190000000000000000,
+    "reward_decimal": 1190008487044000000
+  },
+  {
+    "address": "0x00fb7317A100bC590cF370Ad905e999d784656FD",
+    "reward": 7440000000000000000,
+    "reward_decimal": 7437553044025050000
+  },
+  {
+    "address": "0xb062E4fA99881F14eCD48B17cF3e8b6C06c8eDC6",
+    "reward": 3020000000000000000,
+    "reward_decimal": 3023613230830980000
+  },
+  {
+    "address": "0x6dC0Ef0D766990e1bF13C8439869DD958D236B1C",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x624C42E34858E5c49AedeD62af30eFF783CD5770",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0xCaa354cF7a609F64B6516404988d18906ae22f08",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0x892E51f5b01529b6F43e95054063E2831a13a001",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0xA7281e70ea6764d1394D9d7e6F625D9B41E833C8",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x039379DAe14C6b5Cc398428feC4E2c830e0802bb",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0x206067193a7fea2e88b33FB8B2B0542731FED46B",
+    "reward": 5070000000000000000,
+    "reward_decimal": 5074394523503490000
+  },
+  {
+    "address": "0x44c8d3190170d9b85850FC3D31E4FE7210490f82",
+    "reward": 6020000000000000000,
+    "reward_decimal": 6023426291921080000
+  },
+  {
+    "address": "0xA200B90a69Bd0AA6Bc53e582A67da7D2aD6a8EB0",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xEbA9AFf5f4800E137fe84ADdA477E73800A1797D",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xeD04aF1D047AfC0b25dA008F3be85c1Fae5bE751",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0xE1d1663892A1dFe82c2Cd11810C9188B8A9B505F",
+    "reward": 2130000000000000000,
+    "reward_decimal": 2128131844330360000
+  },
+  {
+    "address": "0x168fa75dA15Cd846B49939A58B48589B24B10A57",
+    "reward": 440000000000000000,
+    "reward_decimal": 439559384901881000
+  },
+  {
+    "address": "0xa2C8b7400919e32D48B31893F425093D2479d4f7",
+    "reward": 100000000000000000,
+    "reward_decimal": 100159047659537000
+  },
+  {
+    "address": "0x4406c7Eea393E2b8E5F9b6D5da7c3a77366d543D",
+    "reward": 109000000000000000,
+    "reward_decimal": 109084111312367000
+  },
+  {
+    "address": "0x64458B037d1597ee8BE302684033E335816c7F6F",
+    "reward": 1860000000000000000,
+    "reward_decimal": 1862363282223870000
+  },
+  {
+    "address": "0xE95bE2366862B39819C74be94996E6c6CF262139",
+    "reward": 1400000000000000000,
+    "reward_decimal": 1401234993494320000
+  },
+  {
+    "address": "0xe254Ae87bffc89515b252AD3c57f2eF6e8f0703e",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x8eCf1865B0BeC7Ba605609981100f2932D41F8A3",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0xcB7783073e34AF6A6634610047A647fbcb8F43C5",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0xe6370f29Aa463dCB0AD7d53b1bD653b0bFc5c889",
+    "reward": 3970000000000000,
+    "reward_decimal": 3966694956813360
+  },
+  {
+    "address": "0x0Bb74d80237d16A1751BA724f6d50F66E6E199Df",
+    "reward": 3200000000000000000,
+    "reward_decimal": 3204097851365990000
+  },
+  {
+    "address": "0xFEE7640FAf953CB620a40C68C1D06bcc984032a1",
+    "reward": 1090000000000000000,
+    "reward_decimal": 1090841113123670000
+  },
+  {
+    "address": "0xa10c2188173C4948e721D460876a3bc0316bb555",
+    "reward": 37400000000000000000,
+    "reward_decimal": 37409900137706800000
+  },
+  {
+    "address": "0x8289FC12AdAf753F0d63a412141A212C7F15d24C",
+    "reward": 911000000000000000,
+    "reward_decimal": 910604311856093000
+  },
+  {
+    "address": "0x35729Dd6d81CA082a3dAcDac4ea079f3eD8EBcd8",
+    "reward": 3460000000000000000,
+    "reward_decimal": 3464908044776460000
+  },
+  {
+    "address": "0x2bdA3bfcCB53C3974Ed79F337a9C1b06D49F9101",
+    "reward": 936000000000000000,
+    "reward_decimal": 936140009807953000
+  },
+  {
+    "address": "0xD7026E809Dff865c46874D210f3037f10a1f1942",
+    "reward": 309000000000000000,
+    "reward_decimal": 309154288196641000
+  },
+  {
+    "address": "0x9EF171A8C62Eea6455830Bde5de99Db5A7cA5119",
+    "reward": 4800000000000000000,
+    "reward_decimal": 4797221713396150000
+  },
+  {
+    "address": "0x19978b3D9769c953E8fCf75bC3c4Cf604a634ccC",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x8070497e2451d0aa13692bfd75B442194E6D4b10",
+    "reward": 144000000000000000000,
+    "reward_decimal": 143890523592101000000
+  },
+  {
+    "address": "0x9Fe8658db814b1937a1Ad0645837dE522ACf36DD",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0x2Cfa4900DBAef0Bf0096e27277f365da029335c6",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x9936c21bC0a003b1beBa3E7D956FE43D4124FAa0",
+    "reward": 98200000000000000,
+    "reward_decimal": 98175700181130500
+  },
+  {
+    "address": "0xf91C56e0FfCC4213d7715e54cc2906d7679292c2",
+    "reward": 222000000000000000,
+    "reward_decimal": 222382836016348000
+  },
+  {
+    "address": "0x78c6eb7994241023C16c138bac6Aa468B81eb5C2",
+    "reward": 19800000000000000,
+    "reward_decimal": 19833474784066800
+  },
+  {
+    "address": "0xb7F4d08b136a130D321F30A61B5163418b06d438",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0x13711b99539d2860AA740c0180A50627d538c28e",
+    "reward": 88900000000000000000,
+    "reward_decimal": 88910988272623500000
+  },
+  {
+    "address": "0x2ae5189566dcf3063b7eD1539857DA344A78Fc2e",
+    "reward": 19800000000000000000,
+    "reward_decimal": 19833474784066800000
+  },
+  {
+    "address": "0x85283a9343052Ebafaefc653b4FE3F2C4E92b2e5",
+    "reward": 17300000000000000000,
+    "reward_decimal": 17255123062138100000
+  },
+  {
+    "address": "0x05557BD03282009B2530d48aDbbb8AECd41b8fc1",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x527cd400eaa52E9256dFf7b3c6287b473bd21b47",
+    "reward": 9920000000000000000,
+    "reward_decimal": 9916737392033330000
+  },
+  {
+    "address": "0xb3d8EDaf090070D2691eBbF38c408f33B7C83a26",
+    "reward": 32800000000000000000,
+    "reward_decimal": 32769858711974400000
+  },
+  {
+    "address": "0x441760a34ce52e59A349c0A8Ed7361ae9fFBEeeB",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x54Bc8795fb1e8d3Ad038eBE435C7E306b94Ba5F5",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xAEF055DB481dd3C0878d6AF48f052f0CB16387eC",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x83ED0969DB692D47e801Ed9dd93afb0755be2641",
+    "reward": 496000000000000000000,
+    "reward_decimal": 495836869601669000000
+  },
+  {
+    "address": "0x5F5A28F1A86FAA85b29f53A8E101D4291AfB1355",
+    "reward": 319000000000000000,
+    "reward_decimal": 318823107153874000
+  },
+  {
+    "address": "0x7a09107314F0b0A0dc20e2b0021194A39bB2F196",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x3179DC11df05e979688b42b5B6cB7B368a4E9E13",
+    "reward": 2960000000000000000,
+    "reward_decimal": 2955187742825950000
+  },
+  {
+    "address": "0xE84f05A482C8C872d0327C1E61C95b4F5a2aFB8c",
+    "reward": 377000000000000000,
+    "reward_decimal": 376836020897270000
+  },
+  {
+    "address": "0xC888272741deAc7F4A2528f2AB3614a29Fc8DB0C",
+    "reward": 6550000000000000000,
+    "reward_decimal": 6545046678742050000
+  },
+  {
+    "address": "0xd7188dab4c880daE8cC51D9cefc8784B4A6cfCb6",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0xfD22da4813aD9aeDE04F86a7dff4eb5DE5DE1df5",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x2DC29F966B186e5EDEc8681c1cA80950d90075D2",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x676a1344e175DAe10CF519bc8d7746D522FC7bBB",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x7f0957835d594c56c83A39a5e5E04CEfAaC1bf31",
+    "reward": 1720000000000000000,
+    "reward_decimal": 1718570590039380000
+  },
+  {
+    "address": "0xdc678B788bD4ca9d231F388d3Ae45Cf9A6eba234",
+    "reward": 794000000000000000000,
+    "reward_decimal": 794052996454898000000
+  },
+  {
+    "address": "0x9d297F3E8518092F88739a023A3116c628EE195a",
+    "reward": 29800000000000000000,
+    "reward_decimal": 29750212176100200000
+  },
+  {
+    "address": "0x3dAF3c1bB32c2450a69E018c782CE6d654186380",
+    "reward": 2730000000000000000,
+    "reward_decimal": 2727102782809180000
+  },
+  {
+    "address": "0x727FFFb5eEad63848B58194Ba699B0fd9F9325bd",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xd3AcAB02064a2C4f453F28521795B79657886d18",
+    "reward": 173000000000000000,
+    "reward_decimal": 172551230621381000
+  },
+  {
+    "address": "0xbBA03a27eF60E7E2B6dFda9965E50F0Bba780a3a",
+    "reward": 990000000000000000,
+    "reward_decimal": 990186228594533000
+  },
+  {
+    "address": "0xE0C9c69F1dbf01c325836CD7d74e231eBF9AB26E",
+    "reward": 27800000000000000000,
+    "reward_decimal": 27766864697693500000
+  },
+  {
+    "address": "0xfBb682DdFd97D99C075884426519A156c0440D0E",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x5c43eC3254DEE49B9EDE6384E6aD9BDcC76d7129",
+    "reward": 28300000000000000000,
+    "reward_decimal": 28262701567295100000
+  },
+  {
+    "address": "0x90eFe673B1f0194E7512d6eb28727448c45Ef623",
+    "reward": 28500000000000000000,
+    "reward_decimal": 28461036315135800000
+  },
+  {
+    "address": "0x961D6b75ad37403f37A318E171128b36d0CfFF26",
+    "reward": 8660000000000000000,
+    "reward_decimal": 8661278438201980000
+  },
+  {
+    "address": "0x7e5E3f57715d145Eb48bbA673ed5fd9bBb1Ed8df",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x408570441054B712a9F8b4c96101915C75e3f044",
+    "reward": 21200000000000000000,
+    "reward_decimal": 21191076133036200000
+  },
+  {
+    "address": "0x1d73b73Ce8076bE2a457b04714faA97CfeC80dFF",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x1feF2B4C370C54789a41f03478B97eA9F7D7D540",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x6637b4b8fc4102135340509e294beeeBf4793FA7",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0x79E63D6B9512736c1860cA2Fe13562d69821b7cf",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x6c80722BD179bBf101270b214e24833918A8EA4c",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0xe4E3E810af7bDc67523C73fb06F5E3Af1d924959",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x9184161bA254ee0eEa4Ba9153D93C95afE60c556",
+    "reward": 1730000000000000000,
+    "reward_decimal": 1726503979953020000
+  },
+  {
+    "address": "0xBF06409cEfbfA277EeC9A0003b49f022253a5739",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xfA9b3AD7549cd13E9A156c8EF722d249210948CE",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x872263Eb7cdc6a08F4821441B9f3392017F9D9ea",
+    "reward": 1490000000000000000,
+    "reward_decimal": 1487510608805010000
+  },
+  {
+    "address": "0x096853228FEe17F0f0Ec778909d4794bF135D142",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0xD64990Ded50A147157F928C93058c33AD25eCD94",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x24FcDC1e4Bf148EF2459151A4f67451010E5771a",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x8295Cf76C0c3863C48830658fb8d53c7aA75BB15",
+    "reward": 612000000000000000,
+    "reward_decimal": 612110615523262000
+  },
+  {
+    "address": "0x14BEFD04dE877D36F2Ae2131221Ba23F28f4607e",
+    "reward": 2580000000000000000,
+    "reward_decimal": 2578351721928690000
+  },
+  {
+    "address": "0xc9F7A606CC3a0a0FF6Ee4eB09Ecca6feE76f3B8e",
+    "reward": 9090000000000000000,
+    "reward_decimal": 9092656514755430000
+  },
+  {
+    "address": "0x19c0bbeBf716367923B359b4CE79a136e66faf79",
+    "reward": 239000000000000000,
+    "reward_decimal": 239489208017606000
+  },
+  {
+    "address": "0xa4E1Fa0dD9D71AEB36452881FbFA0c05F6bF34A0",
+    "reward": 253000000000000000,
+    "reward_decimal": 252876803496851000
+  },
+  {
+    "address": "0x71279155090257cB25626F15fA8E2BC4e2250EDb",
+    "reward": 172000000000000000,
+    "reward_decimal": 171559556882177000
+  },
+  {
+    "address": "0xb8187b9ef4f81061Ee346f0e320896A881542E10",
+    "reward": 52800000000000000000,
+    "reward_decimal": 52813480554750500000
+  },
+  {
+    "address": "0x8126b43c0765f9d011E38d45915b8A18e505B45f",
+    "reward": 992000000000000000,
+    "reward_decimal": 991673739203333000
+  },
+  {
+    "address": "0xc15E011B8E117FbA8cC241C70950fC79f515AB3E",
+    "reward": 1720000000000000000,
+    "reward_decimal": 1717578916300180000
+  },
+  {
+    "address": "0x09c1CAabC298A9a550D929909638e79D306f6F36",
+    "reward": 3970000000000000,
+    "reward_decimal": 3966694956813360
+  },
+  {
+    "address": "0x97518452eC958BE01457e55b96c12BC02a532945",
+    "reward": 12200000000000000000,
+    "reward_decimal": 12198578665940200000
+  },
+  {
+    "address": "0xe3Be0Baae3d4928D3e2E7724d4bf188003C56EBF",
+    "reward": 2090000000000000000,
+    "reward_decimal": 2087473221023020000
+  },
+  {
+    "address": "0x821CC0b87220414c138Cda837F4a6eC6562F0Ac7",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0x751eEa735b8c54b243Cc9e441C86CC7396C36fAB",
+    "reward": 1380000000000000000,
+    "reward_decimal": 1375451476275030000
+  },
+  {
+    "address": "0x76C8a1C74fdc88072F4582830dDbE588388C055b",
+    "reward": 1900000000000000000,
+    "reward_decimal": 1901853342264260000
+  },
+  {
+    "address": "0x5dB6bA50e509Faa9874d49912ED2c5CBC578c6D7",
+    "reward": 2900000000000000000,
+    "reward_decimal": 2898414421256560000
+  },
+  {
+    "address": "0x0d5A7215aC0f52D486E7CA09e249FD4C5f023CCB",
+    "reward": 298000000000000000,
+    "reward_decimal": 297502121761002000
+  },
+  {
+    "address": "0xECc1cDA92dAeB915580F99cEFfd4f6bd6c93ddDE",
+    "reward": 1370000000000000000,
+    "reward_decimal": 1371484781318220000
+  },
+  {
+    "address": "0x3Fd23b15DA6e9FEB1f1ca3f5Ab0AC6A24dBaBd3F",
+    "reward": 992000000000000,
+    "reward_decimal": 991673739203333
+  },
+  {
+    "address": "0xA7D82643eD7a33981cD3CF8d1C843c823ef0e748",
+    "reward": 1290000000000000000,
+    "reward_decimal": 1289175860964340000
+  },
+  {
+    "address": "0x67f8f7FBA5EAC5C6918D88e2127AaDD8be026983",
+    "reward": 595000000000000000,
+    "reward_decimal": 594508406652402000
+  },
+  {
+    "address": "0x2787E5350FaA67fD1bE6d1E7d73C0215e8bB9359",
+    "reward": 496000000000000000,
+    "reward_decimal": 495836869601669000
+  },
+  {
+    "address": "0x306f406bB1524e5f8bD3C3F3A5e0a83c94dc6e21",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xb4a46B62BE469Ee859eE9a0132d80C75191E9E1c",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x9695cFDDEa925e36Dc656dD2d078019E14A95ac1",
+    "reward": 996000000000000000,
+    "reward_decimal": 995640434160150000
+  },
+  {
+    "address": "0xb35730Ef8684d1a2CE7f67998f9948C3577d82DC",
+    "reward": 107000000000000000000,
+    "reward_decimal": 107414132735548000000
+  },
+  {
+    "address": "0x9F1bC151D79673925DE482e1DCE08Bee332bab8E",
+    "reward": 470000000000000000,
+    "reward_decimal": 470053352382383000
+  },
+  {
+    "address": "0xe0f8B001263C84e014AF15e1dB3DBDa5DFF6Dae5",
+    "reward": 1570000000000000000,
+    "reward_decimal": 1565852834202070000
+  },
+  {
+    "address": "0xd6869a76Cd6466FC1EE9886eaCf2607e5c654bBa",
+    "reward": 198000000000000000,
+    "reward_decimal": 198334747840668000
+  },
+  {
+    "address": "0x6F35a133eCDab215Bdd7b21c3f4536678DC0A09e",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0x9B8babc61C1182496705a004b781390e3E4e51aC",
+    "reward": 8790000000000000000,
+    "reward_decimal": 8786229329341600000
+  },
+  {
+    "address": "0x6fed04f89C8756776B0D6fAEc6e9da584f9D1549",
+    "reward": 122000000000000000,
+    "reward_decimal": 121975869922010000
+  },
+  {
+    "address": "0x0A2000cd424B74F7f15633FbAfe8194e13B6625D",
+    "reward": 1280000000000000000,
+    "reward_decimal": 1275540247882920000
+  },
+  {
+    "address": "0x8567cBB56CA147eAa89F50cEE058f8bC9B81AcE0",
+    "reward": 995000000000000000,
+    "reward_decimal": 994648760420944000
+  },
+  {
+    "address": "0x7896d5F6E4C2fF4c2eC3F43959E8050C17Eb6C2F",
+    "reward": 122000000000000000,
+    "reward_decimal": 121975869922010000
+  },
+  {
+    "address": "0x207230E06e14d1fa94e703f4784F819667472247",
+    "reward": 39700000000000000,
+    "reward_decimal": 39666949568133600
+  },
+  {
+    "address": "0x9e6B95A0a5a761AaE2EE1736bF54c0BA8254D165",
+    "reward": 154000000000000000,
+    "reward_decimal": 153709429576517000
+  },
+  {
+    "address": "0xc00a8b282441203031BAA251711D48d32D5663e3",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xf4C6F3eB4c6a86Dd910bd78e4c90D0CBF87c1B53",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xFB455E81329b8772CD628035528C7C9f06133B1d",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x6087cE356dd0FE21C26DC20B27Bd98401761A7Fa",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xA569a53DcC85f4Df13CD91894Badf10c37270555",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x30630749634337B89Ed6A2Df519fa381c9BCf94f",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0xDB70EED3578f12929eae82e0f13E51CA01216789",
+    "reward": 601000000000000000,
+    "reward_decimal": 601450122826826000
+  },
+  {
+    "address": "0xf2FbAD6E98592AD936C1aBe9060E10e5cbD8143B",
+    "reward": 162000000000000000,
+    "reward_decimal": 161642819490144000
+  },
+  {
+    "address": "0x7A8370B9850CCe366E8E68670923C3Db39F9C905",
+    "reward": 14100000000000000,
+    "reward_decimal": 14131350783647600
+  },
+  {
+    "address": "0x6e00e35d26D37AdC03dAfF2Fe24af335Cccd63cf",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xe98553779488042d5730F7eE47d3F971E3C4668f",
+    "reward": 115000000000000000,
+    "reward_decimal": 115034153747587000
+  },
+  {
+    "address": "0xb7225Ef788f6c5121E13D8c7B407628dFf652a77",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xdD737B4B7dE44928213Ad872f113B85C45AfCD14",
+    "reward": 120000000000000000,
+    "reward_decimal": 119992522443604000
+  },
+  {
+    "address": "0xe1DD184794e6178E6210275C389f5f9A0A593Bb0",
+    "reward": 29900000000000000000,
+    "reward_decimal": 29881113109675000000
+  },
+  {
+    "address": "0xF2f83D815d88A6097553DFB973f5595E0CAc5c73",
+    "reward": 159000000000000000,
+    "reward_decimal": 158667798272534000
+  },
+  {
+    "address": "0xDD8c1DBa1047e443f38eef236deEFFf4A301420E",
+    "reward": 595000000000000000,
+    "reward_decimal": 595004243522004000
+  },
+  {
+    "address": "0x2F28264D435b75f284C670edA10Eb2491FE6b4B0",
+    "reward": 344000000000000000,
+    "reward_decimal": 344110787503559000
+  },
+  {
+    "address": "0xB34fed58D61B69D367Fbac52b12F6D96b5Bb3632",
+    "reward": 99200000000000000,
+    "reward_decimal": 99167373920333300
+  },
+  {
+    "address": "0xde2Bf857D6F59f6278ED7E47A235d3e6fCd0186B",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0x000650a5D400F004435DaACb611672cDE0E6cECB",
+    "reward": 9920000000000000,
+    "reward_decimal": 9916737392033330
+  },
+  {
+    "address": "0xf05fa7A3E8Dd6941047785f72705D0817a6Bbaee",
+    "reward": 9910000000000000,
+    "reward_decimal": 9913862697649700
+  },
+  {
+    "address": "0x970964C6Fb44c0838298276038178572c36F647B",
+    "reward": 9910000000000000,
+    "reward_decimal": 9912904466188550
+  },
+  {
+    "address": "0xb73E25e5146Be1dD8A9211da666aEF360f3c5d29",
+    "reward": 226000000000000000,
+    "reward_decimal": 225992374151784000
+  },
+  {
+    "address": "0x7e95aEEE885AA8E3C40652bf656825FF39A03755",
+    "reward": 198000000000000000,
+    "reward_decimal": 198028113773082000
+  },
+  {
+    "address": "0x38b02F307910465Fbd3A2506F085f689694F39F5",
+    "reward": 494000000000000000000,
+    "reward_decimal": 494447433982919000000
+  },
+  {
+    "address": "0x5C89CFdbFf8915eD27a21DB7F41bA8317eC7B476",
+    "reward": 701000000000000000,
+    "reward_decimal": 700581706802084000
+  },
+  {
+    "address": "0xaE76298FBc22CF0c2639F00cFBD2315832c8036d",
+    "reward": 1970000000000000,
+    "reward_decimal": 1965141080643740
+  },
+  {
+    "address": "0x003EeaeBDA1B03CBD555474051df505782A829B4",
+    "reward": 225000000000000000,
+    "reward_decimal": 225357929101318000
+  },
+  {
+    "address": "0x99204C9b0c263E5Ef1BbCd3cfC250f8A5928d263",
+    "reward": 3700000000000000000,
+    "reward_decimal": 3697828240746490000
+  },
+  {
+    "address": "0x892b9A64648B3b2dCdd928511829ec2F6D6B921b",
+    "reward": 719000000000000000,
+    "reward_decimal": 718894228699349000
+  },
+  {
+    "address": "0xB187FCadEa2bbC54c10Dee568DA664e68276398D",
+    "reward": 123000000000000000,
+    "reward_decimal": 123313944334440000
+  },
+  {
+    "address": "0xFD878A7f6bcAeD615EA215dFBdD258F93Ca08160",
+    "reward": 194000000000000000,
+    "reward_decimal": 194003541636011000
+  },
+  {
+    "address": "0x313Ce3Db4d83780EDF78b069b4d1c9C0A6A2cD8C",
+    "reward": 97000000000000000,
+    "reward_decimal": 97001770818005500
+  },
+  {
+    "address": "0x1F7Ab3F3016137d3C424109b84C0202487059Af7",
+    "reward": 194000000000000000,
+    "reward_decimal": 193869389231442000
+  },
+  {
+    "address": "0x4818F6C08094A5A1c3524A6f53EC389036F58249",
+    "reward": 45500000000000000,
+    "reward_decimal": 45500758527109200
+  },
+  {
+    "address": "0x2A8C8E063CB81fC1B67e213CB98c37D4a0d9816B",
+    "reward": 96800000000000000,
+    "reward_decimal": 96790959896539900
+  },
+  {
+    "address": "0x77697380fCBfe151D44bE9915164337e604DF5Ff",
+    "reward": 96800000000000000,
+    "reward_decimal": 96762212952703600
+  },
+  {
+    "address": "0x8857Ae2460afE2DE69893c1fF661623e8c316301",
+    "reward": 290000000000000000,
+    "reward_decimal": 289912928588241000
+  },
+  {
+    "address": "0x36ceeA869B9672Ae1E9D2D2eCea2efd07dbb4b24",
+    "reward": 96400000000000000,
+    "reward_decimal": 96407667312057300
+  },
+  {
+    "address": "0xc98aA604dd537190F4a35F07fA928B3a923c33B0",
+    "reward": 82800000000000000,
+    "reward_decimal": 82778741239307200
+  },
+  {
+    "address": "0x7D0952f395444D5B0e8e295a7A5118340ed3502b",
+    "reward": 96200000000000000,
+    "reward_decimal": 96158527132143400
+  },
+  {
+    "address": "0x2C046b9De33b538cB0e10cedB19D933F35C43e52",
+    "reward": 192000000000000000,
+    "reward_decimal": 192259560376614000
+  },
+  {
+    "address": "0xf698F5aEc534BdB2E54B4fad56DA13B620843773",
+    "reward": 480000000000000000,
+    "reward_decimal": 480265608357053000
+  },
+  {
+    "address": "0xf1e55533796950320309182e8647548e41ea9Cfb",
+    "reward": 125000000000000000,
+    "reward_decimal": 124732031073881000
+  },
+  {
+    "address": "0x1f340B702b609922F080180bB87C20E615147486",
+    "reward": 94900000000000000,
+    "reward_decimal": 94941573176410300
+  },
+  {
+    "address": "0x00c13c119d8a6a78F114fbF723A3F5F6bBb86AC4",
+    "reward": 94900000000000000,
+    "reward_decimal": 94922408547186100
+  },
+  {
+    "address": "0x41d61195cB4e054Db1977Ba0D3B8898C0B7063C9",
+    "reward": 1850000000000000000,
+    "reward_decimal": 1852361070585500000
+  },
+  {
+    "address": "0x2Eab8691857AEf246e62c17E9550409B0781E0E1",
+    "reward": 985000000000000000,
+    "reward_decimal": 984551204752188000
+  },
+  {
+    "address": "0xb294B5a528Cdbbe8868D4612a6BBCfA64C99D2Dc",
+    "reward": 477000000000000000,
+    "reward_decimal": 476815208511538000
+  },
+  {
+    "address": "0x428ee055faf126c4472dB95B2E27687544288Ed3",
+    "reward": 3050000000000000000,
+    "reward_decimal": 3051435672953420000
+  },
+  {
+    "address": "0x54C8D4D3bc382A9c57fA719a9F1A9c2c09eFf971",
+    "reward": 3290000000000000000,
+    "reward_decimal": 3289070271889440000
+  },
+  {
+    "address": "0x63008c5f587A071e6f594D504F4e279A68cbb717",
+    "reward": 94500000000000000,
+    "reward_decimal": 94548698277315300
+  },
+  {
+    "address": "0xaE484bE5b37a5A43BeE454C12d04E74B749037fE",
+    "reward": 16300000000000000,
+    "reward_decimal": 16263367873260600
+  },
+  {
+    "address": "0xda91272ce34EDf349e952884dBCbfF2B5D0d417A",
+    "reward": 13600000000000000,
+    "reward_decimal": 13640089469273100
+  },
+  {
+    "address": "0x6f94Eb63C73b835787Db99b75A13DD87D2E5A55F",
+    "reward": 3130000000000000000,
+    "reward_decimal": 3132067209134460000
+  },
+  {
+    "address": "0x6e84d655dc4dbCbc6C9A5806ba9E9931AD7a2b03",
+    "reward": 93800000000000000,
+    "reward_decimal": 93839606996021900
+  },
+  {
+    "address": "0x93E326e03bA85B252D279Edc9713c89275aBF545",
+    "reward": 121000000000000000,
+    "reward_decimal": 121495795959945000
+  },
+  {
+    "address": "0x1A1beB31588a15137F370f41E4d2062b21462409",
+    "reward": 154000000000000000,
+    "reward_decimal": 153535510566309000
+  },
+  {
+    "address": "0xc848dD8F3799285FDCADfaC5fd30267980cece80",
+    "reward": 15000000000000000,
+    "reward_decimal": 14956076646522000
+  },
+  {
+    "address": "0x7C605544cfe6B3F5b94F2600e12Af22E98aE394d",
+    "reward": 355000000000000000,
+    "reward_decimal": 355133994763849000
+  },
+  {
+    "address": "0xCb07ADd17956994f09F934893f65bd6a08bbe195",
+    "reward": 1870000000000000000,
+    "reward_decimal": 1866251593847150000
+  },
+  {
+    "address": "0xf392eF2C5CCeb67bcc2857204BD1e311A99BC8cC",
+    "reward": 1870000000000000000,
+    "reward_decimal": 1865868301262680000
+  },
+  {
+    "address": "0x4C11CCD1822c1930d7C75f7A99be7026068118D5",
+    "reward": 9780000000000000,
+    "reward_decimal": 9783734865217780
+  },
+  {
+    "address": "0x6A491c894a97303e598cBa28A64BB2DbB94AFF86",
+    "reward": 466000000000000000,
+    "reward_decimal": 465508843854462000
+  },
+  {
+    "address": "0x8f35Df47832dC2015011D0af1D5F1aBd6f7a905f",
+    "reward": 475000000000000000,
+    "reward_decimal": 474770150927030000
+  },
+  {
+    "address": "0x9c57027B1eca93093a6F446422C59C85A5A3Fa52",
+    "reward": 2420000000000000000,
+    "reward_decimal": 2418902006783800000
+  },
+  {
+    "address": "0xAcf4561Eca965D4bF5EE4a09f260d7Cb12d67DeD",
+    "reward": 5030000000000000000,
+    "reward_decimal": 5025936617976010000
+  },
+  {
+    "address": "0x264c50DD1BeD76C713C2D290AD7D05282307b21c",
+    "reward": 238000000000000000,
+    "reward_decimal": 237917085570777000
+  },
+  {
+    "address": "0xa1939E5f9BA6A692e83ea4AeDAbe4e3268d6abe4",
+    "reward": 3850000000000000000,
+    "reward_decimal": 3848589383763160000
+  },
+  {
+    "address": "0xa1E69aeF7Cd9961f2CD6566A6D99D91A66f01208",
+    "reward": 129000000000000000,
+    "reward_decimal": 128625612970204000
+  },
+  {
+    "address": "0x3177a849e797CC2E81D0CDffA1146B35Afa79Fb9",
+    "reward": 4790000000000000000,
+    "reward_decimal": 4791400888473480000
+  },
+  {
+    "address": "0xf0Bd3B6229bAE77FCd341B7Bf1Fe782433e05CF4",
+    "reward": 47100000000000000,
+    "reward_decimal": 47134926461052000
+  },
+  {
+    "address": "0xAf5eE721c0De11cF78c0500129Bf0571C963C542",
+    "reward": 95100000000000000,
+    "reward_decimal": 95144718246186200
+  },
+  {
+    "address": "0x90E1be3A989806D1D474A086f4B9D2b18efcB987",
+    "reward": 54300000000000000,
+    "reward_decimal": 54252549975966500
+  },
+  {
+    "address": "0xdFbdB99Fb2fc43AFD19336779886FE6106a58254",
+    "reward": 47000000000000000,
+    "reward_decimal": 47037186852008800
+  },
+  {
+    "address": "0x8D055bCcafFA33986c8832D94B13bafcA79642F8",
+    "reward": 22100000000000000,
+    "reward_decimal": 22114448954324400
+  },
+  {
+    "address": "0x76282533048dD2fd9ca0773548a1b81db44c46Bf",
+    "reward": 79200000000000000,
+    "reward_decimal": 79193997342930900
+  },
+  {
+    "address": "0x81f32F2FC3c108d18DAebfFdE53a12182fbd0Bde",
+    "reward": 15600000000000000,
+    "reward_decimal": 15643224427353800
+  },
+  {
+    "address": "0x01ebb465249D69Ee505e8092a0e62362c84C1dF4",
+    "reward": 11900000000000000,
+    "reward_decimal": 11945025925970600
+  },
+  {
+    "address": "0x885FE0C990AAf718BB8c8a06Ac139697BD8bed5a",
+    "reward": 97300000000000000,
+    "reward_decimal": 97347117436623900
+  },
+  {
+    "address": "0xA3403761930a452411EC7d29613DeD5527afB6Df",
+    "reward": 2050000000000000000,
+    "reward_decimal": 2048453748453230000
+  },
+  {
+    "address": "0xFd608cC005Ef4A285061ccA86519247e0C664494",
+    "reward": 226000000000000000,
+    "reward_decimal": 225824491999781000
+  },
+  {
+    "address": "0x282aB059f398fCe52dc68b7335ef5791C256d783",
+    "reward": 185000000000000000,
+    "reward_decimal": 185336338069392000
+  },
+  {
+    "address": "0xDBb7d0E58685aE32cfAee9A85DEB9450e2E1bd7E",
+    "reward": 117000000000000000,
+    "reward_decimal": 117367255709335000
+  },
+  {
+    "address": "0x9405Ed9aB5a63e0aAE5E65D20Ddb0382C608C4f7",
+    "reward": 90700000000000000,
+    "reward_decimal": 90677443174038100
+  },
+  {
+    "address": "0xB6e8e94a9072C9Fc6B7c52Ee6588b221B3C9A8e0",
+    "reward": 10900000000000000000,
+    "reward_decimal": 10869794403350100000
+  },
+  {
+    "address": "0x6B9ddEF8342D656c4c68619b62Ba26A666A5A01D",
+    "reward": 12300000000000000000,
+    "reward_decimal": 12335324811428400000
+  },
+  {
+    "address": "0x5D55dcF952e94fcFB7cFF0bDAb088FDB44CD6e6d",
+    "reward": 1800000000000000,
+    "reward_decimal": 1803391609991970
+  },
+  {
+    "address": "0xeaCAD8ac4886704bc3786DcD46274eE2Ba86b311",
+    "reward": 574000000000000000,
+    "reward_decimal": 573654846566308000
+  },
+  {
+    "address": "0x228CCc8441e22479A1E2e947F933f3BCc93DAdE6",
+    "reward": 1800000000000000,
+    "reward_decimal": 1796300697179030
+  },
+  {
+    "address": "0xB44Ce48a53a79548dBAfC3407B28bD37cb9f9956",
+    "reward": 2100000000000000000,
+    "reward_decimal": 2102525120815670000
+  },
+  {
+    "address": "0x4640081C01b7f9d6515e6BC74627f96640778084",
+    "reward": 8910000000000000000,
+    "reward_decimal": 8909636126304630000
+  },
+  {
+    "address": "0x3fD95C0883bc85e164a804f4589Ab3d316C57A85",
+    "reward": 880000000000000,
+    "reward_decimal": 880039773972701
+  },
+  {
+    "address": "0x6D952D7531Cd4cE6965263CD8915b6a521f4b125",
+    "reward": 1520000000000000000,
+    "reward_decimal": 1522303034929980000
+  },
+  {
+    "address": "0x895245DF0A2383bD0D09C0aE718f9EF173CEdE7b",
+    "reward": 152000000000000000,
+    "reward_decimal": 152097684258766000
+  },
+  {
+    "address": "0xC231C4Bfd931e1de326e35EB6C990556cDe73907",
+    "reward": 140000000000000000,
+    "reward_decimal": 140438402954528000
+  },
+  {
+    "address": "0x85b03f79f7Fa1Afd1BC448D301bFE579C11AaD80",
+    "reward": 773000000000000000,
+    "reward_decimal": 772782435117979000
+  },
+  {
+    "address": "0x5fCF8f9248D0e9703A0B0280F11BADdBD98F269b",
+    "reward": 442000000000000000,
+    "reward_decimal": 441946315515961000
+  },
+  {
+    "address": "0x6bAFe241A6292De17915a72496E1FC9d1bBBe0C1",
+    "reward": 5170000000000000000,
+    "reward_decimal": 5168111093579890000
+  },
+  {
+    "address": "0x27aBBde67f94488ABA842073eb314FCdd909E520",
+    "reward": 113000000000000000,
+    "reward_decimal": 113005961036796000
+  },
+  {
+    "address": "0x7d6dF31877A3f49117664d0C9e84b4a67d9cBf04",
+    "reward": 575000000000000000,
+    "reward_decimal": 574849473728994000
+  },
+  {
+    "address": "0xA55651C78cAdC8899994FD5791c271d4Ebf66a13",
+    "reward": 87400000000000000,
+    "reward_decimal": 87429038520545700
+  },
+  {
+    "address": "0x4a17DCbd774cf849391A6F877f5ed1644C80ccF3",
+    "reward": 175000000000000000,
+    "reward_decimal": 174704760007298000
+  },
+  {
+    "address": "0xFdBE4D68f5982e87B689e0DFe97f0D47F450B284",
+    "reward": 118000000000000000,
+    "reward_decimal": 118449827284948000
+  },
+  {
+    "address": "0x11e03386CA3FED3625B7e9d62F9b3Db5eC5e9Af1",
+    "reward": 43600000000000000,
+    "reward_decimal": 43589949170315900
+  },
+  {
+    "address": "0x33903c97C2DbD48B99010d5DfCb98AaF7b2C44f3",
+    "reward": 43600000000000000,
+    "reward_decimal": 43580366855703900
+  },
+  {
+    "address": "0xAd5560C4E1E2f7a99A5A5Badbe86d4183ebd5a3b",
+    "reward": 1150000000000000000,
+    "reward_decimal": 1150760380447570000
+  },
+  {
+    "address": "0x3B8d108a166a62Af6d6Ba1e715459DBce30f19Ca",
+    "reward": 453000000000000000,
+    "reward_decimal": 452887019047441000
+  },
+  {
+    "address": "0x16C9181eaE8F357258A9dAA82383B303A17BCA6c",
+    "reward": 696000000000000000,
+    "reward_decimal": 696135991937813000
+  },
+  {
+    "address": "0x4Ff267bc3368EfDA25031729D3E6F345454298Fd",
+    "reward": 706000000000000000,
+    "reward_decimal": 706422415027580000
+  },
+  {
+    "address": "0x09dcFE3FAb92E5B3a3a0ecf608c367696872570b",
+    "reward": 200000000000000000,
+    "reward_decimal": 199786468504396000
+  },
+  {
+    "address": "0x1E6Cbde04705dC141c628e7A6651923A00998d78",
+    "reward": 384000000000000000,
+    "reward_decimal": 384339164884814000
+  },
+  {
+    "address": "0x41b22EF8fB9B1aAF42D960340358d207DfEC7C63",
+    "reward": 86700000000000000,
+    "reward_decimal": 86719947239252400
+  },
+  {
+    "address": "0xD52ecc85c0189b09f26A5A154C40d8e695E246DE",
+    "reward": 86700000000000000,
+    "reward_decimal": 86652871036967900
+  },
+  {
+    "address": "0x31Ec7F93a6Ede61d52e2eDDc9412d65010d06996",
+    "reward": 12000000000000000000,
+    "reward_decimal": 12016984125903700000
+  },
+  {
+    "address": "0xc4F9066FdDb746376A5dd4bcD754595Ae8c5242f",
+    "reward": 145000000000000000,
+    "reward_decimal": 145287054148236000
+  },
+  {
+    "address": "0x73bfDE1e9880bcd6f40b349B113417EeF071356D",
+    "reward": 272000000000000000,
+    "reward_decimal": 271955742872577000
+  },
+  {
+    "address": "0x3916D97cAAeA5aedfBC4AB1Cd044f7A91AF94421",
+    "reward": 86400000000000000,
+    "reward_decimal": 86384566227829900
+  },
+  {
+    "address": "0x36e24b7D796a6545768BDf34af02484124bafA1F",
+    "reward": 193000000000000000,
+    "reward_decimal": 192637582688061000
+  },
+  {
+    "address": "0x208E1f4455B8Bd5CB82D8628c1f1d427A4Ea811b",
+    "reward": 864000000000000000,
+    "reward_decimal": 863558192839937000
+  },
+  {
+    "address": "0x543451681F3eB0A57B04C464c59bEe0be6bA0D2E",
+    "reward": 93500000000000000,
+    "reward_decimal": 93469801519355500
+  },
+  {
+    "address": "0x4C75D0f2B71B177151bF77d2409c6Cb9114f450A",
+    "reward": 129000000000000000,
+    "reward_decimal": 129231886015709000
+  },
+  {
+    "address": "0x05c3a3F6fc12373fA2349CF85f136cD14b3d0758",
+    "reward": 258000000000000000,
+    "reward_decimal": 258320037312239000
+  },
+  {
+    "address": "0x7bCBeA9B1cA35F0B20C982578deD411F97ad897B",
+    "reward": 89300000000000000,
+    "reward_decimal": 89341668517115300
+  },
+  {
+    "address": "0x57FF64765858a48a3aFCF9457634F5CD0e40e7C1",
+    "reward": 2600000000000000000,
+    "reward_decimal": 2600862207945920000
+  },
+  {
+    "address": "0xa85D0f31b33FC9ADAF47887467f174a3ABC18CA4",
+    "reward": 8570000000000000000,
+    "reward_decimal": 8572338651959690000
+  },
+  {
+    "address": "0xe95A3fE954DA12b963Ee0C5e167336562A91534B",
+    "reward": 171000000000000000,
+    "reward_decimal": 171350949893073000
+  },
+  {
+    "address": "0x6c9D5cCBDb7a435B9C17f629ceF58BBbf3620448",
+    "reward": 8570000000000000000,
+    "reward_decimal": 8566589263192440000
+  },
+  {
+    "address": "0x451b9ED33c9912fE3f2648326C285FBc629A15b8",
+    "reward": 85700000000000000,
+    "reward_decimal": 85656310317312400
+  },
+  {
+    "address": "0x606EAF6Afae3Cad042fbE7D8D32aAC88935F3430",
+    "reward": 171000000000000000,
+    "reward_decimal": 171255126746952000
+  },
+  {
+    "address": "0xd38128E0C187c7816eF08b022780dE34177C30b8",
+    "reward": 42800000000000000,
+    "reward_decimal": 42813781686738100
+  },
+  {
+    "address": "0x44fF5B306885D652FD46EFD512678D0a18120b42",
+    "reward": 168000000000000000,
+    "reward_decimal": 167830024212013000
+  },
+  {
+    "address": "0x187F490d87bffdBdF88A22aEC9DB55521D06eB41",
+    "reward": 8560000000000000,
+    "reward_decimal": 8560839874425200
+  },
+  {
+    "address": "0x300Be37F3e66a7b0056017679B8c0Efad72ac8EF",
+    "reward": 77000000000000000,
+    "reward_decimal": 77047558869826800
+  },
+  {
+    "address": "0x0d6acFDf4BbcD83300639005E5A66d06A390BfB9",
+    "reward": 171000000000000000,
+    "reward_decimal": 171197632859280000
+  },
+  {
+    "address": "0x77f91a979EdB782963A50312acd7f9c566F406E2",
+    "reward": 21400000000000000,
+    "reward_decimal": 21399704107410000
+  },
+  {
+    "address": "0x1E54F6E49648b5bD0B024F272f2041CFEb444CBe",
+    "reward": 8440000000000000000,
+    "reward_decimal": 8435763359141010000
+  },
+  {
+    "address": "0x2adB021f05D9441Ade53cda11b3019c1D0137141",
+    "reward": 36000000000000000,
+    "reward_decimal": 35951502900448800
+  },
+  {
+    "address": "0x15fDde6aB02954A83130B333011454d7A0a26789",
+    "reward": 214000000000000000,
+    "reward_decimal": 213997041074100000
+  },
+  {
+    "address": "0x4600dfa3D4be0a4D71294E67BD5Ea0437331c5f2",
+    "reward": 105000000000000000,
+    "reward_decimal": 105286544208457000
+  },
+  {
+    "address": "0x06b04A5e95620DBD13a2b27BC359E0a77f263051",
+    "reward": 4280000000000000000,
+    "reward_decimal": 4278982590020790000
+  },
+  {
+    "address": "0xC3A6C69E92773684E1b5ad3Ae0222c9634E3C563",
+    "reward": 85400000000000000,
+    "reward_decimal": 85435917081234700
+  },
+  {
+    "address": "0xb91b003012307FC2687F147DBFdAEcC056c5AC3f",
+    "reward": 854000000000000000,
+    "reward_decimal": 853880055081743000
+  },
+  {
+    "address": "0xAC5e7DEaFe7c42fD74032EA286a39426560b0e7f",
+    "reward": 9940000000000000000,
+    "reward_decimal": 9938629531288680000
+  },
+  {
+    "address": "0x9f92f15B58472c9b9EdFd527043d178997E55Bb8",
+    "reward": 25500000000000000,
+    "reward_decimal": 25521536737792800
+  },
+  {
+    "address": "0xa55Ac6c26C20f746FE48A47AC1f68D3331901CE0",
+    "reward": 120000000000000000,
+    "reward_decimal": 119924200540420000
+  },
+  {
+    "address": "0xbB85C502bb5E58b3a3F681a5831eED66a09cE8C1",
+    "reward": 237000000000000000,
+    "reward_decimal": 237396095125318000
+  },
+  {
+    "address": "0x92b57Bd7aE20029C9E4238C6AeC30032309d76E1",
+    "reward": 99900000000000000,
+    "reward_decimal": 99943733050203600
+  },
+  {
+    "address": "0x98Fcf2Ecd0Ca94846e578107183B46706c9c8C89",
+    "reward": 705000000000000000,
+    "reward_decimal": 705468687254241000
+  },
+  {
+    "address": "0x15cD470e61bC023D60863Aa351cDE0a2c345e404",
+    "reward": 138000000000000000,
+    "reward_decimal": 137589293350921000
+  },
+  {
+    "address": "0x587764b66E280C06e56289F44b552109396334c8",
+    "reward": 1770000000000000000,
+    "reward_decimal": 1771214197524630000
+  },
+  {
+    "address": "0x6Af243bDC68B6481a7187CEc31d4B9B4e4D6006C",
+    "reward": 979000000000000000,
+    "reward_decimal": 978918241107476000
+  },
+  {
+    "address": "0x9e32A7595470C796D20F760e88616f314F16088d",
+    "reward": 7290000000000000000,
+    "reward_decimal": 7294541693774040000
+  },
+  {
+    "address": "0x3238e4dbb25EFEFc5d00624F949bc40e719a6F27",
+    "reward": 10000000000000000000,
+    "reward_decimal": 10034545913330500000
+  },
+  {
+    "address": "0x1Bb2da1458854688fD39A7A4d86435adBeebB21f",
+    "reward": 920000000000000000,
+    "reward_decimal": 920295077658015000
+  },
+  {
+    "address": "0x5E019dA7fec8f30A3ff84987F2c320AAE3d8fFD3",
+    "reward": 38400000000000000,
+    "reward_decimal": 38418948913057300
+  },
+  {
+    "address": "0x77d058baC7145f72c073688B8aDd0253F25A1930",
+    "reward": 835000000000000,
+    "reward_decimal": 834811249003720
+  },
+  {
+    "address": "0x881040aB57905aD03F4057B4dbb2Fb5EcE2257E2",
+    "reward": 167000000000000000,
+    "reward_decimal": 166923920542296000
+  },
+  {
+    "address": "0xe70431D50b740b472Ac03523aAc8c31f8f4650e4",
+    "reward": 29000000000000000000,
+    "reward_decimal": 28966016820986700000
+  },
+  {
+    "address": "0xEAA293eaD43fc32CB4a85Dce7EC971eacdE2feAc",
+    "reward": 8430000000000000000,
+    "reward_decimal": 8428343677113750000
+  },
+  {
+    "address": "0xC3464d0b24243Ca95d8ea7600620ecb626480842",
+    "reward": 4320000000000000000,
+    "reward_decimal": 4320716540673890000
+  },
+  {
+    "address": "0x4f9Cd0F90A9e7FD20a326fAa15e5D346217b75f1",
+    "reward": 14100000000000000,
+    "reward_decimal": 14079390682663600
+  },
+  {
+    "address": "0xE68e106b80525508eF958EE21F93Cd7d3A82b5b3",
+    "reward": 6200000000000000,
+    "reward_decimal": 6204309153451370
+  },
+  {
+    "address": "0x82fe0598079B21cC0Ff6Ad14c8E0C82D1741f330",
+    "reward": 165000000000000000,
+    "reward_decimal": 165275762429019000
+  },
+  {
+    "address": "0xf3AB1EF3ae95F8b27dA801f283C2bB1C9994e8b7",
+    "reward": 991000000000000000,
+    "reward_decimal": 990896565576719000
+  },
+  {
+    "address": "0x0970e464BafC1aeA1547Bc77050ccf1c5d8672e6",
+    "reward": 7020000000000000,
+    "reward_decimal": 7019332922781160
+  },
+  {
+    "address": "0xBb0d4f14ec80f8EdFC7342207Ac107E920C75703",
+    "reward": 9490000000000000,
+    "reward_decimal": 9486826846962790
+  },
+  {
+    "address": "0xe1947E8293cCce495a0aF4F08b766D31530bf90B",
+    "reward": 247000000000000000,
+    "reward_decimal": 247309957822968000
+  },
+  {
+    "address": "0xf2fE37bbC7f1540Fd323d52bb5c20e0481905B26",
+    "reward": 10100000000000000,
+    "reward_decimal": 10094968443817900
+  },
+  {
+    "address": "0x4646A15B4e2c605e4a36449D37Eca03440e72147",
+    "reward": 82300000000000000,
+    "reward_decimal": 82264170944638900
+  },
+  {
+    "address": "0x0e5219323bFDAC86535b347b7Ea190BD51C299D6",
+    "reward": 30000000000000000000,
+    "reward_decimal": 29954084064439400000
+  },
+  {
+    "address": "0x4bCA97bAEAe9C5BfEa0469e8c26bAE6F7d2CE844",
+    "reward": 246000000000000000,
+    "reward_decimal": 245958851462666000
+  },
+  {
+    "address": "0x828F307Bb60861455a3215B8Df4b62b763c30d43",
+    "reward": 4100000000000000,
+    "reward_decimal": 4096439496660810
+  },
+  {
+    "address": "0x918084B534F3Fe8d5C73D342b3AD7f6da3D42024",
+    "reward": 409000000000000000,
+    "reward_decimal": 409308568654659000
+  },
+  {
+    "address": "0xA659f9D226b4E218d01ca451d55C11f42E4ec3b8",
+    "reward": 163000000000000000,
+    "reward_decimal": 163148488585139000
+  },
+  {
+    "address": "0x2a84BF1b570186D6744E6431544A26059d0Dbbf8",
+    "reward": 81400000000000000,
+    "reward_decimal": 81449674202612800
+  },
+  {
+    "address": "0x0ab6C0400AA87CF147ACD9Af80eb28bE63f7ba99",
+    "reward": 142000000000000000,
+    "reward_decimal": 142373263920998000
+  },
+  {
+    "address": "0xE85DBB09A699c0543C363c3f6E51ef0049e3edC5",
+    "reward": 8090000000000000,
+    "reward_decimal": 8087473532588840
+  },
+  {
+    "address": "0x8024361c58DF4Ec1D33f16E2C63B156268CA9c63",
+    "reward": 148000000000000000,
+    "reward_decimal": 147930623103415000
+  },
+  {
+    "address": "0x513312370a59E5665Ef8b3c21237a1c4698eaCC9",
+    "reward": 145000000000000000,
+    "reward_decimal": 144577100458628000
+  },
+  {
+    "address": "0x22f128126F2F0c797b8BC4db2E9aaE5DE4C459E9",
+    "reward": 4030000000000000,
+    "reward_decimal": 4028405062915110
+  },
+  {
+    "address": "0x2ed65d580Eb8648000A90A12Daf7880E9F122eb0",
+    "reward": 214000000000000000,
+    "reward_decimal": 214311149347083000
+  },
+  {
+    "address": "0xE7902034B87e437247B7eccf9C7F676468840b6B",
+    "reward": 80600000000000000,
+    "reward_decimal": 80568101258302100
+  },
+  {
+    "address": "0xcF03F6a295B6b27b36E8f31c001ba5D86567811b",
+    "reward": 40300000000000000,
+    "reward_decimal": 40269677157232900
+  },
+  {
+    "address": "0x8e92D378ea3B0EcBD560a5d1ec5Ac0972e2C52cd",
+    "reward": 144000000000000000,
+    "reward_decimal": 144113987193427000
+  },
+  {
+    "address": "0x2db9eE20CAfeb457DB128ce835bF620Dcd0Da427",
+    "reward": 143000000000000000,
+    "reward_decimal": 143172428959644000
+  },
+  {
+    "address": "0x25601eCB0937c81aA997f99a9e35740a895E2ad9",
+    "reward": 142000000000000000,
+    "reward_decimal": 142266325289927000
+  },
+  {
+    "address": "0x1Ecaef7b61476159b957B971b77cc0155fcf00F9",
+    "reward": 75700000000000000,
+    "reward_decimal": 75691589484859000
+  },
+  {
+    "address": "0x45942282511891f71c2e0E07e37D4945Aa84495e",
+    "reward": 1270000000000000000,
+    "reward_decimal": 1274552098988570000
+  },
+  {
+    "address": "0x83b8974a638205f09e8F7cA517f9AB62FA627Bd6",
+    "reward": 2030000000000000000,
+    "reward_decimal": 2025320651544080000
+  },
+  {
+    "address": "0xe585c961Ad5bD2e5579719743d59e25Bf555983e",
+    "reward": 159000000000000000,
+    "reward_decimal": 158913105526603000
+  },
+  {
+    "address": "0x2A0Ed122B2349E834B28B25afF760a4d1dC80e64",
+    "reward": 260000000000000000,
+    "reward_decimal": 260428913112064000
+  },
+  {
+    "address": "0x376902437b1a4c48b114Ccf9e1e32d6c156385f8",
+    "reward": 1960000000000000000,
+    "reward_decimal": 1956340778727160000
+  },
+  {
+    "address": "0xc9A7d629dDe12128A1Ec431FA9D82496fb256a6C",
+    "reward": 455000000000000000,
+    "reward_decimal": 455387524045460000
+  },
+  {
+    "address": "0xb1656a0f76857f5B7c572f207A80cfDC08Bc5930",
+    "reward": 784000000000000000,
+    "reward_decimal": 783929158413617000
+  },
+  {
+    "address": "0x0436F3934d66c1b9a58Eb840884CcDEd098Ae3bE",
+    "reward": 13100000000000000000,
+    "reward_decimal": 13115906196586100000
+  },
+  {
+    "address": "0x1f85aA3b8DDda2f94391E196241aD728d24e7f3D",
+    "reward": 49900000000000000000,
+    "reward_decimal": 49858786109480700000
+  },
+  {
+    "address": "0xb701C8FD992c349b2D33855a7f3BF74C31F1EDf6",
+    "reward": 13500000000000000,
+    "reward_decimal": 13450120082088900
+  },
+  {
+    "address": "0x3acc003815EF955e73dC616BE7dBD887aB5e1224",
+    "reward": 171000000000000000,
+    "reward_decimal": 170874038094830000
+  },
+  {
+    "address": "0xeEB0b63F44229e2Aa06BB47A53ACa672375D6112",
+    "reward": 74600000000000000,
+    "reward_decimal": 74617483884205400
+  },
+  {
+    "address": "0xaf1C56ABb73ce0C13cCeE81b59479A5D0177eaB9",
+    "reward": 692000000000000000,
+    "reward_decimal": 692039169148568000
+  },
+  {
+    "address": "0x6ea8088B1fc1acEB70F989fd92Adf018a772DdaB",
+    "reward": 119000000000000000,
+    "reward_decimal": 118636720749141000
+  },
+  {
+    "address": "0x77e89140A0b7C6be541d9352Cf8D9856c2dbF75b",
+    "reward": 74000000000000000,
+    "reward_decimal": 74042545007481000
+  },
+  {
+    "address": "0x21384970C70fEb058E97b98fB3b5088906730ce5",
+    "reward": 87900000000000000,
+    "reward_decimal": 87928181288688600
+  },
+  {
+    "address": "0x4c3d1B696ff0Eb8171e5466d3B3a3CF9c1CFF980",
+    "reward": 1110000000000000000,
+    "reward_decimal": 1105751194660050000
+  },
+  {
+    "address": "0x4EAE152E17188c3f219D4D965aCf0c56A4D8392b",
+    "reward": 106000000000000000,
+    "reward_decimal": 106096920555200000
+  },
+  {
+    "address": "0x8B9225B3860b85131cDeBC4557547fd892BEb97e",
+    "reward": 221000000000000000,
+    "reward_decimal": 220690287830632000
+  },
+  {
+    "address": "0x3c5AB1fa39beA9065ec08Cc30283d84b349B69fC",
+    "reward": 41900000000000000,
+    "reward_decimal": 41860149736544700
+  },
+  {
+    "address": "0x47Ac4291b10E55fF5Ca0a3AD67CB0732Fe300B8C",
+    "reward": 93200000000000000,
+    "reward_decimal": 93218673009159700
+  },
+  {
+    "address": "0xEcbEf4E9Ba5104127b4f8fc835c067e223C26F00",
+    "reward": 130000000000000000,
+    "reward_decimal": 129562763339265000
+  },
+  {
+    "address": "0x4fBF8910ac9Bb5194E34b057198aE1Da9921c5aa",
+    "reward": 146000000000000000,
+    "reward_decimal": 146379438014013000
+  },
+  {
+    "address": "0xb659b3251D9bf3d10d9824e0D6458606b1Da5a04",
+    "reward": 146000000000000000,
+    "reward_decimal": 146360273384788000
+  },
+  {
+    "address": "0xd64C36fF379816dC40043Ac64C7c83A360F2359c",
+    "reward": 21900000000000000000,
+    "reward_decimal": 21948291618951000000
+  },
+  {
+    "address": "0xe32dC9aDA01D0147C24fAc3181600FaD28741F24",
+    "reward": 110000000000000000,
+    "reward_decimal": 109741458094755000
+  },
+  {
+    "address": "0x4078457cB7Dc33b33f5e143506C7906A5bb43B26",
+    "reward": 168000000000000000,
+    "reward_decimal": 168137999803645000
+  },
+  {
+    "address": "0xf285C3701A834F94C5A6593B3923f71b508590f2",
+    "reward": 596000000000000000,
+    "reward_decimal": 596367998537594000
+  },
+  {
+    "address": "0x16265CDD56a5d6D906eb76637c63E8567a28c6C5",
+    "reward": 142000000000000000,
+    "reward_decimal": 142234128712831000
+  },
+  {
+    "address": "0x9e24D3511Dbf138f163f955b5B0300d247f9A918",
+    "reward": 89700000000000000,
+    "reward_decimal": 89695485901851400
+  },
+  {
+    "address": "0x195E86cF02130bBacF0df35229C967C7F9c97e76",
+    "reward": 72800000000000000,
+    "reward_decimal": 72835173366359900
+  },
+  {
+    "address": "0x8804BcA5EDD12A8536C2CCCbFeD8Ef7cAb151002",
+    "reward": 434000000000000000,
+    "reward_decimal": 434481309140572000
+  },
+  {
+    "address": "0x36ECb10e14D433E2e6DBB12b95f437D840749245",
+    "reward": 145000000000000000,
+    "reward_decimal": 144635456754616000
+  },
+  {
+    "address": "0x3F92c0A3B308E892221410CeA93f26F1B651B81C",
+    "reward": 105000000000000000,
+    "reward_decimal": 104968315540190000
+  },
+  {
+    "address": "0x492b1dEaeA6bEBa929AA2206b82986Fc536135d1",
+    "reward": 111000000000000000,
+    "reward_decimal": 111320144427094000
+  },
+  {
+    "address": "0xB4F16b161A135e9D558D7A6bCeD123a0F2A5077e",
+    "reward": 359000000000000000,
+    "reward_decimal": 358570212783737000
+  },
+  {
+    "address": "0x2007649E34Ac55e4c5eC4b9329033275C55931B5",
+    "reward": 206000000000000000,
+    "reward_decimal": 205997724835942000
+  },
+  {
+    "address": "0xD3b0AB25E1bd9d2a3eE236AEba1Db3DBb5AC1D1a",
+    "reward": 354000000000000000000,
+    "reward_decimal": 354162348062184000000
+  },
+  {
+    "address": "0xec1321ad3c24761898CE5788B7D2afBa0054b791",
+    "reward": 89200000000000000,
+    "reward_decimal": 89245462078410100
+  },
+  {
+    "address": "0x349DF54874E84BD521aa014b22DBbfa8Ec7d3857",
+    "reward": 1500000000000000000,
+    "reward_decimal": 1497593311886120000
+  },
+  {
+    "address": "0x961023aF8Ff71e5d60564628b62deC58DBA3dFFA",
+    "reward": 150000000000000000,
+    "reward_decimal": 149696490369386000
+  },
+  {
+    "address": "0xAB10CB1E297B086A4e9cd12f1945Bf892b37a7E9",
+    "reward": 156000000000000000,
+    "reward_decimal": 156410319937705000
+  },
+  {
+    "address": "0x1706f86E1798E341944746Fe336d63b60e1d0CcB",
+    "reward": 3520000000000000000,
+    "reward_decimal": 3519105041283470000
+  },
+  {
+    "address": "0x144D2c1aacc7c929D424a1C8eEcCa8326930bbf9",
+    "reward": 204000000000000000,
+    "reward_decimal": 204310758348486000
+  },
+  {
+    "address": "0x2A16bDD545251B018DaDB3205D9104ef0B1CAF2A",
+    "reward": 10000000000000000,
+    "reward_decimal": 10017160049167900
+  },
+  {
+    "address": "0x3A2c5cc6A4cC692b98F1280D597050299b7D1596",
+    "reward": 84300000000000000,
+    "reward_decimal": 84332034437924100
+  },
+  {
+    "address": "0xE825b8f1b95D331C7DA5986AD81de3D3B6464Bd7",
+    "reward": 2120000000000000000,
+    "reward_decimal": 2119793889093820000
+  },
+  {
+    "address": "0xA4B74c3949f0Ba29C29d32cCc0B1a0a0DFeA0A4c",
+    "reward": 144000000000000000,
+    "reward_decimal": 143772569323799000
+  },
+  {
+    "address": "0xf3fA97c8A05339ECb5039bE3CC6a2854fdbf79a8",
+    "reward": 6310000000000000,
+    "reward_decimal": 6309379233172740
+  },
+  {
+    "address": "0xCc95E8943aBddb3ea8dfa6F404BAa1836140cd8F",
+    "reward": 90800000000000000,
+    "reward_decimal": 90836509596598600
+  },
+  {
+    "address": "0xa133877CA0264C61a825362CC0Bc521C14905eCD",
+    "reward": 102000000000000000,
+    "reward_decimal": 102225742110440000
+  },
+  {
+    "address": "0x58C85B69F7E3237ed9235C58c6eDF70b416605Bb",
+    "reward": 139000000000000000,
+    "reward_decimal": 139192702054958000
+  },
+  {
+    "address": "0x0644D56324152bB12AA2C77352C07A83bBC1C248",
+    "reward": 139000000000000000,
+    "reward_decimal": 138914814931209000
+  },
+  {
+    "address": "0x4E9d41feC48A3A022f4Bc4F018eF3EDE54f12311",
+    "reward": 69400000000000000,
+    "reward_decimal": 69423869364462300
+  },
+  {
+    "address": "0x497d34f35dA5992Fb2C85277de0A3f1A09C99228",
+    "reward": 69200000000000000,
+    "reward_decimal": 69193893813772500
+  },
+  {
+    "address": "0x3cEE862362d0661E52f199347e12a7a5c79A2490",
+    "reward": 3440000000000000000,
+    "reward_decimal": 3438134482811460000
+  },
+  {
+    "address": "0xD30725c1f68430497eDBD5c89288bDDb8f0d2Db3",
+    "reward": 124000000000000000,
+    "reward_decimal": 123600359718195000
+  },
+  {
+    "address": "0x1a3F64bc30E8f31BeA104A055D263Aacc5627ec8",
+    "reward": 280000000000000000,
+    "reward_decimal": 279926240299539000
+  },
+  {
+    "address": "0x2510ED1f029211713d244a8817F21fa15B882C70",
+    "reward": 343000000000000000,
+    "reward_decimal": 342951039966059000
+  },
+  {
+    "address": "0x1F28aA0bc23e042694D2F8Ec9A5c34F6a70D8efB",
+    "reward": 692000000000000000,
+    "reward_decimal": 692222814208108000
+  },
+  {
+    "address": "0x2E43B1247b84487921Db176CE0C1DbD0A9e6E85D",
+    "reward": 690000000000000000,
+    "reward_decimal": 689897905125354000
+  },
+  {
+    "address": "0x81ae0A568cdfe011bE75C1ED0b36B5a8507972d5",
+    "reward": 201000000000000000,
+    "reward_decimal": 200653667976789000
+  },
+  {
+    "address": "0xF53a1d42d43926aAa55788811D6F23bb204fBC83",
+    "reward": 15600000000000000,
+    "reward_decimal": 15555737894945600
+  },
+  {
+    "address": "0xA43fFE7748493E15E45340ba86E14cD272A70367",
+    "reward": 66000000000000000,
+    "reward_decimal": 66012565362564600
+  },
+  {
+    "address": "0x6a7B8eD3799b3730e1b1a9b34C5286B9A53105Fd",
+    "reward": 3250000000000000000,
+    "reward_decimal": 3249842000684250000
+  },
+  {
+    "address": "0x8Bc05725E9107343D95b8E2c46f5e79eEd386c32",
+    "reward": 4680000000000000000,
+    "reward_decimal": 4676092872174280000
+  },
+  {
+    "address": "0xc439d379a109Ff10eF642BA95ce4260b2bA1297c",
+    "reward": 627000000000000000,
+    "reward_decimal": 626587552483394000
+  },
+  {
+    "address": "0x91ae6B383fbA985F6641D46Aa4F6bE41f081E347",
+    "reward": 626000000000000000,
+    "reward_decimal": 626012613606669000
+  },
+  {
+    "address": "0x2244B7865566efb9B921C1E7B44960DA4a914c29",
+    "reward": 889000000000000000,
+    "reward_decimal": 889045520714564000
+  },
+  {
+    "address": "0x346be7F29d10e06fA484B3Be5c431E738e808bE0",
+    "reward": 636000000000000000,
+    "reward_decimal": 636384990058506000
+  },
+  {
+    "address": "0xFc22c7E041d99eA42FaFb0e37b9351998d735689",
+    "reward": 93800000000000000,
+    "reward_decimal": 93784029571272000
+  },
+  {
+    "address": "0x681aA036B5b2d705fE4F6A59E5174dA71D1aE5aB",
+    "reward": 1130000000000000000,
+    "reward_decimal": 1134308217020660000
+  },
+  {
+    "address": "0xA06b3131B3620Df355730cd9f853617fd81151AF",
+    "reward": 17100000000000000000,
+    "reward_decimal": 17100815408660300000
+  },
+  {
+    "address": "0x942a53485D95486AF32BFB18Da421b0DA4FfA75B",
+    "reward": 75200000000000000,
+    "reward_decimal": 75153135271020200
+  },
+  {
+    "address": "0x8CDd4634aC634EE59dB1cb453354382A214C0Bd7",
+    "reward": 57700000000000000,
+    "reward_decimal": 57733445537734300
+  },
+  {
+    "address": "0xF199C7f7A3F198Cd34e0f27A1194BA4a5247D8D6",
+    "reward": 5360000000000000000,
+    "reward_decimal": 5359407727161140000
+  },
+  {
+    "address": "0xF61f8cCB3487aA3a2fA91daFb864E8bfA5426884",
+    "reward": 28800000000000000,
+    "reward_decimal": 28766108465440400
+  },
+  {
+    "address": "0x542e0Ba80e88303fd9d09f03D778900A67DcE127",
+    "reward": 11500000000000000000,
+    "reward_decimal": 11493028145719200000
+  },
+  {
+    "address": "0xCA477be1E0212a6DfCDC85627776e369C596BeDb",
+    "reward": 115000000000000000,
+    "reward_decimal": 114891952198744000
+  },
+  {
+    "address": "0xefA948b06984f85e34cB920B0fb232F796D2cCe4",
+    "reward": 172000000000000000,
+    "reward_decimal": 171734242477556000
+  },
+  {
+    "address": "0x4Ba3e565E3eC3EE4758429cE81Cb23918fc89f54",
+    "reward": 84600000000000000,
+    "reward_decimal": 84550798680517700
+  },
+  {
+    "address": "0xA7339E76683c212D0028E1ac12dCb5b8F7085bCe",
+    "reward": 85800000000000000,
+    "reward_decimal": 85824000823023600
+  },
+  {
+    "address": "0xAE19D31d2dF191191DB260058F356669d13dE732",
+    "reward": 19400000000000000,
+    "reward_decimal": 19437150251711400
+  },
+  {
+    "address": "0x673353dC9B53cAe2574c6DC311Ea7FCbc5Bf873B",
+    "reward": 22900000000000000,
+    "reward_decimal": 22855736812714300
+  },
+  {
+    "address": "0x91C0BffDCF0c7a8afa8953631bD321f0c28fEBBE",
+    "reward": 61700000000000000,
+    "reward_decimal": 61689791594766600
+  },
+  {
+    "address": "0xd0eb9ceaF3FD3b8B7260558614536a38893a4A92",
+    "reward": 57100000000000000,
+    "reward_decimal": 57081848144113400
+  },
+  {
+    "address": "0x19E33D1093eecf4213C0bA88AC6ff676868Bf36E",
+    "reward": 5700000000000000,
+    "reward_decimal": 5703393657105300
+  },
+  {
+    "address": "0x002A1EA57C66e460758D837A910C3Dbf4dd83734",
+    "reward": 114000000000000000,
+    "reward_decimal": 114048708512881000
+  },
+  {
+    "address": "0x02560F41f095347d239Fa822dC8991Defcd755c7",
+    "reward": 14800000000000000,
+    "reward_decimal": 14766538463495300
+  },
+  {
+    "address": "0x088bEe95c6D9c7e8B858D91E58B0884166C2F2C0",
+    "reward": 2420000000000000000,
+    "reward_decimal": 2416600813929710000
+  },
+  {
+    "address": "0x9E978412445E6Ed0be3D17B93cCa3B98765a103a",
+    "reward": 61200000000000000,
+    "reward_decimal": 61213742204838900
+  },
+  {
+    "address": "0xaA19f7527476Ddd19B64E90a2e69F77215178859",
+    "reward": 579000000000000000,
+    "reward_decimal": 579242006747168000
+  },
+  {
+    "address": "0xf07754b580c4ad77F2783Ad8Ed9C865a838Fe98A",
+    "reward": 489000000000000000000,
+    "reward_decimal": 489360495922119000000
+  },
+  {
+    "address": "0x2dD2e40b7c2dFAD47F5F03f01054A9252c7D6a48",
+    "reward": 113000000000000000,
+    "reward_decimal": 112783842984088000
+  },
+  {
+    "address": "0x76A1477D544B6F110aF94Ec738Da254Ca79Ee2C5",
+    "reward": 60800000000000000,
+    "reward_decimal": 60830832912940500
+  },
+  {
+    "address": "0x3e317A6dbE90E5fb8539dD97208af5E82b1a842b",
+    "reward": 93400000000000000,
+    "reward_decimal": 93419709969720900
+  },
+  {
+    "address": "0x25bC0571dd8968DECC52228d9cfA148214A97d8D",
+    "reward": 60700000000000000,
+    "reward_decimal": 60737692814911100
+  },
+  {
+    "address": "0xc1d34a50d4341c4E9839EE70a772ee68ED03B846",
+    "reward": 243000000000000000,
+    "reward_decimal": 242826584462272000
+  },
+  {
+    "address": "0xc68dC84137cFcC60C64a244eea06184239C51ECf",
+    "reward": 60700000000000000,
+    "reward_decimal": 60706646115568100
+  },
+  {
+    "address": "0x8422F6846e4dCc50bF8E278250F4BE5ce957993F",
+    "reward": 60500000000000000,
+    "reward_decimal": 60530714819290400
+  },
+  {
+    "address": "0x862F5BAEE3e278045b08c812A1ab853baa242f9c",
+    "reward": 310000000000000000,
+    "reward_decimal": 310026781897857000
+  },
+  {
+    "address": "0xA1E690BA9c2bd61bA4f1A1952E10dEa188e8cCf4",
+    "reward": 60500000000000000,
+    "reward_decimal": 60489319220166300
+  },
+  {
+    "address": "0xFFB1EF1B3c8B52Eb0279e71fF5828269dD9Eca74",
+    "reward": 60400000000000000,
+    "reward_decimal": 60437574721261000
+  },
+  {
+    "address": "0x4C6120f8B1C6BE871f9bDd07f123630D60504FA3",
+    "reward": 88800000000000000,
+    "reward_decimal": 88840417639757800
+  },
+  {
+    "address": "0x5E4733a624344aAfC44C6a60eDA25a99913183BE",
+    "reward": 5570000000000000,
+    "reward_decimal": 5566366558152670
+  },
+  {
+    "address": "0xf8dac3735c5782f07BddCa9A751BadE72321A17c",
+    "reward": 371000000000000000,
+    "reward_decimal": 371449226914946000
+  },
+  {
+    "address": "0x95e166E147b6d3B78c878A31678e433889353144",
+    "reward": 888000000000000000,
+    "reward_decimal": 888472210831324000
+  },
+  {
+    "address": "0xB1eAA8e0200ade383CEc4Dd9951C2f10757Ada11",
+    "reward": 86300000000000000,
+    "reward_decimal": 86344282177200700
+  },
+  {
+    "address": "0x3778e48B7215F18273Cc14eEf1b1dbCF1603257E",
+    "reward": 98200000000000000,
+    "reward_decimal": 98190696503498500
+  },
+  {
+    "address": "0x63838e398F04B1CC01572714D075a8a902e43135",
+    "reward": 5970000000000000000,
+    "reward_decimal": 5967795182253460000
+  },
+  {
+    "address": "0x7Cfe310b31C71C45a8141326Cb73F7e248a42bd1",
+    "reward": 55000000000000000,
+    "reward_decimal": 54983321244069600
+  },
+  {
+    "address": "0x4683Fb3e11EEEe7fC92681166b16Eac66044f68B",
+    "reward": 559000000000000000,
+    "reward_decimal": 558533187523289000
+  },
+  {
+    "address": "0xeafC24D7aA545CB0C338eB4c5D03Ac0b4D80b727",
+    "reward": 75200000000000000,
+    "reward_decimal": 75248383478264200
+  },
+  {
+    "address": "0x621a15302B8eF4392d4999A4EFC6dC7923AEc70a",
+    "reward": 163000000000000000,
+    "reward_decimal": 163450523141711000
+  },
+  {
+    "address": "0xC753896c5e0Ee61548502A1fac14F76Bd18D825D",
+    "reward": 165000000000000000,
+    "reward_decimal": 164547506518501000
+  },
+  {
+    "address": "0x7771b12c015E6b7Cde6E2cE8ff9372A96b03DCc2",
+    "reward": 82100000000000000,
+    "reward_decimal": 82072524652397500
+  },
+  {
+    "address": "0xcC926602b5e29e6546C36ae2f72344C098aeF151",
+    "reward": 108000000000000000,
+    "reward_decimal": 108280155116414000
+  },
+  {
+    "address": "0xA2D6e7DC82789058e067ac951c4851B18CE707A4",
+    "reward": 64900000000000000,
+    "reward_decimal": 64945095514779800
+  },
+  {
+    "address": "0x6b2466F3cE32C0DF2F57870B4f421C5254A8fBd8",
+    "reward": 69900000000000000,
+    "reward_decimal": 69883820465841700
+  },
+  {
+    "address": "0x8b8306f4011b7A3dD8B6FA9eD693d9011f959347",
+    "reward": 5410000000000000000,
+    "reward_decimal": 5413969139092850000
+  },
+  {
+    "address": "0x0B946Ebf2df5Ea0Fe4D834B9d4aC05e2B07E91A7",
+    "reward": 264000000000000000,
+    "reward_decimal": 263561563405042000
+  },
+  {
+    "address": "0x42132417a34Df752aA9708c77B6f0E2C7234f1F0",
+    "reward": 263000000000000000,
+    "reward_decimal": 263322005539740000
+  },
+  {
+    "address": "0xEEC5d9f955D047a4dF8b753A2991E1A1F1aB71D5",
+    "reward": 797000000000000000,
+    "reward_decimal": 796593145404932000
+  },
+  {
+    "address": "0xe4A822d6E4261a98860c4DD80D2Fb7577e2Fb58b",
+    "reward": 265000000000000000,
+    "reward_decimal": 264542409128734000
+  },
+  {
+    "address": "0xC2391cDfC51Ad6fc660A02b2268311D864AFB61A",
+    "reward": 266000000000000000,
+    "reward_decimal": 266481582136779000
+  },
+  {
+    "address": "0x28C9b1E7C9D920eD87E7De2A2c3e78D5C3919517",
+    "reward": 871000000000000000,
+    "reward_decimal": 870559894303831000
+  },
+  {
+    "address": "0xb1B8e4698Ea04e94D8058712e6E494cc2DE82D13",
+    "reward": 259000000000000000,
+    "reward_decimal": 259201610256550000
+  },
+  {
+    "address": "0x4B09D197C8F1291A1fDc10Df38a44eDe31eB94dc",
+    "reward": 490000000000000000,
+    "reward_decimal": 490005456221347000
+  },
+  {
+    "address": "0xD1bD86E1742796567649c1C3810561bEF21C65d8",
+    "reward": 12800000000000000000,
+    "reward_decimal": 12794192727964200000
+  },
+  {
+    "address": "0xEF8859a5d147A1d23446aFE2f5E934D05627578a",
+    "reward": 1010000000000000,
+    "reward_decimal": 1013425593372740
+  },
+  {
+    "address": "0xe2511B6f86b9198BbD3E829828DCf2b0d273057A",
+    "reward": 3130000000000000000,
+    "reward_decimal": 3133975910382030000
+  },
+  {
+    "address": "0x9e7Aa5B92F925163aDD7B0A9385f41B68e22390e",
+    "reward": 24900000000000000000,
+    "reward_decimal": 24928391463305500000
+  },
+  {
+    "address": "0xd2FcEdc72Ec8e816dAb59e9F08b1Aa5D945Df1A1",
+    "reward": 538000000000000000,
+    "reward_decimal": 537884066119443000
+  },
+  {
+    "address": "0xadd5B0B6B1E59f8c9ff9403Ba224B950f8593a17",
+    "reward": 536000000000000000,
+    "reward_decimal": 535881362365519000
+  },
+  {
+    "address": "0xB32Ae354099B2b6DF7cB45214d760149641E4092",
+    "reward": 48600000000000000,
+    "reward_decimal": 48639828970877900
+  },
+  {
+    "address": "0x048A37681F7389FaDc93852d2A1E37624313a2D0",
+    "reward": 242000000000000000,
+    "reward_decimal": 242288824966242000
+  },
+  {
+    "address": "0x8067eA297795Ca1a25b1F0Bf6f4fbB9dEde7D570",
+    "reward": 4890000000000000000,
+    "reward_decimal": 4891330822990640000
+  },
+  {
+    "address": "0x938D58B3d4D6Ac7b72E4F4977dfe0b3C5e746d80",
+    "reward": 723000000000000000,
+    "reward_decimal": 723416841638382000
+  },
+  {
+    "address": "0xDB591a2CF93490e0c06C65B34883e2BE7FE1516d",
+    "reward": 246000000000000000,
+    "reward_decimal": 246265485530252000
+  },
+  {
+    "address": "0x64f961EeC2ba222DCba8Fa354F03e27529b96F5B",
+    "reward": 5560000000000000000,
+    "reward_decimal": 5559046819666810000
+  },
+  {
+    "address": "0xed9A912182745fE101ecb4291D00b802d982Ba0F",
+    "reward": 969000000000000000,
+    "reward_decimal": 969084774029427000
+  },
+  {
+    "address": "0xaFffA0909dC43312C596F0d70e2e9cf35f018D74",
+    "reward": 244000000000000000,
+    "reward_decimal": 244311651580851000
+  },
+  {
+    "address": "0xCfe99e4DAdDCf2C3D0666e7b23ffA0766B1a4C84",
+    "reward": 548000000000000000,
+    "reward_decimal": 548144616959757000
+  },
+  {
+    "address": "0xf3530b0895f6546EFAB40BdeC684c92Aa7E331dC",
+    "reward": 237000000000000000,
+    "reward_decimal": 237210198221844000
+  },
+  {
+    "address": "0xbE850E10FD4eF262720Deb73dD7509D570E17a02",
+    "reward": 827000000000000000,
+    "reward_decimal": 827187415763636000
+  },
+  {
+    "address": "0x716D1Fa09A064d3363C5A3C6dc78354D6c63038f",
+    "reward": 243000000000000000,
+    "reward_decimal": 242787776088093000
+  },
+  {
+    "address": "0x8143fb6badF1c04FC4257376254548A0e7d929Fa",
+    "reward": 94500000000000000,
+    "reward_decimal": 94500786704254900
+  },
+  {
+    "address": "0xB8e3DDa103BCdb40433cb8a7Bb51e484cE76571a",
+    "reward": 242000000000000000,
+    "reward_decimal": 241558844239095000
+  },
+  {
+    "address": "0x568Bf5e274B1C46c50fC4D7c6DeCa99411452d20",
+    "reward": 467000000000000000,
+    "reward_decimal": 466850367900152000
+  },
+  {
+    "address": "0x825f8787CD40C75A2a44C2Dc9c10050D47173b67",
+    "reward": 4600000000000000,
+    "reward_decimal": 4604302171100630
+  },
+  {
+    "address": "0x20B2A515A710ec56f11688c889aff03F3c232487",
+    "reward": 1150000000000000000,
+    "reward_decimal": 1147242616930330000
+  },
+  {
+    "address": "0xa41f9954D1dEF461052148dC7a08B4e72fD4D737",
+    "reward": 7740000000000000000,
+    "reward_decimal": 7735604519882770000
+  },
+  {
+    "address": "0xCE1E9a05c6CC9a96bd3aE800BA7Fe67fFaafb397",
+    "reward": 83900000000000000,
+    "reward_decimal": 83911179180161800
+  },
+  {
+    "address": "0x99994e5633534aaB31f36b6f713264D17630501b",
+    "reward": 118000000000000000,
+    "reward_decimal": 117696264481540000
+  },
+  {
+    "address": "0x8aEc04500d5F3397342762C60Ad1B476663D83de",
+    "reward": 60000000000000000,
+    "reward_decimal": 60015282116307000
+  },
+  {
+    "address": "0xa2017b6eB81798C3C2ce894D1C73c91382fD11Ab",
+    "reward": 72000000000000000,
+    "reward_decimal": 71982347365885500
+  },
+  {
+    "address": "0xa6Cf35a56A15A59eF8E59aE55101c04CF950ea3b",
+    "reward": 22400000000000000,
+    "reward_decimal": 22389078091106400
+  },
+  {
+    "address": "0x552aF98f6aa80eAEFF903e6f96d785447FDe89B5",
+    "reward": 74300000000000000,
+    "reward_decimal": 74299925977961200
+  },
+  {
+    "address": "0xe48c0E1a655987C1739b72a23e09A81359ecAABE",
+    "reward": 124000000000000000,
+    "reward_decimal": 124437854015290000
+  },
+  {
+    "address": "0xdD7393d11a0f8a9972CCc25f81D0b7e5531e92F4",
+    "reward": 44200000000000000,
+    "reward_decimal": 44212799620100600
+  },
+  {
+    "address": "0xAaE518d2aFA8Ab613b8e94f45708f40F83e03e10",
+    "reward": 44200000000000000,
+    "reward_decimal": 44212799620100600
+  },
+  {
+    "address": "0x6EbE82A3cBB35E5475d1865D2BeD2cC489A10ade",
+    "reward": 1320000000000000000,
+    "reward_decimal": 1322934355342670000
+  },
+  {
+    "address": "0x843443Efe11C3fB460a416c5673e9297340924ad",
+    "reward": 60300000000000000,
+    "reward_decimal": 60286480784458000
+  },
+  {
+    "address": "0xb6fF7EdF552D3552FB6c42a8b67E1fb1f5bd1eDb",
+    "reward": 9160000000000000000,
+    "reward_decimal": 9161655887582570000
+  },
+  {
+    "address": "0x1a272Bb7f757d727C1E2d5C4Ed652fB5335FA6f2",
+    "reward": 4580000000000000000,
+    "reward_decimal": 4583873922048600000
+  },
+  {
+    "address": "0x09a8c8b8954FaA1942B0A06F27B4C32eDf4cCCb3",
+    "reward": 72000000000000000,
+    "reward_decimal": 72024202916111000
+  },
+  {
+    "address": "0x33dddA3Ea34c4dDfF86055e13F1A6EA52e387531",
+    "reward": 102000000000000000,
+    "reward_decimal": 102323788353550000
+  },
+  {
+    "address": "0x13428dD8b46F90AC93E905040589AA16094491e1",
+    "reward": 56600000000000000,
+    "reward_decimal": 56604648876432300
+  },
+  {
+    "address": "0x92A37328f9522cBB10B9565d979597f95F0d9518",
+    "reward": 661000000000000000,
+    "reward_decimal": 660988061940732000
+  },
+  {
+    "address": "0x50a52E9A58104E6C9675A0F890023C379c173C98",
+    "reward": 74800000000000000,
+    "reward_decimal": 74830402914885600
+  },
+  {
+    "address": "0x33E719DF79e92BA2B1e78A0e1b957f0668805C08",
+    "reward": 548000000000000000,
+    "reward_decimal": 548247914311275000
+  },
+  {
+    "address": "0x200Bf8B07ffb47c9e19505596B9aDF7EA0f73df4",
+    "reward": 489000000000000000,
+    "reward_decimal": 488764163186500000
+  },
+  {
+    "address": "0x48fEb62959B94eC5D28fe08451C4b60d4a49556c",
+    "reward": 770000000000000000,
+    "reward_decimal": 769613180383182000
+  },
+  {
+    "address": "0xfBb73Bbe8e55796623ea23D4fbcf496d2F08A912",
+    "reward": 15800000000000000,
+    "reward_decimal": 15791462834402500
+  },
+  {
+    "address": "0xd2c77B64005B92200D72641222A3f65aeF05e66f",
+    "reward": 1060000000000000000,
+    "reward_decimal": 1058845764633960000
+  },
+  {
+    "address": "0x1931CD46e3F25a8f86363EF368D8885212001F73",
+    "reward": 431000000000000000,
+    "reward_decimal": 430999670949422000
+  },
+  {
+    "address": "0x34c308A9ff0f83a60EeD987CC86d7a8422a9442c",
+    "reward": 52200000000000000,
+    "reward_decimal": 52181854908713400
+  },
+  {
+    "address": "0x30a2c1dAB998C6BDc29EE0F11917Da7cd9c9708d",
+    "reward": 27500000000000000000,
+    "reward_decimal": 27473933340002500000
+  },
+  {
+    "address": "0x4d99ef6E610f29e4c9f25169b5d523F4D6D3eDe1",
+    "reward": 147000000000000000,
+    "reward_decimal": 146624361975497000
+  },
+  {
+    "address": "0xc92FC09658fb97cCF59ffd34d404766C3713c828",
+    "reward": 20000000000000000000,
+    "reward_decimal": 19995403444001800000
+  },
+  {
+    "address": "0x8197a9D18BE2de1a7CFB4b753b29636da2F56298",
+    "reward": 728000000000000000,
+    "reward_decimal": 727925512309654000
+  },
+  {
+    "address": "0x709C6E96c8CAB3806CDf2E0976C7019B23031940",
+    "reward": 41800000000000000,
+    "reward_decimal": 41817220967082500
+  },
+  {
+    "address": "0x725f82c29B59D977989D48ac43C6B96E06AFD0C1",
+    "reward": 83600000000000000,
+    "reward_decimal": 83634441934165100
+  },
+  {
+    "address": "0x815696A1860554AdBA00fA984095fc53E673FBE9",
+    "reward": 125000000000000000,
+    "reward_decimal": 125422915957411000
+  },
+  {
+    "address": "0x1841B2e67FfFe0Bc0941e207B0CCF4C8e61bb316",
+    "reward": 41600000000000000,
+    "reward_decimal": 41596827731004900
+  },
+  {
+    "address": "0x417A1b1583BF1422Fdad7aCa891623D3E118Bf92",
+    "reward": 1250000000000000000,
+    "reward_decimal": 1246467484738340000
+  },
+  {
+    "address": "0xfC572BDbb6FD74E3a8DD8d4E902d04F57308aB48",
+    "reward": 953000000000000000,
+    "reward_decimal": 953421139271949000
+  },
+  {
+    "address": "0xD990518fFd8f4Cf7d2e9E5919105159269E36dc1",
+    "reward": 4230000000000000000,
+    "reward_decimal": 4233527922426970000
+  },
+  {
+    "address": "0x9821888988289d6cB3C403223B2f922E59B3239a",
+    "reward": 4130000000000000000,
+    "reward_decimal": 4126144671958240000
+  },
+  {
+    "address": "0x6A0A915102934b2e43030f30A5C5F4Ad24500d98",
+    "reward": 412000000000000000,
+    "reward_decimal": 412326997757462000
+  },
+  {
+    "address": "0xE41F803C984959904ddC24da5C85f9e16fEd8329",
+    "reward": 31900000000000000,
+    "reward_decimal": 31910784563257100
+  },
+  {
+    "address": "0x008D4d925167516aCee14d7Ea5F3b71671Fa3F84",
+    "reward": 45100000000000000,
+    "reward_decimal": 45145158831855200
+  },
+  {
+    "address": "0x4aBCc7decAc262bac6a9bD10C7B5E9eCdC53dF00",
+    "reward": 47000000000000000,
+    "reward_decimal": 47041115600999800
+  },
+  {
+    "address": "0x9e8a40c13E8ae733396e349d12E1adb4e52b3Fd8",
+    "reward": 53700000000000000,
+    "reward_decimal": 53663357406256700
+  },
+  {
+    "address": "0x2d301785e8dc94465956f1d83c896C21a6bCCE58",
+    "reward": 410000000000000000,
+    "reward_decimal": 409643949666081000
+  },
+  {
+    "address": "0x31AF96555A02D0f99c8981168ACdDd32FEe017f5",
+    "reward": 56500000000000000,
+    "reward_decimal": 56494730145517200
+  },
+  {
+    "address": "0x6CF9c45e2CB28158F52C61bd046159f95FEAa04C",
+    "reward": 204000000000000000,
+    "reward_decimal": 203624185506532000
+  },
+  {
+    "address": "0x74aD48c64a02dce26e5701f99c54Cf035b57CB2B",
+    "reward": 203000000000000000,
+    "reward_decimal": 203480450787350000
+  },
+  {
+    "address": "0x8FCdA088347a3D79F698559fBDe090A3823d7eAA",
+    "reward": 342000000000000000,
+    "reward_decimal": 342127080688354000
+  },
+  {
+    "address": "0xDF5faa3f77EACE830e482777C81206f2c71026F1",
+    "reward": 218000000000000000,
+    "reward_decimal": 217771514799795000
+  },
+  {
+    "address": "0xBBD8F844A7ed655dD22820ad38D232942F961531",
+    "reward": 81000000000000000,
+    "reward_decimal": 81008887730457500
+  },
+  {
+    "address": "0xFDFeFA1c076EA7CDAd83962F438A3A1A62e71F65",
+    "reward": 52500000000000000,
+    "reward_decimal": 52506292916849000
+  },
+  {
+    "address": "0x0e4bE5Ab18D3C410D171fF169b8e84eC0B112a95",
+    "reward": 186000000000000000,
+    "reward_decimal": 186245124787201000
+  },
+  {
+    "address": "0x69794735cA88dE2eC2426fB20F416FA00F64Ad37",
+    "reward": 20600000000000000000,
+    "reward_decimal": 20645675028573000000
+  },
+  {
+    "address": "0xDbf483cCD0726a38821De9Bf828fe797422F2fD5",
+    "reward": 2010000000000000000,
+    "reward_decimal": 2006057564037290000
+  },
+  {
+    "address": "0x798f4Cc4dCCC4988de41aFA8877e8c88264262Ac",
+    "reward": 39900000000000000,
+    "reward_decimal": 39900758044668200
+  },
+  {
+    "address": "0x02E0c302380aa679189D9caA349A0Da5A6A19108",
+    "reward": 293000000000000000,
+    "reward_decimal": 292858532099991000
+  },
+  {
+    "address": "0xFa170Cb4e6d942B67D1d3624C904467b0B36d421",
+    "reward": 133000000000000000,
+    "reward_decimal": 133401917688591000
+  },
+  {
+    "address": "0xc7177a8921F130078cEe5Ab430e336BcFf303924",
+    "reward": 34900000000000000,
+    "reward_decimal": 34853369645905300
+  },
+  {
+    "address": "0x5e6F909c4a0c0B773Ee539F0f9A648952Ab18767",
+    "reward": 9030000000000000000,
+    "reward_decimal": 9034415494012700000
+  },
+  {
+    "address": "0xCbac7E254D2e026E52183322E1b8882aAb4Bf9a0",
+    "reward": 570000000000000000,
+    "reward_decimal": 569764426833806000
+  },
+  {
+    "address": "0xa37DD822890beEB2892Cfa59c423016205f0a642",
+    "reward": 967000000000000000,
+    "reward_decimal": 966693603241126000
+  },
+  {
+    "address": "0x9AeE301D7B11a6dc7293B7b6ba5f11cd048590dF",
+    "reward": 192000000000000000,
+    "reward_decimal": 191649765830489000
+  },
+  {
+    "address": "0x337B17597275D1655691EC0B6f851D02be54De79",
+    "reward": 72900000000000000,
+    "reward_decimal": 72902249568644400
+  },
+  {
+    "address": "0x77C7cF72959332FC714C72372fbFf94770993ab8",
+    "reward": 36100000000000000,
+    "reward_decimal": 36086996829063500
+  },
+  {
+    "address": "0xdE881b7be420f371af2a25cD4B25B6dE445C9E47",
+    "reward": 107000000000000000,
+    "reward_decimal": 106922245312737000
+  },
+  {
+    "address": "0xd39Ed49eFe587B697f7D2Da46690dC7A46d93b2F",
+    "reward": 4370000000000000000,
+    "reward_decimal": 4368912229362500000
+  },
+  {
+    "address": "0x58ff412D05DdFd36F940fF46B6B325160ddCF4a5",
+    "reward": 45800000000000000,
+    "reward_decimal": 45823395060097700
+  },
+  {
+    "address": "0xB0957ef31A6d5271993994dC71E4607019cEB3A1",
+    "reward": 919000000000000000,
+    "reward_decimal": 918839715714734000
+  },
+  {
+    "address": "0xD82160b8AFE551f6FF088011C16b400A6056e4BC",
+    "reward": 308000000000000000,
+    "reward_decimal": 307889542446781000
+  },
+  {
+    "address": "0xF56458c3DA53a643d0e00dDd0Ea0b9388cD20a5E",
+    "reward": 175000000000000000,
+    "reward_decimal": 174925153243376000
+  },
+  {
+    "address": "0x8D9405Ca79FedF6C16908210c7E62ad1C6E7B3e3",
+    "reward": 172000000000000000,
+    "reward_decimal": 172433751444237000
+  },
+  {
+    "address": "0x75441C04D34e79199669aF38fEd65C03a9Cd91d5",
+    "reward": 3030000000000000,
+    "reward_decimal": 3026190777638480
+  },
+  {
+    "address": "0x2bAA465Fb1Ff773eB16d9e90BCA17E1fd8E91ffb",
+    "reward": 351000000000000000,
+    "reward_decimal": 351382877930020000
+  },
+  {
+    "address": "0xf83d35B3A127F04dA21E6Bc2539b66302a700B13",
+    "reward": 165000000000000000,
+    "reward_decimal": 165438661777424000
+  },
+  {
+    "address": "0xafCf96fEAE1bB6921Aa1120d7B5f760f793D8F35",
+    "reward": 98800000000000000,
+    "reward_decimal": 98831992908911000
+  },
+  {
+    "address": "0xA52071213De26d2c078AF92911e75E03c32738C0",
+    "reward": 790000000000000000,
+    "reward_decimal": 790195992169913000
+  },
+  {
+    "address": "0x3f99c674e0D76c77D4a90a520c9055ca81C39D1d",
+    "reward": 328000000000000000,
+    "reward_decimal": 327701744492408000
+  },
+  {
+    "address": "0x97c35eDD298c6542F935F0d6CF6Fe55Ca6B785D4",
+    "reward": 70700000000000000,
+    "reward_decimal": 70684901967410900
+  },
+  {
+    "address": "0xd1d768A916079DBC81893A7707704722bF0B1aff",
+    "reward": 54500000000000000,
+    "reward_decimal": 54457252171866900
+  },
+  {
+    "address": "0x25f03115d1885F87d944Af200FFff7354427D479",
+    "reward": 404000000000000000,
+    "reward_decimal": 403936723083131000
+  },
+  {
+    "address": "0x47b8B6541D19717af040f81cA37Ac0faFC6E042b",
+    "reward": 47300000000000000,
+    "reward_decimal": 47317258743490400
+  },
+  {
+    "address": "0x3D6D943CbCe3281F47a9Fb28644FEf8B71685c70",
+    "reward": 551000000000000000,
+    "reward_decimal": 550980023853469000
+  },
+  {
+    "address": "0x2fea1aD40f9b03EBD4AC5d0D84AaA6CA8EC63428",
+    "reward": 158000000000000000,
+    "reward_decimal": 157916544806948000
+  },
+  {
+    "address": "0xE21fF4213CC570BA7521ff55F2998e4B19B179d1",
+    "reward": 40900000000000000,
+    "reward_decimal": 40896360532862400
+  },
+  {
+    "address": "0xbF513c2aA0cF4B18e5677C531FF9cba3162Be953",
+    "reward": 30400000000000000,
+    "reward_decimal": 30395101949492600
+  },
+  {
+    "address": "0xEd46506d9C3D3428C8b95C5dB0DDa0349dE73575",
+    "reward": 60800000000000000,
+    "reward_decimal": 60790203898985300
+  },
+  {
+    "address": "0x9ecd6A8F3A0BB769177d0D750637783405e5bfA1",
+    "reward": 43100000000000000,
+    "reward_decimal": 43140078663908300
+  },
+  {
+    "address": "0xc82ecCF51FFdB98e9F9337B7EE33E3Ff25eDB459",
+    "reward": 36300000000000000,
+    "reward_decimal": 36336137008977400
+  },
+  {
+    "address": "0x9D2280c75Cb364b4485C99d36B577eD0B6AC2BB3",
+    "reward": 450000000000000000,
+    "reward_decimal": 450272963621267000
+  },
+  {
+    "address": "0x8C7B05F7A5083F4c7fd047973df98EC8E160D370",
+    "reward": 29900000000000000,
+    "reward_decimal": 29887239275052800
+  },
+  {
+    "address": "0x8E8f48B03B3990576a4B09A581b1b2e8C7EfebBC",
+    "reward": 2980000000000000,
+    "reward_decimal": 2978183381432000
+  },
+  {
+    "address": "0xA04Ff9E70222027C105278B4504C5B461A819763",
+    "reward": 37200000000000000,
+    "reward_decimal": 37183788559561200
+  },
+  {
+    "address": "0xaD6085AE51120c067ACd9922DC5444Cc0d6E03f2",
+    "reward": 148000000000000000,
+    "reward_decimal": 148142583902634000
+  },
+  {
+    "address": "0x5EE160257a521171906d819e6716D8483b2955a6",
+    "reward": 277000000000000000,
+    "reward_decimal": 276573196770483000
+  },
+  {
+    "address": "0xC8499D0311CA31A60e11D58A5A7e4F1C24B95575",
+    "reward": 176000000000000000,
+    "reward_decimal": 175701320726953000
+  },
+  {
+    "address": "0xD76cDfA6a5F6e6F55D03F4Cd1Cd4a6C50d3c309b",
+    "reward": 25100000000000000000,
+    "reward_decimal": 25091612777481700000
+  },
+  {
+    "address": "0x33788f4Ee8711577371FF72B460ff290a4B02EFe",
+    "reward": 65200000000000000,
+    "reward_decimal": 65165872043441900
+  },
+  {
+    "address": "0x8C702A9a6e0cd14a53251C630743c4F5327eddE8",
+    "reward": 163000000000000000,
+    "reward_decimal": 162587923180333000
+  },
+  {
+    "address": "0xF605D9a5a2Cd202A24bf3751A37D038C5A8b4324",
+    "reward": 86800000000000000,
+    "reward_decimal": 86844517329209300
+  },
+  {
+    "address": "0xD80842DE4334Acd10894900ad0A7606e9FEa0562",
+    "reward": 57900000000000000,
+    "reward_decimal": 57896344886139500
+  },
+  {
+    "address": "0x9E0321d86AF4DbcaFaA2c635B01d59d13fe3c6A7",
+    "reward": 28800000000000000,
+    "reward_decimal": 28766108465440400
+  },
+  {
+    "address": "0x325e6B42667F54fB87353D47E30ee8c6A9ca2182",
+    "reward": 490000000000000000,
+    "reward_decimal": 490465407322726000
+  },
+  {
+    "address": "0x9cadC3315af03aAe75b0F36bc47AE188364Ec3d3",
+    "reward": 50300000000000000,
+    "reward_decimal": 50291053424830100
+  },
+  {
+    "address": "0x9bC9c3C434905fe7C9fFe5247f61835Ece3cbbde",
+    "reward": 485000000000000000,
+    "reward_decimal": 485277158899167000
+  },
+  {
+    "address": "0xdC793d91B0a1422bA75bfc317E5233FC5461d6A0",
+    "reward": 853000000000000000,
+    "reward_decimal": 852921823620537000
+  },
+  {
+    "address": "0x06eA3b4fc6E7f8E8CEb712b641c49479963CCa46",
+    "reward": 80700000000000000,
+    "reward_decimal": 80743265969410800
+  },
+  {
+    "address": "0x982923d65d7D3c607B784aaA5664E774171B6d6a",
+    "reward": 61300000000000000,
+    "reward_decimal": 61268217663408600
+  },
+  {
+    "address": "0xB87B33708766BD3E0c446373A2B7E4CE4ce0bb43",
+    "reward": 14200000000000000,
+    "reward_decimal": 14186616783172700
+  },
+  {
+    "address": "0x55088C70B960B794483e68ADe39DCcDC7B5F4830",
+    "reward": 66000000000000000,
+    "reward_decimal": 65953346658262000
+  },
+  {
+    "address": "0x8b12c489C7cDBC263040bD1DE16b07bC1d463E52",
+    "reward": 30800000000000000,
+    "reward_decimal": 30831097264341900
+  },
+  {
+    "address": "0xF6f54F3676692a0Cc59e545c810EFBA476b13205",
+    "reward": 289000000000000000,
+    "reward_decimal": 289019665220103000
+  },
+  {
+    "address": "0xDdbD6fb297B7c60b1d671C6A7652ec005cFE5938",
+    "reward": 4200000000000000000,
+    "reward_decimal": 4196569030791350000
+  },
+  {
+    "address": "0xEC85bE4d8793b98b5EFbDe07fe92f02CD7466968",
+    "reward": 27700000000000000,
+    "reward_decimal": 27683306914276200
+  },
+  {
+    "address": "0x19e98FcB38d5291288EBF132B02D7eD496e56cA4",
+    "reward": 204000000000000000,
+    "reward_decimal": 203918937503998000
+  },
+  {
+    "address": "0x03785C73e8629729D6e1b3065F7DE0C515386939",
+    "reward": 140000000000000000,
+    "reward_decimal": 139718771127161000
+  },
+  {
+    "address": "0x3E3f428B361C3E11cF3d496df33a8bC9b363559D",
+    "reward": 94200000000000000000,
+    "reward_decimal": 94218108423198800000
+  },
+  {
+    "address": "0x2f156931127E4543b9a08A691Bc26adCfD5996a1",
+    "reward": 466000000000000000,
+    "reward_decimal": 465887153635347000
+  },
+  {
+    "address": "0x24C629b59533Cf5a704c87998f6223B002338449",
+    "reward": 640000000000000000,
+    "reward_decimal": 639791982018829000
+  },
+  {
+    "address": "0xE2a21d5eb6AdD33c0A423Bd53027b84c4903479D",
+    "reward": 282000000000000000,
+    "reward_decimal": 281518437695481000
+  },
+  {
+    "address": "0x4B33768c202BE40539cce75fe315b60D4666AdBa",
+    "reward": 457000000000000000,
+    "reward_decimal": 456932672276658000
+  },
+  {
+    "address": "0x1EB6cd5039Bfcf0390A0CB7703bf6A177B6EBeBb",
+    "reward": 119000000000000000,
+    "reward_decimal": 118546455345496000
+  },
+  {
+    "address": "0x570FC751b36a45A1366A9aC478076Ef07d489d5C",
+    "reward": 270000000000000000,
+    "reward_decimal": 270128131962403000
+  },
+  {
+    "address": "0xD2a4F082A6e7B754aE11FE76616A6083DE478c70",
+    "reward": 130000000000000000,
+    "reward_decimal": 129504981982153000
+  },
+  {
+    "address": "0xEF8F3FFe2d66A2C7b82825C593EcCBa35D146520",
+    "reward": 658000000000000000,
+    "reward_decimal": 658380522488495000
+  },
+  {
+    "address": "0xB3B41365f9179aC0711727aDe3e0879c0Aaa273B",
+    "reward": 177000000000000000,
+    "reward_decimal": 177006288242398000
+  },
+  {
+    "address": "0x03d6968F256D052E9e7777361C3AE4bd266088aF",
+    "reward": 130000000000000000,
+    "reward_decimal": 129501340702602000
+  },
+  {
+    "address": "0x1ef540f66Ae0C241d2cD63449A940C20A79fB5f9",
+    "reward": 436000000000000000,
+    "reward_decimal": 436379517753650000
+  },
+  {
+    "address": "0x6fbfe76915ef79C29391dF89b07840ffF3C7F8e2",
+    "reward": 130000000000000000,
+    "reward_decimal": 129652262157742000
+  },
+  {
+    "address": "0x6f3d305026cB005cA24C0B0BB79562a4Cff5B96d",
+    "reward": 24800000000000000,
+    "reward_decimal": 24770283272206300
+  },
+  {
+    "address": "0x5A28A49b822E15Bd94200d091d976A5b1aea23f9",
+    "reward": 120000000000000000,
+    "reward_decimal": 119964446261791000
+  },
+  {
+    "address": "0x9224A6Db3FC32BBc86270c7a805152E8b2cC748a",
+    "reward": 24500000000000000,
+    "reward_decimal": 24530725406904500
+  },
+  {
+    "address": "0x6D2e5eBae7cbe41FD2Fb41A21CAd1123F7995c5A",
+    "reward": 270000000000000000,
+    "reward_decimal": 269627168554484000
+  },
+  {
+    "address": "0x664589392366694cE95D77F8adc1301DF502D457",
+    "reward": 490000000000000000,
+    "reward_decimal": 489847922969125000
+  },
+  {
+    "address": "0x66D5e667C691b75A32611ef3D0ADe5d0f87D758A",
+    "reward": 14900000000000000,
+    "reward_decimal": 14893599955251400
+  },
+  {
+    "address": "0x5a17F3e13e0CE6B2FCf1DE035dF7B0a055C66E74",
+    "reward": 34100000000000000,
+    "reward_decimal": 34142553547981800
+  },
+  {
+    "address": "0x1Dd63c69cc8d9e6b627f99523a92Cb986280e2Fa",
+    "reward": 250000000000000000,
+    "reward_decimal": 250414915226718000
+  },
+  {
+    "address": "0xfBAc614D04014a03Bd0f7d5Ce49a517d1790deE9",
+    "reward": 48100000000000000,
+    "reward_decimal": 48103219352601900
+  },
+  {
+    "address": "0x0596A045C43FF99724b9089eC71BDc1623210FA1",
+    "reward": 6130000000000000,
+    "reward_decimal": 6133160467456740
+  },
+  {
+    "address": "0x3c0898d19698feE8F26f1021637d19fAC3fA2d80",
+    "reward": 1250000000000000000,
+    "reward_decimal": 1249533825414200000
+  },
+  {
+    "address": "0x1c192FBe418Af7708ad36c2C1b9B1F2134DBbb77",
+    "reward": 238000000000000000,
+    "reward_decimal": 238216341256112000
+  },
+  {
+    "address": "0x0D84880E75F025790449D681BBCBadD2bc014b50",
+    "reward": 23800000000000000,
+    "reward_decimal": 23821634125611200
+  },
+  {
+    "address": "0x6Ec06c70bC7436BDf51Fe23c0A0472fedF16cBC7",
+    "reward": 11800000000000000,
+    "reward_decimal": 11843740860521000
+  },
+  {
+    "address": "0xcAd1e7Da4d7B8D99622378a1AB9106899fA7c8D7",
+    "reward": 137000000000000000,
+    "reward_decimal": 136645531184778000
+  },
+  {
+    "address": "0x02F2eEe105b5F2fAcA1d43a8379047426cacF559",
+    "reward": 1220000000000000000,
+    "reward_decimal": 1219479853864890000
+  },
+  {
+    "address": "0x4eC5aB77EB3103c1270C970f8BECAfa7322f07d3",
+    "reward": 5280000000000000000,
+    "reward_decimal": 5280509583781850000
+  },
+  {
+    "address": "0xd27B99Ec26EC62de29705aF8D530BAf4d65A1313",
+    "reward": 6850000000000000000,
+    "reward_decimal": 6847522021786710000
+  },
+  {
+    "address": "0x78599aa1cCF7E4D33E941a4a1a7d295639663fE1",
+    "reward": 12000000000000000,
+    "reward_decimal": 11984600885318500
+  },
+  {
+    "address": "0x7A20Ac0022391cac5F6E81bb840665CAbD3657D7",
+    "reward": 1800000000000000,
+    "reward_decimal": 1804924780329900
+  },
+  {
+    "address": "0x6D9d94a59eA0d60E5f4e81d2e6141FAc95b24E9F",
+    "reward": 204000000000000,
+    "reward_decimal": 204007478091014
+  },
+  {
+    "address": "0x4da86Df3d1A243Dbc85b97fD07D3E1E4AE2AA1E5",
+    "reward": 19700000000000000,
+    "reward_decimal": 19729985786256400
+  },
+  {
+    "address": "0xb6a6fc7cC5648e009e2A60218ac28E7F40D38DDf",
+    "reward": 98200000000000000,
+    "reward_decimal": 98170813200677800
+  },
+  {
+    "address": "0x03B1793D760Db4b639fBd6ea23fAe905908A4a36",
+    "reward": 267000000000000000,
+    "reward_decimal": 266561594463790000
+  },
+  {
+    "address": "0xBbFB0F147a22b3e9A4B81c276596Cb4675c4351F",
+    "reward": 715000000000000000,
+    "reward_decimal": 714774072974024000
+  },
+  {
+    "address": "0x080D7992F8181a6E2B40cC4059D3ee38d54BF4d3",
+    "reward": 19000000000000000,
+    "reward_decimal": 18992147561126900
+  },
+  {
+    "address": "0xd578EC831cBeB3233b2c0a0506c33Ca40AC1196A",
+    "reward": 1530000000000000000,
+    "reward_decimal": 1528246369744970000
+  },
+  {
+    "address": "0xb70e7f71D48B904D35bA96944609Ae4fabD13bec",
+    "reward": 264000000000000000,
+    "reward_decimal": 263609474978103000
+  },
+  {
+    "address": "0xAad23a77205429720b50972C2D74F9CC8b757e25",
+    "reward": 152000000000000000,
+    "reward_decimal": 152190920179942000
+  },
+  {
+    "address": "0x273B43a2976aC1ac6F53526FfE85583042880B8E",
+    "reward": 317000000000000000,
+    "reward_decimal": 316572269363071000
+  },
+  {
+    "address": "0x502d80306bD1AC0387452C8F9C11C4E57B71e424",
+    "reward": 200000000000000000,
+    "reward_decimal": 199954159010107000
+  },
+  {
+    "address": "0x7b3Fe2F5Af15f180A025f9Db34d7dc006436CFAF",
+    "reward": 176000000000000000,
+    "reward_decimal": 175931296277643000
+  },
+  {
+    "address": "0x3C65C828c63508a14991C91eC04097BF88d5dabF",
+    "reward": 21900000000000000,
+    "reward_decimal": 21856876337551900
+  },
+  {
+    "address": "0x5AE9F813638ECbc7160D3400dC6D607Dd9cb1163",
+    "reward": 17000000000000000,
+    "reward_decimal": 16979861492591700
+  },
+  {
+    "address": "0xb05c8895875349B392e3856535d01D1b9867863e",
+    "reward": 16600000000000000,
+    "reward_decimal": 16606151222720900
+  },
+  {
+    "address": "0xADCD5847b21aa7c4b582C3fa17d75c9dFeC2eEdc",
+    "reward": 22400000000000000,
+    "reward_decimal": 22352502396232100
+  },
+  {
+    "address": "0x7206BC81E2C52441EEFfE120118aC880f4528dDA",
+    "reward": 345000000000000000,
+    "reward_decimal": 344503374933215000
+  },
+  {
+    "address": "0x640883CF129B4c58D2F9A03fBCA28c3f06d1F2A0",
+    "reward": 17500000000000000,
+    "reward_decimal": 17486765935570300
+  },
+  {
+    "address": "0x5ffcd952BDb6EcC4DF9c2BD2ABa149Fe2c523Aea",
+    "reward": 26000000000000000,
+    "reward_decimal": 26004197924802900
+  },
+  {
+    "address": "0x58C0BeA8F2F40484025C437865CFAB573478a5C9",
+    "reward": 152000000000000000,
+    "reward_decimal": 151783863455222000
+  },
+  {
+    "address": "0xc07cdA60F9537a5D468E439551eFA69683bC5588",
+    "reward": 45400000000000000,
+    "reward_decimal": 45391424317385500
+  },
+  {
+    "address": "0xe6C07D713bf6277bA94F4a82B09c6FF090c1f884",
+    "reward": 1510000000000000,
+    "reward_decimal": 1507298088478940
+  },
+  {
+    "address": "0x0363b6bd9F4515B6990bF3C5C3AcEc7fe8cBcA0c",
+    "reward": 1800000000000000,
+    "reward_decimal": 1799558684147130
+  },
+  {
+    "address": "0xe9c7A65D7DD21849CAe6073165f188F1FF3552Ba",
+    "reward": 1790000000000000,
+    "reward_decimal": 1789209784366100
+  },
+  {
+    "address": "0xF4f51F13A72e102c7674De9C20D9598763951751",
+    "reward": 15100000000000000,
+    "reward_decimal": 15090899813114000
+  },
+  {
+    "address": "0xc796A7ff2f3CED6d81400A60194De847Eb7d24c5",
+    "reward": 1980000000000000,
+    "reward_decimal": 1976639858178230
+  },
+  {
+    "address": "0xe78D2CAe7BDeB9E817a5eB3980f3D9128Fef539F",
+    "reward": 25200000000000000,
+    "reward_decimal": 25150892808597800
+  },
+  {
+    "address": "0xEeD65248c77a563f87C9E2140233Bb56f9F5626e",
+    "reward": 2760000000000000000,
+    "reward_decimal": 2763181826317120000
+  },
+  {
+    "address": "0x6A6a759Bd07a98798717ad32FF0b9DcEb904F344",
+    "reward": 98600000000000000,
+    "reward_decimal": 98576528401353300
+  },
+  {
+    "address": "0x20196aE7205e6d387148881CdD609D505B777B39",
+    "reward": 123000000000000000,
+    "reward_decimal": 123073332414531000
+  },
+  {
+    "address": "0x8F63Cc0A0924F869CB21987fe8713ac69A06F500",
+    "reward": 75400000000000000,
+    "reward_decimal": 75427381115217700
+  },
+  {
+    "address": "0x985Eb76944de25bc008D972E37d0B6eC228cc8AD",
+    "reward": 35600000000000000,
+    "reward_decimal": 35608072744752100
+  },
+  {
+    "address": "0xdB67e1b2343da5D3CBa395D3316CCe89c2CB0159",
+    "reward": 42000000000000000,
+    "reward_decimal": 41970538000875700
+  },
+  {
+    "address": "0xec5a840226eF8F61CA1Ada2d3228E3bE612F2f54",
+    "reward": 1030000000000000000,
+    "reward_decimal": 1033452630911970000
+  },
+  {
+    "address": "0x263C5d43282bf6B526a2297c4D348282d46Bd3F8",
+    "reward": 7500000000000000,
+    "reward_decimal": 7499598531138220
+  },
+  {
+    "address": "0x8C09fFc74d9A40e545a9C3Ffd31F480527eAA136",
+    "reward": 18300000000000000,
+    "reward_decimal": 18252871988805500
+  },
+  {
+    "address": "0xd188C6ab379cEbbD5c4635d3A13f6a0883DfD9f1",
+    "reward": 23000000000000000,
+    "reward_decimal": 22989218455260500
+  },
+  {
+    "address": "0x58F2b059387CA0Bd613E720AB0c55c872e11e9Ca",
+    "reward": 23000000000000000,
+    "reward_decimal": 22975324099073000
+  },
+  {
+    "address": "0xecc394022A00b281A5053b745339f1c62D1C289E",
+    "reward": 65100000000000000,
+    "reward_decimal": 65111827789029800
+  },
+  {
+    "address": "0xd76e73F19FA420074B229cE688a93EAF174Bb0F0",
+    "reward": 28400000000000000,
+    "reward_decimal": 28367867470162700
+  },
+  {
+    "address": "0x430f22b48BAE379154024e9de73C6219BC3097C8",
+    "reward": 23100000000000000,
+    "reward_decimal": 23052749201138500
+  },
+  {
+    "address": "0xa5d875e01a78F101f3D5937828f418e75572740F",
+    "reward": 128000000000000000,
+    "reward_decimal": 127732253778921000
+  },
+  {
+    "address": "0x92CE7A895d5dc7A89e3608bbb1a3901256a95B5d",
+    "reward": 17700000000000000,
+    "reward_decimal": 17681286922195400
+  },
+  {
+    "address": "0xf11d0E9C98cF531Adb0085Fc10facFdcFb9fC36E",
+    "reward": 14800000000000000,
+    "reward_decimal": 14810425464418600
+  },
+  {
+    "address": "0x8231A7A6ff03644907427A38E24f7C8461aF63C1",
+    "reward": 12300000000000000,
+    "reward_decimal": 12322856591124700
+  },
+  {
+    "address": "0x224057Ae5C1B5522e5149F3b844A4550A64EbCC5",
+    "reward": 123000000000000,
+    "reward_decimal": 122749450180643
+  },
+  {
+    "address": "0x6cB883C36793BC1d2E426A463e80b522e7De2D93",
+    "reward": 14900000000000000,
+    "reward_decimal": 14858528683771200
+  },
+  {
+    "address": "0x5017498d7086529B3e455897805756D83d1d1402",
+    "reward": 40400000000000000,
+    "reward_decimal": 40354480641549700
+  },
+  {
+    "address": "0xDD9Cf687751bb5DF62fF623a948F599Aa233b008",
+    "reward": 23700000000000000,
+    "reward_decimal": 23668317091818000
+  },
+  {
+    "address": "0x26b14009A8dC128749901Ae41827Cd82c013cF5e",
+    "reward": 11600000000000000,
+    "reward_decimal": 11623347624443400
+  },
+  {
+    "address": "0x8a957F2e4b6d88bdB40ecE52AaB7f204Dd1b8212",
+    "reward": 289000000000000000,
+    "reward_decimal": 289385901284577000
+  },
+  {
+    "address": "0xb1a234Db07Edc208D495b4fbdd9Dc64036Ed4C07",
+    "reward": 5610000000000000,
+    "reward_decimal": 5605654048062160
+  },
+  {
+    "address": "0xF201FC4C9eBdd83a593faE256B649955B5B0A6Fa",
+    "reward": 55500000000000000000,
+    "reward_decimal": 55481601603897300000
+  },
+  {
+    "address": "0x8f7C8Eb5b571483715ccE63882b6584642C83037",
+    "reward": 285000000000000000,
+    "reward_decimal": 284817820262710000
+  },
+  {
+    "address": "0xB77c1093E6D443e6D8bd9F5b07D50b85Ef87c5B6",
+    "reward": 225000000000000000,
+    "reward_decimal": 225065285213066000
+  },
+  {
+    "address": "0x5B57b219B3b4c7fae6C97AbD1d13755b07940862",
+    "reward": 1100000000000000000,
+    "reward_decimal": 1101122936702430000
+  },
+  {
+    "address": "0xC7C52590EeFe7BBAE025a94De7E21420b0A20cFb",
+    "reward": 58900000000000000,
+    "reward_decimal": 58873740976570900
+  },
+  {
+    "address": "0xeeD755889F96bA25235dFC4837e1e8996A638fE5",
+    "reward": 245000000000000000,
+    "reward_decimal": 245067696203744000
+  },
+  {
+    "address": "0xF4B8B10999AFE08966AA4A1d9A6596fB1697f2be",
+    "reward": 116000000000000000,
+    "reward_decimal": 116178665404853000
+  },
+  {
+    "address": "0x9216a12BE6fBFfC4305E1Caca348Ce0652DC2fa3",
+    "reward": 25600000000000000,
+    "reward_decimal": 25570885658045000
+  },
+  {
+    "address": "0x5CeDfd96a1F90BFc5058C18c00FFDF1ddeA14BFB",
+    "reward": 32800000000000000,
+    "reward_decimal": 32790105663633900
+  },
+  {
+    "address": "0x84A737a9DAeBB755120FaeEbd05d4941f010dbe6",
+    "reward": 114000000000000000,
+    "reward_decimal": 113722909816071000
+  },
+  {
+    "address": "0x038526C9978E26D68a7dB24D7152E74aEA460045",
+    "reward": 195000000000000000,
+    "reward_decimal": 194789291434201000
+  },
+  {
+    "address": "0xdAdD11A325fF5111B0ADAD8Ff7b8942df79EEAeB",
+    "reward": 419000000000000000,
+    "reward_decimal": 419135040643047000
+  },
+  {
+    "address": "0xAFBcDFd604DB79D6E5cCe609ab9bdE84a0F63e11",
+    "reward": 8910000000000,
+    "reward_decimal": 8911552589226.59
+  },
+  {
+    "address": "0x74b5d9F1b06f4C49dD4204FAdf7C7Fd7b844656a",
+    "reward": 76400000000000000,
+    "reward_decimal": 76398452878005100
+  },
+  {
+    "address": "0x34ef91db4cDC03be2Aa9F9D1BdaEeEA1e82414a6",
+    "reward": 2200000000000000000,
+    "reward_decimal": 2199141203470540000
+  },
+  {
+    "address": "0x89CCd1E608130536Ed228B6fF2F08732D13f8467",
+    "reward": 45300000000000000,
+    "reward_decimal": 45291384952835400
+  },
+  {
+    "address": "0x6EdCF54D9c41Cb84Baa4B3db276d6385Cd8B4bD5",
+    "reward": 51200000000000000,
+    "reward_decimal": 51210955627589100
+  },
+  {
+    "address": "0xc9AC93897b8bee34a8EB88f1683f5Bc18209dF11",
+    "reward": 43700000000000000,
+    "reward_decimal": 43695354631048700
+  },
+  {
+    "address": "0xb2079986EBEb294b3Fa713e9C14B7717ED85873C",
+    "reward": 242000000000000000,
+    "reward_decimal": 241955552064035000
+  },
+  {
+    "address": "0x331308c4B1121F6A4383D8FF801814054620CE96",
+    "reward": 98800000000000000,
+    "reward_decimal": 98774499021238400
+  },
+  {
+    "address": "0x8BdaB88305784De6c51B36A3f350a25F1b7A153a",
+    "reward": 26000000000000000,
+    "reward_decimal": 26022883438296400
+  },
+  {
+    "address": "0x944dBe05cBa506E62722493581355d5BF87a1EdA",
+    "reward": 771000000000000,
+    "reward_decimal": 771376326271803
+  },
+  {
+    "address": "0xAa9695BB00505255D354f402DC3e2B645AE47E35",
+    "reward": 1400000000000000,
+    "reward_decimal": 1400982307857990
+  },
+  {
+    "address": "0xE4910Ee4354118D87ee64b91B5eF41E6877895e0",
+    "reward": 343000000000000000,
+    "reward_decimal": 343046863112181000
+  },
+  {
+    "address": "0xD074eF131A85D46000F69753bF4388DD0900424e",
+    "reward": 4650000000000000,
+    "reward_decimal": 4648093348877810
+  },
+  {
+    "address": "0x5c73f530681AA4Dabf69fF3348D8ca4067e03ceA",
+    "reward": 67500000000000000,
+    "reward_decimal": 67536919971053000
+  },
+  {
+    "address": "0x8068BD398396B060d820745FDE9C545a38bb776d",
+    "reward": 12600000000000000,
+    "reward_decimal": 12629490658711000
+  },
+  {
+    "address": "0xe76eaD0f69EB255Ee9c50494BdB4389cd838932C",
+    "reward": 125000000000000,
+    "reward_decimal": 125336675125902
+  },
+  {
+    "address": "0xb9d001AcB0bB9d084D1D24748Acff974B403FefE",
+    "reward": 61900000000000,
+    "reward_decimal": 61901752393985.1
+  },
+  {
+    "address": "0xc601B56e140135d5A7EB1923d6fC5f9A5509954f",
+    "reward": 181000000000000000,
+    "reward_decimal": 181084473429724000
+  },
+  {
+    "address": "0x768bAF471b344Ee6787313427050c1f1F77eC319",
+    "reward": 181000000000000000,
+    "reward_decimal": 180696389687934000
+  },
+  {
+    "address": "0xEb5312bF6c8C3a90e5Da4C5e934A1a329421C271",
+    "reward": 10900000000000000,
+    "reward_decimal": 10931504509451800
+  },
+  {
+    "address": "0xed7eB1B40cEC4455C2F95421528A04FB538Bf0F9",
+    "reward": 68000000000000000000,
+    "reward_decimal": 68038458317848900000
+  },
+  {
+    "address": "0x73e257b0e2740e09c51fF205D767bEDf6ACB88Bc",
+    "reward": 9680000000000000,
+    "reward_decimal": 9681204098868610
+  },
+  {
+    "address": "0xe1010d2745fE0d244aA1925e484932E677A8707b",
+    "reward": 216000000000000,
+    "reward_decimal": 216248885007936
+  },
+  {
+    "address": "0xD4e92F250A15394315B9200C3D289199710ee819",
+    "reward": 24900000000000000,
+    "reward_decimal": 24914017991387300
+  },
+  {
+    "address": "0xdC0C4E709920bf42D9B12018f33Fe9Bb10Cdad02",
+    "reward": 35300000000000000,
+    "reward_decimal": 35339576289321800
+  },
+  {
+    "address": "0x6036F9277cDdE02196D5908e660652f6bB88724e",
+    "reward": 49200000000000000,
+    "reward_decimal": 49233165891657400
+  },
+  {
+    "address": "0x5E2b73Fc69642AA16FeD213AE3000dF6e726C6cB",
+    "reward": 19700000000000000,
+    "reward_decimal": 19691656527808100
+  },
+  {
+    "address": "0xf0f1c645c1644C0808fCE2B4c19a781e2f0D8274",
+    "reward": 38400000000000000,
+    "reward_decimal": 38425081594409100
+  },
+  {
+    "address": "0x41e556AdFAd850d7A5dbe8ff91827b2611BBA108",
+    "reward": 19600000000000000,
+    "reward_decimal": 19559057464349300
+  },
+  {
+    "address": "0x71a17762317E7E0cBfc5D2F706FB9cBA7d059E1C",
+    "reward": 416000000000000,
+    "reward_decimal": 416351569894532
+  },
+  {
+    "address": "0xFa07e8333af20fE2c11aDbC4477997E356dD4D42",
+    "reward": 25700000000000000,
+    "reward_decimal": 25739582306790400
+  },
+  {
+    "address": "0x9A2359604322f8ECf3b2F418334a5f10EA4A7AfA",
+    "reward": 370000000000000,
+    "reward_decimal": 369877344025982
+  },
+  {
+    "address": "0x20Bb57Cc426676648D82D02eE6f6eB7BD4D37E15",
+    "reward": 6210000000000000,
+    "reward_decimal": 6213556087052020
+  },
+  {
+    "address": "0xB6253ECC2286dCd83dF8ef429d7312dd8A9CF84F",
+    "reward": 6880000000000000,
+    "reward_decimal": 6880101891467760
+  },
+  {
+    "address": "0xF985F267C14c522b4a52e9342415Bff72E33a0f0",
+    "reward": 185000000000000000,
+    "reward_decimal": 185006514800445000
+  },
+  {
+    "address": "0x56fbebb61Fd4322A073F327747E5144C728adB5D",
+    "reward": 6200000000000000,
+    "reward_decimal": 6199949200302880
+  },
+  {
+    "address": "0x9282107aA3c91A38e8D9a26EA2b93669A68ad708",
+    "reward": 11800000000000000,
+    "reward_decimal": 11830517266356400
+  },
+  {
+    "address": "0xC0a21829A4AAf1CE516Ea755A6f1F17fe30E1246",
+    "reward": 3250000000000000,
+    "reward_decimal": 3248404653492430
+  },
+  {
+    "address": "0x20f619F61a4c88fD190BFB88cf991B924CFef387",
+    "reward": 5470000000000000,
+    "reward_decimal": 5471884936077640
+  },
+  {
+    "address": "0x40e9FE546bFCf3dA39EA92f8b822e0A553C1F5Da",
+    "reward": 4380000000000000,
+    "reward_decimal": 4382088295246680
+  },
+  {
+    "address": "0xB0fc4a30dD2c914aF353311183bdd79874aFdA04",
+    "reward": 29100000000000000,
+    "reward_decimal": 29130236420699100
+  },
+  {
+    "address": "0x145c3a592445eFDD25c340F6AAcFb813A8267f2D",
+    "reward": 4580000000000000,
+    "reward_decimal": 4584179310415280
+  },
+  {
+    "address": "0x3d62fAe97694203a61a281A947Cc4853904F37Ff",
+    "reward": 48600000000000000,
+    "reward_decimal": 48615298245471000
+  },
+  {
+    "address": "0x4E3C4517ce39Aa6fC77f6cF94C16F6481527c0F1",
+    "reward": 1000000000000000,
+    "reward_decimal": 1000393645500320
+  },
+  {
+    "address": "0xd256d5268CA25C52434F7CA622C4A553FEdF0C6D",
+    "reward": 5100000000000000,
+    "reward_decimal": 5097791373622340
+  },
+  {
+    "address": "0x3d51661Ae11aA0840D0ef2aA41B389fD35254748",
+    "reward": 1210000000000000,
+    "reward_decimal": 1212162798427110
+  },
+  {
+    "address": "0xDc633707253D118E32632E199a4F9d49720173D7",
+    "reward": 59600000000000000,
+    "reward_decimal": 59649908460148700
+  },
+  {
+    "address": "0x53F06b10244CEdf4EC50c8218Ef2C37435185829",
+    "reward": 1180000000000000,
+    "reward_decimal": 1178624697284860
+  },
+  {
+    "address": "0xA083e8824D2CFC6dB4478736237Fe4db3B1396d7",
+    "reward": 6700000000000000,
+    "reward_decimal": 6704362241482350
+  },
+  {
+    "address": "0x2595272e1FA0a6619735D66c6B519d8BCDc2Dae4",
+    "reward": 3250000000000000,
+    "reward_decimal": 3247963867020280
+  },
+  {
+    "address": "0xA26605548AB413404e02AF52b94438A5b203E847",
+    "reward": 18700000000000,
+    "reward_decimal": 18685513493540.5
+  }
+]
