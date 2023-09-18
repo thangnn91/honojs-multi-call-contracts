@@ -1,6 +1,6 @@
 export const rpc = {
   // zkSync: "https://mainnet.era.zksync.io",
-  zkSync: "https://rpc.ankr.com/zksync_era/2908c4d5e87d8f061b61fb521bacdf48b08c7bad97b594b7d7c4833a8c7f9ecb"
+  zkSync: "https://zksync-era.rpc.thirdweb.com"
 };
 
 export const contracts = {
@@ -10,6 +10,7 @@ export const contracts = {
   agency: "0x9E970fC1433351EB618D5822143492951384E310",
   tokenCredit: "0xacf75e6c016578255e22a2bb82896123e1c89a61"
 };
+export const ETH_NATIVE_ADDRESS = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 export const welcomeHtml = `<style>
   body {
     margin: 0px;

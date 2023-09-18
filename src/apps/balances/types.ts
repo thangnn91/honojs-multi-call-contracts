@@ -11,8 +11,8 @@ export interface ResponseMultipleCall {
 export interface CallsReturnContext {
   returnValues: unknown
   decoded: boolean
-  reference: string
-  methodName: string
+  reference?: string
+  methodName?: string
   token: string
   success: boolean
 }

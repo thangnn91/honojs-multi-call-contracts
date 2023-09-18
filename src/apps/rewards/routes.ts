@@ -15,6 +15,7 @@ import Snapshot from "../../datas/snapshot67.json";
 import { logger } from "@libs/logger";
 import { CallsReturnContext, RequestBotAddresses } from "./types";
 import { userRewardValidation } from "./validation";
+import { calclateReward } from "./helpers";
 const web3 = new Web3(rpc.zkSync);
 const rewards = new Hono();
 const ROUND_LENGTH = 50;
@@ -270,8 +271,68 @@ rewards.post("/nft-rewards", async (c) => {
     return c.json({ responseMultipleCall, errorData });
 });
 
+rewards.post("/token-credit-rewards", validator('json', (value, c) => {
+    const parsed = userRewardValidation.safeParse(value);
+    if (!parsed.success) {
+        return c.text('Invalid!', 401)
+    }
+    return parsed.data
+}), async (c) => {
+    const { addresses } = c.req.valid('json')
+    let params: any[] = [];
+    let params2: any[] = [];
+    for (const i of addresses) {
+        const param = {
+            reference: i,
+            contractAddress: contracts.tokenCredit,
+            abi: Credit.abi,
+            calls: [
+                {
+                    reference: "calculateRewardsEarned",
+                    methodName: "calculateRewardsEarned",
+                    methodParameters: [i],
+                },
+            ],
+        };
+        params.push(param);
+
+        const param2 = {
+            reference: i,
+            contractAddress: contracts.tokenCredit,
+            abi: Credit.abi,
+            calls: [
+                {
+                    reference: "userEarn",
+                    methodName: "userEarn",
+                    methodParameters: [i],
+                },
+            ],
+        };
+        params2.push(param2);
+    }
+    const multicall = new Multicall({
+        web3Instance: web3,
+        tryAggregate: true,
+        multicallCustomContractAddress: contracts.multipleCall,
+    });
+    const contractCallContext: ContractCallContext[] = params;
+
+    const results: ContractCallResults = await multicall.call(
+        contractCallContext
+    );
+
+    const contractCallContext2: ContractCallContext[] = params2;
+
+    const results2: ContractCallResults = await multicall.call(
+        contractCallContext2
+    );
+    const { result, error } = calclateReward(results, results2);
+
+    return c.json({ result, error });
+})
 
 rewards.post("/snapshot", async (c) => {
+    throw new Error("Not implemented");
     const body = (await c.req.json()) as unknown as RequestBotAddresses;
     if (!body || !body.bots || !body.bots.length) {
         return c.json({ status: 401, message: "The request payload is required" });

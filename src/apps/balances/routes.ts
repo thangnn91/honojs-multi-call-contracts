@@ -1,6 +1,6 @@
 import { Hono } from "hono";
 import Web3 from "web3";
-import { contracts, rpc } from "@libs/constants";
+import { contracts, ETH_NATIVE_ADDRESS, rpc } from "@libs/constants";
 import {
   ContractCallContext,
   ContractCallResults,
@@ -9,6 +9,7 @@ import {
 import Erc20Token from "@abis/ERC20.json";
 import { CallsReturnContext, RequestTokens } from "./types";
 import { logger } from "@libs/logger";
+import { ethers } from "ethers";
 const web3 = new Web3(rpc.zkSync);
 const balances = new Hono();
 
@@ -49,10 +50,19 @@ balances.post("/multiple-tokens", async (c) => {
   let responseMultipleCall: CallsReturnContext[] = [];
   const resultData = results?.results;
   if (resultData) {
+    const balanceInWei = await web3.eth.getBalance(body.owner);
+    responseMultipleCall = [...responseMultipleCall, {
+      token: ETH_NATIVE_ADDRESS,
+      decoded: false,
+      returnValues: [{
+        type: "BigNumber",
+        hex: `0x${Number(balanceInWei).toString(16)}`
+      }],
+      success: true
+    }];
     for (const key in resultData) {
       const data = { token: key, ...resultData[key].callsReturnContext[0] } as CallsReturnContext;
-      console.log("🚀 ~ file: routes.ts:49 ~ balances.post ~ results:", resultData[key].callsReturnContext[0])
-      responseMultipleCall.push(data)
+      responseMultipleCall = [...responseMultipleCall, data];
     }
   }
   else {
