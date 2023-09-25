@@ -3,9 +3,7 @@ import { CallsReturnContext } from "./types";
 
 export const calclateReward = (data1: ContractCallResults, data2: ContractCallResults): { result: CallsReturnContext[], error: string[] } => {
     const { result, errors } = _calculateReward(data1);
-    console.log("🚀 ~ file: helpers.ts:6 ~ calclateReward ~ result:", result)
     const { result: result2, errors: errors2 } = _calculateReward(data2);
-    console.log("🚀 ~ file: helpers.ts:8 ~ calclateReward ~ result:", result2)
     const finalData = sumObjectsByKey(sumItem, result, result2);
     return { result: finalData as CallsReturnContext[], error: errors.concat(errors2) }
 }
@@ -41,7 +39,7 @@ const sumObjectsByKey = (sumFn, ...arrs) => Array.from(
 
 // utility function to sum to object values (without the id)
 const sumItem = ({ address, ...a }, b) => ({
-    address,
+    address: address,
     ...Object.keys(a)
         .reduce((r, k) => ({ ...r, [k]: a[k] + b[k] }), {})
 });

@@ -2,6 +2,7 @@ import { Hono } from "hono";
 import { validator } from 'hono/validator';
 import Web3 from "web3";
 import { contracts, rpc } from "@libs/constants";
+import { splitArray, randomIntFromInterval, sleep } from "@libs/utils";
 import {
     ContractCallContext,
     ContractCallResults,
@@ -278,57 +279,68 @@ rewards.post("/token-credit-rewards", validator('json', (value, c) => {
     }
     return parsed.data
 }), async (c) => {
-    const { addresses } = c.req.valid('json')
-    let params: any[] = [];
-    let params2: any[] = [];
-    for (const i of addresses) {
-        const param = {
-            reference: i,
-            contractAddress: contracts.tokenCredit,
-            abi: Credit.abi,
-            calls: [
-                {
-                    reference: "calculateRewardsEarned",
-                    methodName: "calculateRewardsEarned",
-                    methodParameters: [i],
-                },
-            ],
-        };
-        params.push(param);
+    const { addresses } = c.req.valid('json');
+    let responses: any[] = [];
+    let errors: any[] = [];
+    const stakerIndexParts = splitArray(addresses, 50);
+    console.log("🚀 ~ file: routes.ts:286 ~ rewards.post ~ stakerIndexParts:", stakerIndexParts)
+    for (const addresses of stakerIndexParts) {
+        let params: any[] = [];
+        let params2: any[] = [];
+        for (const i of addresses) {
+            const param = {
+                reference: i,
+                contractAddress: contracts.tokenCredit,
+                abi: Credit.abi,
+                calls: [
+                    {
+                        reference: "calculateRewardsEarned",
+                        methodName: "calculateRewardsEarned",
+                        methodParameters: [i],
+                    },
+                ],
+            };
+            params.push(param);
 
-        const param2 = {
-            reference: i,
-            contractAddress: contracts.tokenCredit,
-            abi: Credit.abi,
-            calls: [
-                {
-                    reference: "userEarn",
-                    methodName: "userEarn",
-                    methodParameters: [i],
-                },
-            ],
-        };
-        params2.push(param2);
+            const param2 = {
+                reference: i,
+                contractAddress: contracts.tokenCredit,
+                abi: Credit.abi,
+                calls: [
+                    {
+                        reference: "userEarn",
+                        methodName: "userEarn",
+                        methodParameters: [i],
+                    },
+                ],
+            };
+            params2.push(param2);
+        }
+        const multicall = new Multicall({
+            web3Instance: web3,
+            tryAggregate: true,
+            multicallCustomContractAddress: contracts.multipleCall,
+        });
+        const contractCallContext: ContractCallContext[] = params;
+
+        const results: ContractCallResults = await multicall.call(
+            contractCallContext
+        );
+
+        const contractCallContext2: ContractCallContext[] = params2;
+
+        const results2: ContractCallResults = await multicall.call(
+            contractCallContext2
+        );
+        const { result, error } = calclateReward(results, results2);
+        console.log("🚀 ~ file: routes.ts:336 ~ rewards.post ~ error:", error)
+        console.log("🚀 ~ file: routes.ts:336 ~ rewards.post ~ result:", result)
+        responses = responses.concat(result);
+        errors = errors.concat(error);
+        await sleep(randomIntFromInterval(100, 300) * 10);
     }
-    const multicall = new Multicall({
-        web3Instance: web3,
-        tryAggregate: true,
-        multicallCustomContractAddress: contracts.multipleCall,
-    });
-    const contractCallContext: ContractCallContext[] = params;
 
-    const results: ContractCallResults = await multicall.call(
-        contractCallContext
-    );
-
-    const contractCallContext2: ContractCallContext[] = params2;
-
-    const results2: ContractCallResults = await multicall.call(
-        contractCallContext2
-    );
-    const { result, error } = calclateReward(results, results2);
-
-    return c.json({ result, error });
+    return c.json({ responses, errors });
 })
 
 rewards.post("/snapshot", async (c) => {
