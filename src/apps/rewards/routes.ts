@@ -1,7 +1,7 @@
 import { Hono } from "hono";
 import { validator } from 'hono/validator';
 import Web3 from "web3";
-import { contracts, rpc } from "@libs/constants";
+import { CONTRACTS, RPCS } from "@libs/constants";
 import { splitArray, randomIntFromInterval, sleep } from "@libs/utils";
 import {
     ContractCallContext,
@@ -12,18 +12,25 @@ import NftReward from "@abis/NftRewardAbi.json";
 import Referral from "@abis/Referral.json";
 import Agency from "@abis/Agency.json";
 import Credit from "@abis/TokenCredit.json";
-import Snapshot from "../../datas/snapshot67.json";
+import Staking from "@abis/Staking.json";
 import { logger } from "@libs/logger";
-import { CallsReturnContext, RequestBotAddresses } from "./types";
-import { userRewardValidation } from "./validation";
-import { calclateReward } from "./helpers";
-const web3 = new Web3(rpc.zkSync);
+import { CallsReturnContext, RequestBotAddresses, StakingReturnContext } from "./types";
+import { listAddressValidation as userRewardValidation } from "@libs/validation";
+import { calculateReward } from "./helpers";
+import { Worker } from 'worker_threads';
+import * as path from 'path';
+import { fetchExistedData, processReward, truncate } from "./workerxx";
+import { ethers, Wallet } from "ethers";
+import Erc20 from '@abis/ERC20.json';
+
+let requesting = false;
+const web3 = new Web3(RPCS.zkSync);
 const rewards = new Hono();
 const ROUND_LENGTH = 50;
 rewards.post("/v1/nft-rewards", async (c) => {
     const body = (await c.req.json()) as unknown as RequestBotAddresses;
     if (!body || !body.bots || !body.bots.length) {
-        return c.json({ status: 401, message: "The request payload is required" });
+        return c.json({ status: 400, message: "The request payload is required" });
     }
     logger.info(`request: ${JSON.stringify(body)}`);
     const bots = body.bots;
@@ -34,7 +41,7 @@ rewards.post("/v1/nft-rewards", async (c) => {
     for (let j = fromRound; j < toRound; j++) {
         const param = {
             reference: `roundtokens_${j}`,
-            contractAddress: contracts.nftReward,
+            contractAddress: CONTRACTS.nftReward,
             abi: NftReward.abi,
             calls: [
                 {
@@ -50,7 +57,7 @@ rewards.post("/v1/nft-rewards", async (c) => {
         for (let j = fromRound; j < toRound; j++) {
             const param = {
                 reference: `roundorders_${i}_${j}`,
-                contractAddress: contracts.nftReward,
+                contractAddress: CONTRACTS.nftReward,
                 abi: NftReward.abi,
                 calls: [
                     {
@@ -66,7 +73,7 @@ rewards.post("/v1/nft-rewards", async (c) => {
     const multicall = new Multicall({
         web3Instance: web3,
         tryAggregate: true,
-        multicallCustomContractAddress: contracts.multipleCall,
+        multicallCustomContractAddress: CONTRACTS.multiCall,
     });
     const contractCallContext: ContractCallContext[] = params;
 
@@ -95,7 +102,7 @@ rewards.post("/v1/nft-rewards", async (c) => {
                 }
                 else {
                     let callObject = responseMultipleCall.find(o => o.address === keyPath[1])
-                    callObject.pendingReward += (Number(resultData[key].callsReturnContext[0].returnValues[0].hex)) * roundTokens / ROUND_LENGTH;
+                    callObject.pendingReward = +callObject.pendingReward + (Number(resultData[key].callsReturnContext[0].returnValues[0].hex)) * roundTokens / ROUND_LENGTH;
                 }
             }
         }
@@ -109,16 +116,17 @@ rewards.post("/v1/nft-rewards", async (c) => {
 rewards.post("/standard-rewards", validator('json', (value, c) => {
     const parsed = userRewardValidation.safeParse(value);
     if (!parsed.success) {
-        return c.text('Invalid!', 401)
+        return c.text('Invalid request payload!', 400)
     }
     return parsed.data
 }), async (c) => {
-    const { addresses } = c.req.valid('json')
+    const { addresses } = c.req.valid('json');
+
     let params: any[] = [];
     for (const i of addresses) {
         const param = {
             reference: i,
-            contractAddress: contracts.referral,
+            contractAddress: CONTRACTS.referral,
             abi: Referral.abi,
             calls: [
                 {
@@ -133,7 +141,7 @@ rewards.post("/standard-rewards", validator('json', (value, c) => {
     const multicall = new Multicall({
         web3Instance: web3,
         tryAggregate: true,
-        multicallCustomContractAddress: contracts.multipleCall,
+        multicallCustomContractAddress: CONTRACTS.multiCall,
     });
     const contractCallContext: ContractCallContext[] = params;
 
@@ -163,7 +171,7 @@ rewards.post("/standard-rewards", validator('json', (value, c) => {
 rewards.post("/agency-rewards", validator('json', (value, c) => {
     const parsed = userRewardValidation.safeParse(value);
     if (!parsed.success) {
-        return c.text('Invalid!', 401)
+        return c.text('Invalid request payload!', 400)
     }
     return parsed.data
 }), async (c) => {
@@ -172,7 +180,7 @@ rewards.post("/agency-rewards", validator('json', (value, c) => {
     for (const i of addresses) {
         const param = {
             reference: i,
-            contractAddress: contracts.agency,
+            contractAddress: CONTRACTS.agency,
             abi: Agency.abi,
             calls: [
                 {
@@ -187,7 +195,7 @@ rewards.post("/agency-rewards", validator('json', (value, c) => {
     const multicall = new Multicall({
         web3Instance: web3,
         tryAggregate: true,
-        multicallCustomContractAddress: contracts.multipleCall,
+        multicallCustomContractAddress: CONTRACTS.multiCall,
     });
     const contractCallContext: ContractCallContext[] = params;
 
@@ -197,27 +205,14 @@ rewards.post("/agency-rewards", validator('json', (value, c) => {
     let responseMultipleCall: CallsReturnContext[] = [];
     let errorData: string[] = [];
     const resultData = results?.results;
-    if (resultData) {
-        for (const key in resultData) {
-            if (resultData[key].callsReturnContext[0].success) {
-                responseMultipleCall.push({
-                    address: key,
-                    pendingReward: Number(resultData[key].callsReturnContext[0].returnValues[0].hex)
-                });
-            }
-            else {
-                errorData.push(key);
-            }
 
-        }
-    }
     return c.json({ responseMultipleCall, errorData });
 })
 
 rewards.post("/nft-rewards", async (c) => {
     const body = (await c.req.json()) as unknown as RequestBotAddresses;
     if (!body || !body.bots || !body.bots.length) {
-        return c.json({ status: 401, message: "The request payload is required" });
+        return c.json({ status: 400, message: "The request payload is required" });
     }
     logger.info(`request: ${JSON.stringify(body)}`);
     const bots = body.bots;
@@ -225,7 +220,7 @@ rewards.post("/nft-rewards", async (c) => {
     for (const i of bots) {
         const param = {
             reference: i,
-            contractAddress: contracts.nftReward,
+            contractAddress: CONTRACTS.nftReward,
             abi: NftReward.abi,
             calls: [
                 {
@@ -240,7 +235,7 @@ rewards.post("/nft-rewards", async (c) => {
     const multicall = new Multicall({
         web3Instance: web3,
         tryAggregate: true,
-        multicallCustomContractAddress: contracts.multipleCall,
+        multicallCustomContractAddress: CONTRACTS.multiCall,
     });
     const contractCallContext: ContractCallContext[] = params;
 
@@ -273,38 +268,40 @@ rewards.post("/nft-rewards", async (c) => {
 });
 
 rewards.post("/token-credit-rewards", validator('json', (value, c) => {
+    if (requesting) {
+        return c.text('Processing!! Please wait', 400);
+    }
     const parsed = userRewardValidation.safeParse(value);
     if (!parsed.success) {
-        return c.text('Invalid!', 401)
+        return c.text('Invalid!', 400);
     }
     return parsed.data
 }), async (c) => {
     const { addresses } = c.req.valid('json');
-    let responses: any[] = [];
-    let errors: any[] = [];
-    const stakerIndexParts = splitArray(addresses, 50);
-    console.log("🚀 ~ file: routes.ts:286 ~ rewards.post ~ stakerIndexParts:", stakerIndexParts)
+    console.log("🚀 ~ file: routes.ts:287 ~ rewards.post ~ addresses:", addresses);
+    requesting = true;
+    truncate();
+    processReward(addresses, () => {
+        console.log("==============Finished processing==============");
+        requesting = false;
+    });
+    return c.json('Accepted. Please wait!!');
+})
+
+rewards.get("/token-credit-rewards/data", async (c) => {
+    return c.json(fetchExistedData());
+})
+
+rewards.post("/user-earn", async (c) => {
+    const allAddresses = (await c.req.json()) as unknown as string[];
+    const stakerIndexParts = splitArray(allAddresses, 400);
+    let response: any[] = [];
     for (const addresses of stakerIndexParts) {
         let params: any[] = [];
-        let params2: any[] = [];
         for (const i of addresses) {
             const param = {
                 reference: i,
-                contractAddress: contracts.tokenCredit,
-                abi: Credit.abi,
-                calls: [
-                    {
-                        reference: "calculateRewardsEarned",
-                        methodName: "calculateRewardsEarned",
-                        methodParameters: [i],
-                    },
-                ],
-            };
-            params.push(param);
-
-            const param2 = {
-                reference: i,
-                contractAddress: contracts.tokenCredit,
+                contractAddress: CONTRACTS.tokenCredit,
                 abi: Credit.abi,
                 calls: [
                     {
@@ -314,33 +311,122 @@ rewards.post("/token-credit-rewards", validator('json', (value, c) => {
                     },
                 ],
             };
-            params2.push(param2);
+            params.push(param);
         }
         const multicall = new Multicall({
             web3Instance: web3,
             tryAggregate: true,
-            multicallCustomContractAddress: contracts.multipleCall,
+            multicallCustomContractAddress: CONTRACTS.multiCall,
         });
         const contractCallContext: ContractCallContext[] = params;
-
         const results: ContractCallResults = await multicall.call(
             contractCallContext
         );
-
-        const contractCallContext2: ContractCallContext[] = params2;
-
-        const results2: ContractCallResults = await multicall.call(
-            contractCallContext2
-        );
-        const { result, error } = calclateReward(results, results2);
-        console.log("🚀 ~ file: routes.ts:336 ~ rewards.post ~ error:", error)
-        console.log("🚀 ~ file: routes.ts:336 ~ rewards.post ~ result:", result)
-        responses = responses.concat(result);
-        errors = errors.concat(error);
-        await sleep(randomIntFromInterval(100, 300) * 10);
+        const { result, error } = calculateReward(results);
+        response.push(result)
     }
 
-    return c.json({ responses, errors });
+
+    return c.json({ response });
+});
+
+rewards.post("/multicall-mint-ugold", async (c) => {
+    const provider = new ethers.providers.JsonRpcProvider(RPCS.zkSync);
+    const wallet = new Wallet("-------------------------------------------", provider);
+    const allAddresses = (await c.req.json()) as unknown as string[];
+    const taker = splitArray(allAddresses, 400);
+    let response: any[] = [];
+    for (const addresses of taker) {
+        let params: any[] = [];
+        for (const i of addresses) {
+            const param = {
+                reference: i,
+                contractAddress: CONTRACTS.uGold,
+                abi: Erc20.abi,
+                calls: [
+                    {
+                        reference: "mint",
+                        methodName: "mint",
+                        methodParameters: [i, 200000000],
+                    },
+                ],
+            };
+            params.push(param);
+        }
+        const multicall = new Multicall({
+            ethersProvider: wallet.provider,
+            tryAggregate: true,
+            multicallCustomContractAddress: CONTRACTS.multiCall,
+        });
+        console.log("🚀 ~ file: routes.ts:373 ~ rewards.post ~ multicall:", multicall)
+        const contractCallContext: ContractCallContext[] = params;
+        const results: ContractCallResults = await multicall.call(
+            contractCallContext
+        );
+        response.push(results)
+    }
+    return c.json({ response });
+});
+
+rewards.post("/staking-rewards", validator('json', (value, c) => {
+    const parsed = userRewardValidation.safeParse(value);
+    if (!parsed.success) {
+        return c.text('Invalid payload request!', 400)
+    }
+    return parsed.data
+}), async (c) => {
+    const { addresses } = c.req.valid('json');
+
+    let params: any[] = [];
+    for (const i of addresses) {
+        const stakingRewardParam = {
+            reference: i,
+            contractAddress: CONTRACTS.staking,
+            abi: Staking.abi,
+            calls: [
+                {
+                    reference: "pendingRewardUsdc",
+                    methodName: "pendingRewardUsdc",
+                    methodParameters: [i],
+                },
+                {
+                    reference: "users",
+                    methodName: "users",
+                    methodParameters: [i],
+                },
+            ],
+        };
+        params.push(stakingRewardParam);
+    }
+    const multicall = new Multicall({
+        web3Instance: web3,
+        tryAggregate: true,
+        multicallCustomContractAddress: CONTRACTS.multiCall,
+    });
+    const contractCallContext: ContractCallContext[] = params;
+
+    const results: ContractCallResults = await multicall.call(
+        contractCallContext
+    );
+    let responseMultipleCall: StakingReturnContext[] = [];
+    let errorData: string[] = [];
+    const resultData = results?.results;
+    if (resultData) {
+        for (const key in resultData) {
+            if (resultData[key].callsReturnContext[0].success && resultData[key].callsReturnContext[1].success) {
+                responseMultipleCall.push({
+                    address: key,
+                    pendingReward: resultData[key].callsReturnContext[0].returnValues[0].hex?.toString(),
+                    havestedReward: resultData[key].callsReturnContext[1].returnValues[2].hex?.toString(),
+                });
+            }
+            else {
+                errorData.push(key);
+            }
+
+        }
+    }
+    return c.json({ responseMultipleCall, errorData });
 })
 
 rewards.post("/snapshot", async (c) => {
@@ -352,10 +438,10 @@ rewards.post("/snapshot", async (c) => {
     logger.info(`request: ${JSON.stringify(body)}`);
     const bots = body.bots;
     let params: any[] = [];
-    for (const i of Snapshot) {
+    for (const i of []) {
         const param = {
             reference: i.address,
-            contractAddress: contracts.tokenCredit,
+            contractAddress: CONTRACTS.tokenCredit,
             abi: Credit.abi,
             calls: [
                 {
@@ -370,7 +456,7 @@ rewards.post("/snapshot", async (c) => {
     const multicall = new Multicall({
         web3Instance: web3,
         tryAggregate: true,
-        multicallCustomContractAddress: contracts.multipleCall,
+        multicallCustomContractAddress: CONTRACTS.multiCall,
     });
     const contractCallContext: ContractCallContext[] = params;
 

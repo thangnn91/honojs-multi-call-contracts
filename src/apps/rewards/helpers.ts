@@ -1,11 +1,10 @@
 import { ContractCallResults } from "ethereum-multicall";
 import { CallsReturnContext } from "./types";
 
-export const calclateReward = (data1: ContractCallResults, data2: ContractCallResults): { result: CallsReturnContext[], error: string[] } => {
+export const calculateReward = (data1: ContractCallResults): { result: CallsReturnContext[], error: string[] } => {
     const { result, errors } = _calculateReward(data1);
-    const { result: result2, errors: errors2 } = _calculateReward(data2);
-    const finalData = sumObjectsByKey(sumItem, result, result2);
-    return { result: finalData as CallsReturnContext[], error: errors.concat(errors2) }
+    //const finalData = sumObjectsByKey(sumItem, result, []);
+    return { result: result, error: errors.concat([]) }
 }
 
 const _calculateReward = (data: ContractCallResults) => {
@@ -17,7 +16,7 @@ const _calculateReward = (data: ContractCallResults) => {
             if (resultData[key].callsReturnContext[0].success) {
                 responseMultipleCall.push({
                     address: key,
-                    pendingReward: Number(resultData[key].callsReturnContext[0].returnValues[0].hex)
+                    pendingReward: BigInt(resultData[key].callsReturnContext[0].returnValues[0].hex).toString(10)
                 });
             }
             else {

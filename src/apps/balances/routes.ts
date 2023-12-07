@@ -1,6 +1,6 @@
 import { Hono } from "hono";
 import Web3 from "web3";
-import { contracts, ETH_NATIVE_ADDRESS, rpc } from "@libs/constants";
+import { CONTRACTS, ETH_NATIVE_ADDRESS, RPCS } from "@libs/constants";
 import {
   ContractCallContext,
   ContractCallResults,
@@ -10,7 +10,7 @@ import Erc20Token from "@abis/ERC20.json";
 import { CallsReturnContext, RequestTokens } from "./types";
 import { logger } from "@libs/logger";
 import { ethers } from "ethers";
-const web3 = new Web3(rpc.zkSync);
+const web3 = new Web3(RPCS.zkSync);
 const balances = new Hono();
 
 balances.post("/multiple-tokens", async (c) => {
@@ -39,7 +39,7 @@ balances.post("/multiple-tokens", async (c) => {
   const multicall = new Multicall({
     web3Instance: web3,
     tryAggregate: true,
-    multicallCustomContractAddress: contracts.multipleCall,
+    multicallCustomContractAddress: CONTRACTS.multiCall,
   });
   const contractCallContext: ContractCallContext[] = params;
 

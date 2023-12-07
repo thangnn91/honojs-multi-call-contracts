@@ -1,5 +1,5 @@
 import { z } from 'zod';
 
-export const userRewardValidation = z.object({
+export const listAddressValidation = z.object({
     addresses: z.array(z.string()).nonempty(),
 });

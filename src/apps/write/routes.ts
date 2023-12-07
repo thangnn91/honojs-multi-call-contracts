@@ -1,6 +1,6 @@
 import { Hono } from "hono";
 import Web3 from "web3";
-import { contracts, rpc } from "@libs/constants";
+import { CONTRACTS, RPCS } from "@libs/constants";
 import {
     ContractCallContext,
     ContractCallResults,
@@ -13,7 +13,7 @@ import { RequestTransfer } from "./types";
 import { mapCallContextToMatchContractFormat, MultiCallParams } from "@libs/utils";
 import { ethers } from "ethers";
 import { parseEther } from "ethers/lib.commonjs/utils";
-const web3 = new Web3(rpc.zkSync);
+const web3 = new Web3(RPCS.zkSync);
 const write = new Hono();
 
 write.post("/transfer", async (c) => {
@@ -37,7 +37,7 @@ write.post("/transfer", async (c) => {
         } as MultiCallParams]
     }
     const multicallContract = '--------------------';
-    const provider = ethers.getDefaultProvider(rpc.zkSync);
+    const provider = ethers.getDefaultProvider(RPCS.zkSync);
     const signer = new ethers.Wallet(process.env.PORT, provider);
     const contractFactory = new ethers.Contract(
         multicallContract,

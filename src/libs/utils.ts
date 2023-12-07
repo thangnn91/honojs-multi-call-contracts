@@ -1,3 +1,5 @@
+import * as fs from 'fs';
+const baseFileName = 'log.txt' as const;
 export type MultiCallParams = {
     target: string;
     calldata: string;

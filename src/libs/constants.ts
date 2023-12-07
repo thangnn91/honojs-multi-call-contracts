@@ -1,14 +1,17 @@
-export const rpc = {
-  // zkSync: "https://mainnet.era.zksync.io",
+export const RPCS = {
+  //zkSync: "https://zksync2-testnet.zksync.dev",
   zkSync: "https://zksync-era.rpc.thirdweb.com"
 };
 
-export const contracts = {
-  multipleCall: "0x47898B2C52C957663aE9AB46922dCec150a2272c",
+export const CONTRACTS = {
+  multiCall: "0x47898B2C52C957663aE9AB46922dCec150a2272b",//mainnet
+  //multiCall: "0xba6248a1D7575c763C46fF595Df9C9543258Bbd7", //testnet
   nftReward: "0x1c927a23dd85fa1e0f50444c92cf76bdc8bbfaa8",
   referral: "0x51b7d02e5b308d9c648b3c6c800c9b996c171435",
   agency: "0x9E970fC1433351EB618D5822143492951384E310",
-  tokenCredit: "0xacf75e6c016578255e22a2bb82896123e1c89a61"
+  tokenCredit: "0xacf75e6c016578255e22a2bb82896123e1c89a61",
+  uGold: "0x9298437023e6246A60f2481c55bBc9cBB14F147d",
+  staking: "0x7cF68AA037c67B6dae9814745345FFa9FC7075b1"
 };
 export const ETH_NATIVE_ADDRESS = "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 export const welcomeHtml = `<style>

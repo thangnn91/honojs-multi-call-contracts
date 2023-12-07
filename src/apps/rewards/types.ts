@@ -6,5 +6,9 @@ export type RequestBotAddresses = {
 
 export interface CallsReturnContext {
     address: string
-    pendingReward: number
+    pendingReward: number | string
+}
+
+export interface StakingReturnContext extends CallsReturnContext {
+    havestedReward: number | string
 }
