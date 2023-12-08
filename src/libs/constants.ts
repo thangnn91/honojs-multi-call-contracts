@@ -1,10 +1,10 @@
 export const RPCS = {
   //zkSync: "https://zksync2-testnet.zksync.dev",
-  zkSync: "https://zksync-era.rpc.thirdweb.com"
+  zkSync: "https://mainnet.era.zksync.io"
 };
 
 export const CONTRACTS = {
-  multiCall: "0x47898B2C52C957663aE9AB46922dCec150a2272b",//mainnet
+  multiCall: "0x47898B2C52C957663aE9AB46922dCec150a2272c",//mainnet
   //multiCall: "0xba6248a1D7575c763C46fF595Df9C9543258Bbd7", //testnet
   nftReward: "0x1c927a23dd85fa1e0f50444c92cf76bdc8bbfaa8",
   referral: "0x51b7d02e5b308d9c648b3c6c800c9b996c171435",
